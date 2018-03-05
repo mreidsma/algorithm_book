@@ -1,0 +1,3 @@
+…he [Paul Viola] built a software program that would comb through images online and try to detect objects in them. The program could easily recognize white faces, but it had trouble detecting faces of Asians and blacks. Mr. Viola eventually traced the error back to the source: In his original data set of about 5,000 images, whites predominated.
+
+Dwoskin, E. (2015). How Social Bias Creeps Into Web Technology; Software can lead to unintended errors, potentially unfair outcomes. *Wall Street Journal (Online)*, August 21, 2015. Retrieved from https://www.wsj.com/articles/computers-are-showing-their-biases-and-tech-firms-are-concerned-1440102894
