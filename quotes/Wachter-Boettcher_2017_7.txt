@@ -1,0 +1,7 @@
+…when applied to people and their identities, rather than to a product’s features, the term ‘edge case’ is problematic—because it assumes there’s such a thing as an ‘average’ user in the first place. 
+
+p. 38
+
+When designers call someone an edge case, they imply that they’re not important enough to care about—that they’re outside the bounds of concern. In contrast, a stress case shows designers how strong their work is—and where it breaks down.
+
+p. 40

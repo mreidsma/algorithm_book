@@ -1,0 +1,5 @@
+..[Dylan Roof’s case] highlights just how much influence technology—and the way technology is designed—has over what people believe is true. That’s not by accident, writes sociologist Miriam E. Sweeney. She claims it’s an explicit part of Google’s design, which “frames the search process as informational, unbiased, and scientific.” She writes:
+
+> The simple, sparse design works to obscure the complexity of the interface, making the result appear purely scientific and data-driven. This is an image Goog,e actively cultivates. The company has explicitly claimed its results to be neutral, standing behind the authority of its ‘objective’ algorithmic ranking system … The insistence of the scientific ‘truth’ of algorithmic search has encouraged users to view search as an objective and neutral experience.
+
+p. 142

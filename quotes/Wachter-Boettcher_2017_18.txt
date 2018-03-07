@@ -1,0 +1,5 @@
+But Yelp can’t actually *know* which restaurant is the best option for you at a given moment, so instead its algorithm uses what it does know about you and about the restaurants in its database, to make an educated guess. It does this by taking all the factors that Yelp’s product team decided were relevant—restaurants you’ve reviewed in the past, restaurants you’ve viewed in the past, how close a restaurant is to you, whether other people tended to say it’s good for dinner whether they used the term ‘dinner’ in their reviews, the total number of reviews the restaurant has, its star rating, and many, many more items—and running them through a proprietary system of weighting and ranking those variables. The result is a prioritized list that helps you, the user, choose a restaurant.
+
+p. 124
+
+proxies for relevance

@@ -1,0 +1,3 @@
+…as powerful as algorithms are, they’re not inherently “correct.” They’re just a series of steps and rules, applied to a set of data, designed to reach an outcome. The questions we need to ask are, Who decided what that desired outcome was? Where did the data come from? How did they define “good” or “fair” results? And how might that definition leave people behind? Otherwise, it’s far too easy for teams to carry the biases of that past with them into their software, creating algorithms that, at best, make a / product less effective for some users—and at worst, wreak havoc on their lives.
+
+pp. 128-9

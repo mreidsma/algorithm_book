@@ -1,0 +1,3 @@
+In other words, if a system like Word2vec is fed data that reflects historical biases, then those biases will be reflected in the resulting word embeddings. … all kinds of companies are using [Word2vec] as the foundation for other products. These products include recommendation engines…, document classification, and search engines—all without considering the implications of relying on data that reflects historical biases and outdated norms to make future predictions.
+
+p. 139

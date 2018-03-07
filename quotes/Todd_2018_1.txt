@@ -1,0 +1,5 @@
+ CS 101, for instance, won’t help you recognize that an engineering team is picking one algorithm over another, making choices about how to represent the data that algorithm processes, or possibly implementing the algorithm incorrectly!
+ 
+ -Nick Seaver
+ 
+ Todd, M. (2018, February 15). Nick Seaver on Dissecting the Algorithmic Organism. Retrieved from https://www.methodspace.com/nick-seaver-dissecting-algorithmic-organism/

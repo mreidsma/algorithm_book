@@ -1,0 +1,3 @@
+Forms inherently put us in a vulnerable position, because each request for information forces us to define ourselves: I am this, I am not that. And they force us to reveal ourselves: This happened to me.
+
+p. 51

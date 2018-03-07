@@ -1,0 +1,3 @@
+After all, the same biases that lead teams to launch a product that assumes all its users are straight, or a sign-up form that assumes people aren’t multiracial, are what lead them to launch machine-learning products that are just as exclusive and alienating—and, even worse, locked in a black box, where they’re all but invisible.
+
+p. 121

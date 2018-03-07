@@ -1,0 +1,9 @@
+A proxy is a stand-in for real knowledge—similar to the personas that designers use as a stand-in for their real audience. But in this case, we’re talking about proxy data: when you don’t have a piece of information about a user that you want, you use data you *do* have to infer that information.
+
+p. 110
+
+In short, proxy data can actually make a system *less* accurate over time, not more, without you even realizing it. Yet much of the data stored about us is proxy data, from ZIP codes being used to predict creditworthiness, to SAT scores being used to predict teens’ driving habits.
+
+p. 111
+
+Re: Google inferring gender and age from web browser behaviors

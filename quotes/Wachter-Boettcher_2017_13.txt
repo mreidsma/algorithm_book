@@ -1,0 +1,9 @@
+Facebook has an internal metric that it uses alongside the typical DAUs (daily active users) and MAUs (monthly active users). It calls this metric CAUs, for “Cares about us.” CAUs gauge precisely what they sound like: how much the users believe that Facebook cares about them.
+
+…
+
+But the metric doesn’t gauge whether Facebook *actually* cares about users. All that matters is whether you *feel* like it does.
+
+p. 97
+
+Proxies proxy

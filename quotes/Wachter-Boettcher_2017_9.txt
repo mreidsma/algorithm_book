@@ -1,0 +1,3 @@
+The problem, though, is that making interactions feel smooth and simple sounds nice, but it starts to fail as soon as you’re asking users for messy, complicated information. And as you’ll see in this chapter, all kinds of everyday questions can be messy and complicated—often in ways designers haven’t predicted.
+
+p. 52

@@ -1,0 +1,5 @@
+if an algorithm is the sum of many, many ordinary human decisions, then we need to know something about the frames of reference those decisions are made in if we want to understand why the algorithm has come to work the way it does.
+
+-Nick Seaver
+
+ Todd, M. (2018, February 15). Nick Seaver on Dissecting the Algorithmic Organism. Retrieved from https://www.methodspace.com/nick-seaver-dissecting-algorithmic-organism/
