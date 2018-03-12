@@ -1,11 +1,51 @@
 
+Ananny, M. (2011, April 14). The curious connection between apps for gay men ad sex offenders. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/
 
+Bavocas, S., & Selbst, A. (2016). Big Data's disparate impact. *104 California Law Review, 671*. Retrieved from https://ssrn.com/abstract=2477899
+
+Beer, S. (2002). What is Cybernetics? *Kybernetes, 31*(2). pp. 209-19.
+
+Blanke, T. (2005). Ethical subjectification and search engines: Ethics reconsidered. *International Review of Information Ethics, 3*. pp. 33-38.
+
+Bogost, I. (2015, January). The cathedral of computation. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/
+
+Boguslaw, R. (1971). Systems of power and the power of systems. In A. Westin (Ed.), *Information Technology in a democracy.* Cambridge, MA: Harvard University Press. pp. 419-31.
+
+Christian, B., & Griffiths, T. (2017). *Algorithms to live by: the computer science of human decisions.* New York: Henry Holt.
+
+Dormehl, L. (2014). *The formula: How algorithms solve all our problems--and create more.* New York: Penguin.
 
 Dwoskin, E. (2015). How Social Bias Creeps Into Web Technology; Software can lead to unintended errors, potentially unfair outcomes. *Wall Street Journal (Online)*, August 21, 2015. Retrieved from https://www.wsj.com/articles/computers-are-showing-their-biases-and-tech-firms-are-concerned-1440102894
 
+Ekström, A. (2015, January). *The moral bias behind your search results.* Video File. Retrieved from https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results
+
+Epstein, R., & Robertson, R. (2015, August). The search engine manipulation effect (SEME) and its possible impact on the outcomes of elections. *Proceedings of the National Academy of Sciences of the United States, 112*(33). pp. E4512-E4521
+
+Eslami, M., Rickman, A., Vaccaro, K., Aleyasen, A., Vuong, A., Karahalios, K., Hamilton, K., & Sandivig, C. (2015). "I always assumed that I wasn't really close to [her]": Reasoning about invisible algorithms in news feeds. *33rd Annual ACM Conference on Human Factors in Computing Systems.* pp. 153- 162.
+
+Executive Office of the President. (2014). *Big Data: Seizing opportunitie, preserving values.*
+
 Fisher, A. (2018, February 13). All Sides with Ann Fisher: Tech Tuesday: Cybersecurity at the Olympics, Search Engine Bias. Retrieved from http://radio.wosu.org/post/tech-tuesday-cybersecurity-olympics-search-engine-bias#stream/0
 
+Gillespie, T. (2012). Can an algorithm be wrong? *Limn, 1*(2). Retrieved from https://limn.it/can-an-algorithm-be-wrong/
+
+-- (2014). The relevance of algorithms. In T. Gillespie & P. Boczkowski (Eds.) *Media Technologies: Essays on communication, materiality, and society.* Cambridge, MA: MIT Press. pp. 167-194.
+
+Greenfield, A. (2017). *Radical Technologies: The design of everyday life.* London: Verso.
+
+Halavais, A. (2009). *Search engine society*. Cambridge, UK: Polity.
+
+Hall, E. (2013). *Just Enough Research*. New York: A Book Apart.
+
+Introna, L., & Nissenbaum, H. (2000). Shaping the web: Why the politics of search engines matters. *The Information Society, 16*(3). pp. 169-185.
+
+Joachims, T., Granka, L.A., Pan, B., Hembrooke, H., Radlinski, F., & Gay, G. (2007). Evaluating the accuracy of implicit feedback from clicks and query reformulations in web search. *ACM Transactions on Information Systems, 25*(2). pp. 1-27.
+
+Lankes, D. (2008). Trusting the internet: New approaches to credibility tools. In M. Metzger & A. J. Flanagin (Eds.) *Digital Media, Youth, and Credibility.* Cambridge, MA: MIT Press. pp. 101-121.
+
 Lewis, P. (2017). 'Our minds can be hijacked': the tech insiders who fear a smartphone dystopia. *The Guardian*, 10/6/2017. Retrieved from https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
+
+Lohr, S. (2015). *Data-ism: The revolution transforming decision making, consumer behavior, and almost everything else.* New York: Harper Business.
 
 Noble, S. (2016, June 10). *Challenging the Algorithms of Oppression*. Talk presented at the Personal Democracy Forum, New York, New York. Retrieved from https://www.youtube.com/watch?v=iRVZozEEWIE
 
