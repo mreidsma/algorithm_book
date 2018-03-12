@@ -19,5 +19,7 @@ Todd, M. (2018, February 15). Nick Seaver on Dissecting the Algorithmic Organism
 
 Wachter-Boettcher, S. (2017). *Technically Wrong: Sexist apps, biased algorithms, and other threats of toxic tech*. New York: W.W. Norton.
 
+Weizenbaum, J. (1976). *Computer power and human reason: From judgment to calculation*. New York: W.H. Freeman.
+
 
 

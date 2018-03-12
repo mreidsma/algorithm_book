@@ -1,0 +1,3 @@
+Programming systems can, of course, be built without plan and without knowledge, let alone understanding, of the deep structural issues involved, just as houses, cities, systems of dams, and national economic policies can be similarly hacked together. As a system so constructed begins to get large, however, it also becomes increasingly unstable. When one of its sub functions fails in an unanticipated way, it may be patched until the manifest trouble disappears. But since there is no general theory of the whole system, the system itself can be only a more or less chaotic aggregate of subsystems whose influence on one another’s behavior is discoverable only piecemeal and by experiment.
+
+p.119
