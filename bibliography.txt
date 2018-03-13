@@ -47,7 +47,31 @@ Lewis, P. (2017). 'Our minds can be hijacked': the tech insiders who fear a smar
 
 Lohr, S. (2015). *Data-ism: The revolution transforming decision making, consumer behavior, and almost everything else.* New York: Harper Business.
 
-Noble, S. (2016, June 10). *Challenging the Algorithms of Oppression*. Talk presented at the Personal Democracy Forum, New York, New York. Retrieved from https://www.youtube.com/watch?v=iRVZozEEWIE
+MacCormick, J. (2012). *9 algorithms that changed the future: The ingenious ideas that drive today's computers.* Princeton, NJ: Princeton University Press.
+
+Meyer, E., & Wachter-Boettcher, S. (2016). *Design for real life.* New York: A Book Apart.
+
+Monterio, M. (2013). *How designers destroyed the world.* Paper presented at Webstock 2013. Retrieved from https://vimeo.com/68470326
+
+Mowshowitz, A., & Kawaguchi, A. (2002). Assessing bias in search engines. *Information Processing and Management, 38*(1). pp. 141-156.
+
+-- (2005). Measuring search engine bias. *Information Processing and Management, 41*(3). pp. 1193-1205.
+
+Noble, S. (2012). Missed connections: What search engines say about women. *Bitch, 1*(54). pp. 36-41.
+
+-- (2016, March). The politics of online information: Algorithmic ethics and big data(bases) in libraries. Paper presented at Library Technology Conference 2016. Retrieved from http://www.ustream.tv/recorded/84532162
+
+-- (2016, June 10). *Challenging the Algorithms of Oppression*. Talk presented at the Personal Democracy Forum, New York, New York. Retrieved from https://www.youtube.com/watch?v=iRVZozEEWIE
+
+O'Neil, C. (2016). *Weapons of math destruction: How Big Data increases inequality and threatens democracy.* New York: Crown.
+
+Papanek, V. (1971). *Design for the real world: Human ecology and social change.* New York: Pantheon Books.
+
+Pasquale, F. (2015). *The black box society: The secret algorithms that control money and information.* Cambridge, MA: Harvard University Press.
+
+Pew Research Center. (2012, March 9). Search engine use 2012. Retrieved from http://www.pewinternet.org/2012/03/09/search-engine-use-2012/
+
+Rieh, S. Y., & Hilligoss, B. (2008). College students credibility judgments in the information-seeking process. In M. Metzger & A. Flanagin (Eds.). *Digital media, youth, and credibility.* Cambridge, MA: MIT Press. pp. 49-71.
 
 Rivera, L.A. (2017). When Two Bodies Are (Not) a Problem: Gender and Relationship Status Discrimination in Academic Hiring. *American Sociological Review*, *86*(6), pp. 1111-1138. Retrieved from https://doi.org/10.1177/0003122417739294
 
@@ -55,11 +79,27 @@ Scholes, L. (2018). “Close readings: the rise of the bibliomemoir.” *Financi
 
 Shapiro, A. (2018, February 19). All Things Considered: 'Automating Inequality': Algorithms In Public Services Often Fail The Most Vulnerable. Retrieved from https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab
 
+Sherratt, T. (2015, February 3). Seams and edges: Dreams of aggregation, access, and discovery in a broken world. Retrieved from http://discontents.com.au/seams-and-edges-dreams-of-aggregation-access-discovery-in-a-broken-world/
+
+Simon, H. (1956). Rational choice and the structure of the environment. *Psychological Review, 63*(2). pp. 129-138.
+
+Sundar, S. S. (2008). The MAIN model: A heuristic approach to understanding technology effects on credibility. In M. Metzger & A. Flanagin (Eds.). *Digital media, youth, and credibility.* Cambridge, MA: MIT Press. pp. 73-100.
+
+Sweeny, L. (2013). Discrimination in online ad delivery. *Communications of the ACM, 56*(5). pp. 44-54.
+
 Todd, M. (2018, February 15). Nick Seaver on Dissecting the Algorithmic Organism. Retrieved from https://www.methodspace.com/nick-seaver-dissecting-algorithmic-organism/
+
+Turkle, S. (1997). *Life on the screen: Identity in the age of the internet.* New York: Simon and Schuster.
+
+Vaidhyanathan, S. (2011). *The Googlization of everything (and why we should worry).* Berkely: University of California Press.
+
+Vaughan, L., & Thelwall, M. (2004). Search engine coverage bias: Evidence and possible causes. *Information Processing and Management, 40*(2). pp. 693-707.
 
 Wachter-Boettcher, S. (2017). *Technically Wrong: Sexist apps, biased algorithms, and other threats of toxic tech*. New York: W.W. Norton.
 
 Weizenbaum, J. (1976). *Computer power and human reason: From judgment to calculation*. New York: W.H. Freeman.
+
+Wiener, N. (1954). *The human use of human beings: Cybernetics and society.* Garden City, NY: Doubleday Anchor Books.
 
 
 
