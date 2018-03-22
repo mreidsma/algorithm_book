@@ -1,0 +1,3 @@
+The choice of proxy variables, even the choice to use proxies at all, reflects human discretion.
+
+p. 167

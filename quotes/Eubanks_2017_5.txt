@@ -1,0 +1,5 @@
+[In the past,] The target had to be identified before the watcher could surveil.
+
+In contrast, in new data-based surveillance, the *target often emerges from the data*. The targeting comes after the data collection, not before.
+
+p. 122

@@ -1,0 +1,5 @@
+A model that has no degree of predictive ability—its chances of being right are about the same as the chances of guessing heads or tails in a coin toss—would have a 50 percent fit under the ROX curve. The AFST’s initial fit in the area under the ROC curve is 76 percent, about the same as the predictive accuracy of a yearly mammogram.
+
+Seventy-six percent might sound pretty good, but it’s only halfway between a coin toss and perfect prediction.
+
+p. 145

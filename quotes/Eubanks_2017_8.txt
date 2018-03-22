@@ -1,0 +1,3 @@
+The model [VI-SPDAT] counts prison as housing.
+
+p. 126
