@@ -1,0 +1,5 @@
+Rational discrimination [Oscar Gandy’s concept from the Panoptic Sort] does not require class or racial hatred, or even unconscious bias, to operate. It only requires ignoring bias that already exists. When automated decision-making tools are not built to explicitly dismantle structural inequities, their speed and scale intensify them.
+
+p. 190
+
+[cf. also Beer on “the purpose of a system is what it does.”]

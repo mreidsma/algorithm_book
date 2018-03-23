@@ -1,0 +1,5 @@
+At lectures, conferences, and gatherings, I am often approached by engineers or data scientists who want to talk about the economic and social implications of their designs. I tell them to do a quick “gut check” by answering two questions: /
+
+* Does the tool increase the self-determination and agency of the poor?
+* Would the tool be tolerated if it was targeted at non-poor people?
+pp. 211-212

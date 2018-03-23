@@ -1,0 +1,25 @@
+Oath of Non-Harm for an Age of Big Data
+
+I swear to fulfill, to the best of my ability, the following covenant:
+
+I will respect all people of their integrity and wisdom, understanding that they are experts in their own lives, and will gladly share with them all the benefits of my knowledge.
+
+I will use my skills and resources to create bridges for human potential, not barriers. I will create tools that remove obstacles between resources and the people who need them.
+
+I will not use my technical knowledge to compound the disadvantages created by historic patterns of racism, classism, / able-ism, sexism, homophobia, xenophobia, transphobia, religious intolerance, and other forms of oppression.
+
+I will design with history in mind. To ignore a four-century-long pattern of punishing the poor is to be complicit in the “unintended” but terribly predictable consequences that arise when equity and good intentions are assumed as initial conditions.
+
+I will integrate systems for the needs of people, not data. I will choose system integration as a mechanism to attain human needs, not to facilitate ubiquitous surveillance.
+
+I will not collect data for data’s sake, nor keep it just because I can.
+
+When informed consent and design convenience come into conflict, informed consent will always prevail.
+
+I will design no data-based system that overturns an established legal right of the poor.
+
+I will remember that technologies I design are not aimed at data points, probabilities, or patterns, but at human beings.
+
+pp. 212-213
+
+[The last point reminds me of Chimero’s piece “The Space Between You and Me.”]
