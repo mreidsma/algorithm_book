@@ -1,0 +1,5 @@
+The associate professor of sociology at Arizona State University and former president of the Association of Internet Researchers Alex Halavais points to the way that heavily used technological artifacts such as the search engine have become such a normative part of our experience with digital technology and computers that they socialize us into believing that these artifacts must therefore also provide access to credible, accurate information that is depoliticized and neutral:
+
+Those assumptions are dangerously flawed; … unpacking the black box of the search engine is something of interest not only to technologists and marketers, but to anyone who wants to understand how we make sense of a newly networked world. Search engines have come to play a central role in corralling and controlling the ever-growing sea of information that is available to us, and et they are trusted more readily than they ought to be. They freely provide, it seems, a sorting of the wheat from the chaff, and answer our most profound and trivial questions. They have become an object of faith.  (Halavais, 2009, 1-2)
+
+Noble, 2017, p. 25

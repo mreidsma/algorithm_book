@@ -1,0 +1,3 @@
+The interface of the search engine as a mechanism for accessing the Internet is not immune, nor impartial, to the concerns of embedded value systems. Search is also more than the specific mathematical algorithms and deep-machine learning developed by computer scientists and software engineers to index upward of a trillion pages of information and move some from the universal data pile to the first page of results on a computer screen. The interface on the screen presents an information reality / while the operations are rendered increasingly invisible.
+
+Noble, 2017, p. 148

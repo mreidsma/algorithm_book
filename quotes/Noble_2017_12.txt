@@ -1,0 +1,5 @@
+In essence, while users use the simplest queries they can in a / search box because of the way interfaces are designed, this does not always reflect how search terms are mapped against more complex thought patterns and concepts that users have about a topic.
+
+Noble, 2017, pp. 37-38
+
+Basically, “how we think is not what we type“
