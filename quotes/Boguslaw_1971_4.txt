@@ -1,0 +1,3 @@
+The credo of an engineer designing systems composed exclusively of physical or ‘hardware’ components includes the assumption that all functions performed by the components will be **manifest** (that is, ‘intended and recognized’ by the designer). **Latent** functions (those that are neither intended or recognized) are hopefully omitted. The same credo is held by designers of classical utopias.
+
+Boguslaw, 1971, p.419

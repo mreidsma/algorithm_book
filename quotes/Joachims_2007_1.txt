@@ -1,0 +1,3 @@
+…there is a “trust bias” which leads to more clicks on links ranked highly by Google, even if those abstracts are less relevant than other abstracts the user viewed… This shows that clicks have to be interpreted relative to the order of presentation and relative to the other abstracts.
+
+Joachims et al, 2007, p. 3
