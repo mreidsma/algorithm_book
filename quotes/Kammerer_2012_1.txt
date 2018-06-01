@@ -1,0 +1,3 @@
+To conclude, standard SERPs [Search Engine Result Page] might not provide sufficient affordances for Web searchers to select search results based on their own evaluations. It seems that instead of taking over the responsibility for the cognitively demanding task of evaluating and selecting search results on their own, general Web search engine users tend to rely on superficial, but prominent cues such as the ranking position of the search results or the keywords displayed in the search results.
+
+Kammerer & Gerjets, 2012, p. 261

@@ -1,7 +1,11 @@
 
 Ananny, M. (2011, April 14). The curious connection between apps for gay men ad sex offenders. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/
 
+Barron, S. and Preater, A. (2018). Critical systems librarianship. In Nicholson, K. P. and Seale, M. Eds. *The Politics and the practice of critical librarianship.* Sacramento, CA: Library Juice Press. pp. 87-113.
+
 Bavocas, S., & Selbst, A. (2016). Big Data's disparate impact. *104 California Law Review, 671*. Retrieved from https://ssrn.com/abstract=2477899
+
+Beer, D. (2017). The social power of algorithms. *Information, Communication & Society, 20*(1). pp. 1-13. DOI: 10.1080/1369118X.2016.1216147
 
 Beer, S. (2002). What is Cybernetics? *Kybernetes, 31*(2). pp. 209-19.
 
@@ -11,7 +15,13 @@ Bogost, I. (2015, January). The cathedral of computation. *The Atlantic*. Retrie
 
 Boguslaw, R. (1971). Systems of power and the power of systems. In A. Westin (Ed.), *Information Technology in a democracy.* Cambridge, MA: Harvard University Press. pp. 419-31.
 
+Bozdag, E. (2013). Bias in algorithmic filtering and personalization. *Ethics of Information Technology, 15*. pp. 209-227. DOI: 10.1007/s10676-013-9321-6
+
+Breland, A. (2017). White code, black faces. *Logic*, (3). pp. 195-203.
+
 Christian, B., & Griffiths, T. (2017). *Algorithms to live by: the computer science of human decisions.* New York: Henry Holt.
+
+Corbefl-Davies, S.,Pierson, E., Feller, A., Goel, S., and Huq, A. (2017). Algorithmic decision making and the cost of fairness. *Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.* pp. 797-806. DOI:10.1145/3097983.3098095
 
 Dormehl, L. (2014). *The formula: How algorithms solve all our problems--and create more.* New York: Penguin.
 
@@ -43,9 +53,15 @@ Introna, L., & Nissenbaum, H. (2000). Shaping the web: Why the politics of searc
 
 Joachims, T., Granka, L.A., Pan, B., Hembrooke, H., Radlinski, F., & Gay, G. (2007). Evaluating the accuracy of implicit feedback from clicks and query reformulations in web search. *ACM Transactions on Information Systems, 25*(2). pp. 1-27.
 
+Kammerer, Y., and Gerjets, P. (2012). How search engine users evaulate and select web search results: The impact of seach engine interface on credibility assessments. In Lewandowski, D. ed. *Web Search engine research.* TK: Emerald Publishing Limited. pp. 251-279.
+
+Kitchin, R. (2017). Thinking critically about and researching algorithms. *Information, Communication & Society, 20*(1). pp. 14-29. DOI: 10.1080/1369118X.2016.1154087
+
 Lankes, D. (2008). Trusting the internet: New approaches to credibility tools. In M. Metzger & A. J. Flanagin (Eds.) *Digital Media, Youth, and Credibility.* Cambridge, MA: MIT Press. pp. 101-121.
 
 Lewis, P. (2017). 'Our minds can be hijacked': the tech insiders who fear a smartphone dystopia. *The Guardian*, 10/6/2017. Retrieved from https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
+
+Li, F. (2018, March 8). How to make A.I. human-friendly. *The New York Times*.
 
 Lohr, S. (2015). *Data-ism: The revolution transforming decision making, consumer behavior, and almost everything else.* New York: Harper Business.
 
@@ -67,9 +83,13 @@ Noble, S. (2012). Missed connections: What search engines say about women. *Bitc
 
 -- (2017). *Algorithms of Oppression: How search engines reinforce racism*. New York: New York University Press.
 
+Noble, S. and Roberts, S. T. (2017). Engine failure: Safiya Umoja Noble and Sarah T. Roberts on the problems of platform capitalism. *Logic*, (3). pp. 89-99.
+
 O'Neil, C. (2016). *Weapons of math destruction: How Big Data increases inequality and threatens democracy.* New York: Crown.
 
 Papanek, V. (1971). *Design for the real world: Human ecology and social change.* New York: Pantheon Books.
+
+Parmar, B., and Freeman, E. (2016). Ethics and the Algorithm. *MIT Sloan Management Review, 58*(1). 
 
 Pasquale, F. (2015). *The black box society: The secret algorithms that control money and information.* Cambridge, MA: Harvard University Press.
 
@@ -104,6 +124,8 @@ Wachter-Boettcher, S. (2017). *Technically Wrong: Sexist apps, biased algorithms
 Weizenbaum, J. (1976). *Computer power and human reason: From judgment to calculation*. New York: W.H. Freeman.
 
 Wiener, N. (1954). *The human use of human beings: Cybernetics and society.* Garden City, NY: Doubleday Anchor Books.
+
+Willson, M. (2017). Algorithms (and the) everyday. *Information, Communication & Society, 20*(1). pp. 137-150. DOI: 10.1080/1369118X.2016.1200645
 
 
 

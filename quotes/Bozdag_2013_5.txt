@@ -1,0 +1,3 @@
+Joachims and Radlinski (2007) show that the way a search engine presents results to the user has a strong influence on how users act. In their study, for all results below the third rank, users did not even look at the result for more than half the queries.
+
+Bozdag, 2013, p. 220

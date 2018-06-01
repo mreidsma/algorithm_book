@@ -1,0 +1,3 @@
+…online services that process (social) data are not merely algorithms; they are complex systems composed of human operators and technology. Contrary to popular belief, humans do not only take part in developing them, but they also affect the way the work once implemented.
+
+Bozdag, 2013, p. 210

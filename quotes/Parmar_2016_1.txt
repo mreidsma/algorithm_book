@@ -1,0 +1,3 @@
+…it’s important to note that the software code used to make judgments about us based on our preferences for shoes or how we get to work is written by human beings, who are making choices about what that data means and how it should shape our behavior. That code is not value neutral—it contains many judgments about who we are, who we should become, and how we should live.
+
+Parmar and Freeman, 2016.

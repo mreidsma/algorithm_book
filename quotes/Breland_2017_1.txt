@@ -1,0 +1,5 @@
+Experts like Joy Buolamwini, a researcher at the MIT Media Lab, think that facial recognition software has problems recognizing black faces because its algorithms are usually written by white engineers who dominate the technology sector. These engineers build on pre-existing code libraries, typically written by other white engineers.
+…
+The code that results is geared to focus on white faces, and mostly tested on white subjects.
+
+Breland, 2017 p. 198

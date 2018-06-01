@@ -1,0 +1,3 @@
+Bias can manifest itself when the system is used by a population with different values than those assumed in the design.
+
+Bozdag, 2013, p. 222
