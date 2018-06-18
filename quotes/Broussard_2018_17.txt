@@ -1,0 +1,3 @@
+Working with columns of numbers feels value-neutral and occasionally tedious. There’s a certain amount of dehumanization that occurs when you deal only with numbers. It’s not easy to remember that each row in a dataset represents a real person with hopes, dreams, a family, and a history.
+
+Broussard, 2018, p. 109

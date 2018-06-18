@@ -1,0 +1,3 @@
+Automation will handle a lot of the mundane work; it won’t handle the edge / cases. The edge cases require hand curation. You need to build in human effort for the edge cases, or they won’t get done.
+
+Broussard, 2018, pp. 176-177

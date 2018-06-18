@@ -1,0 +1,3 @@
+The difference between a human-in-the-loop system and an autonomous system is like th difference between a drone and a jet pack. The difference matters for effective software design. If you expect the computer to do magical things, you’ll be disappointed. If you expect it to speed things up, you’ll be fine.
+
+Broussard, 2018, p. 187

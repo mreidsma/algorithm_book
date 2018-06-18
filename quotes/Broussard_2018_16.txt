@@ -1,0 +1,3 @@
+Here’s an open secret of the big data world: *all data is dirty*. All of it. Data is made by people going around and counting things or made by sensors that are made by people. In every seemingly orderly column of numbers, there is noise.
+
+Broussard, 2018, p. 103

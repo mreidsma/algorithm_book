@@ -1,0 +1,3 @@
+One way to understand narrow AI is this: narrow AI can give you the most likely answer to any question that can be answered with a number. It involves quantitative prediction. Narrow AI is statistics on steroids.
+
+Broussard, 2018, p. 32

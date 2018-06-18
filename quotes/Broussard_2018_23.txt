@@ -1,0 +1,3 @@
+Computer scientists and engineers, following the precedent set by Minsky and previous generations, don’t tend to think through the precedent that they’re establishing or the implications of small design decisions.
+
+Broussard, 2018, p. 145

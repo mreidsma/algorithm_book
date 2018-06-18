@@ -1,0 +1,3 @@
+Somehow, in the past two decades, many of us began to assume that computers get it right and humans get it wrong. We started saying things like, “Computers are better because they are more objective than people.” Computers have become so pervasive in every aspect of our lives that when something goes awry in the machine, we assume that it’s our fault, rather than assume something went wrong within the thousands of lines of code that make up the average computer program. In reality, as any software developer can tell you, the problem is usually in the machine somewhere. It’s probably in poorly designed or tested code, cheap hardware, or a profound misunderstanding of how the actual users would use the system.
+
+Broussard, 2018, p. 8

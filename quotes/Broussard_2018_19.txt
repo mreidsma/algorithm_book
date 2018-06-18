@@ -1,0 +1,3 @@
+Data is unreasonably effective [term from Eugene Wiger’s article ‘the unreasonable effectiveness of mathematics in the natural sciences”] — seductively so, even. This explains why we can build a classifier that seems to predict with 97 percent accuracy whether a passenger survives the *Titanic* disaster and why a computer can defeat a human G champion. It also explains why, when we look closely at what happens during the machine-learning process, the machine doesn’t take into account any of the flukes that humans know happen in real-life disaster situations. Data is very effective. However, the data-driven approach ignores a number of factors that humans think matter a great deal.
+
+Broussard, 2018, p. 118

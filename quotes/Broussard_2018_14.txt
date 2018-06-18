@@ -1,0 +1,3 @@
+….computer scientists know that machine “learning” is more akin to a metaphor in this case: it means that the machine can improve at its programmed, routine, automated tasks. It doesn’t mean that the machine acquires knowledge or wisdom or agency, despite what the term *learning* might imply. This type of linguistic confusion is at the root of many misconceptions about computers.
+
+Broussard, 2018, p. 89

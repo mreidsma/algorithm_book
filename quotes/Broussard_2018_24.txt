@@ -1,0 +1,3 @@
+[Re: using popularity as a proxy for good] This type of mistake is quite common among computational researchers who do not critically reflect on the social values and human behaviors that lead to statistics being produced.. … By selecting for popularity, the data scientists created a model that had significant bias [for what made a good selfie]: it prioritized young, white, cisgendered images of women that fit a narrow, heteronormative definition of attractiveness.
+
+Broussard, 2018, p. 150

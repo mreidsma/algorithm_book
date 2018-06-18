@@ -1,0 +1,3 @@
+What computers get wrong, though, they get wrong because they’re created by humans in particular social and historical contexts. Technologists have particular disciplinary priorities that guide their decisions about developing algorithms for decision making. Often, thee priorities lead them to obscure the role of human beings in creating technological systems or training data; worse, it leads them to ignore the consequences of automation on the workplace.
+
+Broussard, 2018, p. 199

@@ -1,0 +1,3 @@
+But in software, things can work without really working *well*. It’s not a binary situation. A person can’t be a little bit pregnant, but a software program can be a little bit functional.
+
+Broussard, 2018, p. 190

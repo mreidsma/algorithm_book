@@ -1,0 +1,3 @@
+The machine is not really learning; the search process is just inspired by human learning. If you read the math, which is all posted online, it’s very clear that these calculations are not magic and are just math. The computer will get enough things right enough o the time that we may be tempted to call it mostly correct—but it will get things right for exactly the wrong reasons.
+
+Broussard, 2018, p. 119

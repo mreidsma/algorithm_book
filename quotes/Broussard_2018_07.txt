@@ -1,0 +1,3 @@
+We tend to think of data as immutable truth, but we forget that data and data-collection systems are created by people. … Even the best data-collection system is useless if the are no people available to manage it.
+
+Broussard, 2018, p. 57
