@@ -1,0 +1,3 @@
+“Understanding search engines as indexes means that the searcher is able to create a mental model of a webpage that meets their needs, and then can pick the search terms that are likely to be present on that page.“
+
+Halavais, 2009, p. 37

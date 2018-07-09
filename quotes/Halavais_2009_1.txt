@@ -1,0 +1,3 @@
+“The use of computing systems in libraries has formed an important basis for how search engines now work … many of the techniques now used by search engines were first used by library indexes.”
+
+Halavais, 2009, p. 12
