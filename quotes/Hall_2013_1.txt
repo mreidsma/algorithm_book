@@ -1,0 +1,3 @@
+“By designing for yourself of your team, you are potentially building discrimination right into your product. Your assumptions about the age, gender, ethnicity, sexuality, and physical or cognitive abilities of your users might lead to barriers you don’t actually intend—barriers that don’t serve your business goals or ethics.”
+
+Hall, 2013, p. 79

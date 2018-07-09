@@ -1,0 +1,9 @@
+The number of hypotheticals and the artificial constraints the authors of this book apply to each example is telling: algorithms do not easily fit with the messy world. Instead, the way the world is represented within the algorithm must be simplified (thus terminating the connection to reality promised at the outset.)
+
+Assumptions of the authors:
+
+* efficiency is always the goal
+* people are exactly like processors
+* the individual can be explained by the generalization
+
+Re: Christian & Griffiths, 2017

@@ -1,0 +1,3 @@
+“…researchers have paid particular attention to algorithms when outputs are unexpected or when the risk exists that the algorithm might promote antisocial, political, economic, geographic, racial, or other discrimination.”
+
+Eslami et al, 2015, p. 154

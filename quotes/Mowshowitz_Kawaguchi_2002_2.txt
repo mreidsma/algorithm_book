@@ -1,0 +1,3 @@
+“The role played by retrieval systems as gateways to information coupled with the absence of mechanisms to insure fairness makes bias in such systems an important social issue.”
+
+Mowshowitz & Kawaguchi, 2002, p. 143

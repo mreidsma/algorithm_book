@@ -1,0 +1,3 @@
+Algorithms “take a complex system from the world and abstract it into processes that capture some of that system’s logic and discard others.”
+
+Bogost, 2015

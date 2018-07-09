@@ -1,0 +1,3 @@
+“One of the implicit principles of computer science, as odd as it may sound, is that computation is *bad*: the underlying directive of any good algorithm is to minimize the labor of thought.“
+
+Christian & Griffiths, 2017, p. 258

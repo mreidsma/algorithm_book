@@ -1,0 +1,3 @@
+“No matter how many clever algorithms are invented in the future, there will always be problems whose answers are ‘uncomputable’”.
+
+McCormick, 2012, p. 174

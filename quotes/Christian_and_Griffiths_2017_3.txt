@@ -1,0 +1,5 @@
+“Most broadly, looking through the lens of computer science can teach us about the nature of the human mind, the meaning of rationality, and the oldest question of all: how to live.”
+
+Christian & Griffiths, 2017, p. 4
+
+Assumption: mind == computer - cf. Greenfield p. 52

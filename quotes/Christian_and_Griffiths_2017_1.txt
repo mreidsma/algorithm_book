@@ -1,0 +1,5 @@
+“…an algorithm is just a finite sequence of steps used to solve a problem … / When you cook from a recipe, you’re following an algorithm. When you knit a sweater from a pattern, you’re following an algorithm. When you put a sharp edge on a piece of flint by executing a precise sequence of strikes with the end of an antler—a key step in making fine stone tools—you’re following an algorithm.”
+
+Christian & Griffiths, 2017, pp.3-4
+
+Conceptual leap that a series of steps for making tools == computer algorithms.

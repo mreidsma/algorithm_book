@@ -1,0 +1,3 @@
+“interface value” - if the UI is simple, then the underlying mechanism must also be simple.
+
+Turtle, 1997

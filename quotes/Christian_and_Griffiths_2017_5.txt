@@ -1,0 +1,3 @@
+“In the hard cases, the best algorithms are all about doing what makes the most sense in the least amount of time, which by no means involves giving careful consideration to every factor and pursuing every computation to the end.”
+
+Christian & Griffiths, 2017, p. 261

@@ -1,0 +1,3 @@
+“In practice, search engines combine matching and ranking into a single process for efficiency. But the two phases are conceptually separate…“
+
+McCormick, 2012, p. 11

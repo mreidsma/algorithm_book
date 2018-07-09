@@ -1,0 +1,3 @@
+“Up against such hard cases, effective algorithms make assumptions, show a bias toward simpler solutions, trade off the costs of error against the costs of delay, and take chances.“
+
+Christian & Griffiths, 2017, p. 262

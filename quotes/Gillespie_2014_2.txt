@@ -1,0 +1,3 @@
+“‘relevant’ is a fluid and loaded judgment … engineers must decide what looks ‘right’ and tweak their algorithm to attain that result … or make changes based on evidence from their users, treating quick clicks and no follow-up searches as an approximation, not of relevance exactly, but of satisfaction.”
+
+Gillespie, 2014, p. 175
