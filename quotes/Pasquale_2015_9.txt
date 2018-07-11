@@ -1,0 +1,3 @@
+“but software engineers construct the datasets mined by scoring systems; they define the parameters of data mining analyses; they create the clusters, links, and decision trees applied; they generate the predictive models applied. Human biases and values are embedded into each and every step of development. Computerization may simply drive discrimination upstream.“
+
+Pasquale, 2015, p. 35
