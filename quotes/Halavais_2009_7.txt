@@ -1,0 +1,3 @@
+“Douglas Engelbart, who may be considered the father of the / user interface, has long argued that information systems and users co-evolve. (Englebart & Lehyman, 1988) … It is not enough to react to the user, or create systems to respond to existing needs; the designer must understand the current user, and at the same time anticipate how the system might change the user.”
+
+Halavais, 2009, p. 33

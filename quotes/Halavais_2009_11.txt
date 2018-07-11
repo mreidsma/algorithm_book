@@ -1,0 +1,3 @@
+“Most search engines now add a script to allow them to track which links the user clicks … / it is possible to infer the relevance of the produced results by seeing which items the user clicks through (Joachims et al, 2007)“
+
+Halavais, 2009, p. 47
