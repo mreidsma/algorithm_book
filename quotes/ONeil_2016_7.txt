@@ -1,0 +1,3 @@
+“But human decision making, while often flawed, has one chief virtue. It can evolve. As human beings learn and adapt, we change, and so do our processes. Automated systems, by contrast, / stay stuck in time until engineers dive in to change them.“
+
+O’Neil, 2016, pp. 203-4

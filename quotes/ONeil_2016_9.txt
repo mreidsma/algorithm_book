@@ -1,0 +1,3 @@
+“if the company does in fact carry out bias audits, its preference is to keep them internal. That way they shield the algorithms inner workings, and its prejudices, from outsiders. But insiders, suffering as we all do from confirmation bias, are more likely to see what they expect to find.“
+
+O’Neil, 2016, p. 212

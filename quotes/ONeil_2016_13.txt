@@ -1,0 +1,3 @@
+“Models like this will abound in coming years, assessing our risk of osteoporosis or strokes, swooping in to help struggling students with calculus II, even predicting the people most likely to suffering life-altering falls. Many of these models, like some of the WMDs we’ve discussed, will arrive with the best intentions. But they must also delivery transparency, disclosing the input data they’re using as well as the results of their targeting. And they must be open to audits. These are powerful engines, after all. We must keep our eyes on them.“
+
+O’Neil, 2016, p. 218

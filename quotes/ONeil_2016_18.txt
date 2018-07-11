@@ -1,0 +1,3 @@
+“…”statistical systems require feedback—something to tell them when they’re off track. / … Without feedback, however, a statistical engine can continue spinning out faulty and damaging analysis while never learning from its mistakes. … They define their own reality and use it to justify their results.”
+
+O’Neil, 2016, p. 6-7

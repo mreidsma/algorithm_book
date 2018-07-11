@@ -1,0 +1,3 @@
+“The math-powered applications powering the data economy were based on choices made by fallible human beings. … many of these models encoded human prejudice, misunderstanding, and bias into the software systems that increasingly managed our lives.“
+
+O’Neil, 2016, p. 3

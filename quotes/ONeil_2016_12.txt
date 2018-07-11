@@ -1,0 +1,3 @@
+“… algorithmic audits. The first step, before digging into the software code, is to carry our research. We’d begin by treating the WMD as a black box that takes in data and spits out conclusions. … By studying these outputs, we could piece together the assumptions behind the model and score them for fairness.”
+
+O’Neil, 2016, p. 208

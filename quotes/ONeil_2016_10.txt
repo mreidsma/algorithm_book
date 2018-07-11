@@ -1,0 +1,3 @@
+“…models are constructed not just from data but from the choices we make about which data to pay attention to—and which to leave out. Those choices are not just about logistics, profits, and efficiency. They are fundamentally moral.”
+
+O’Neil, 2016, p. 218
