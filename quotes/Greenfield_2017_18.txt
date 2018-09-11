@@ -1,0 +1,5 @@
+“Again, we see some easily measured value used as a proxy for a reality that is harder to quantify, and again we see the distortion of ostensibly neutral results by the choices made by the algorithms designers.”
+
+Describing the RAND fire department response time algorithm to allocate fire resources.
+
+Greenfield, 2017, p. 58

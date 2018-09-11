@@ -1,0 +1,5 @@
+Re:Miles Wernick’s ‘Heat List’ algorithm
+
+“But we constantly need to remind ourselves that somebody designed that model—if not Wernick himself, then some other specific, identifiable actor, operating inside history. Somebody selected its sources, devised its features and weightings, or at the very least validate that some attribute happened upon by an automated feature-extraction process was indeed a likely signifier of criminal intent. At every step of the way, human judgments were folded into the ostensibly neutral operation of th algorithm.”
+
+Greenfield, 2017, p. 233

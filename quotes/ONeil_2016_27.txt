@@ -1,0 +1,3 @@
+“Statistically speaking, in these attempts to free the tests from class and color, the administrators moved from a primary to a secondary model. Instead of basing scores on direct measurement of the students, they based them on the so-called error term—the gap between results and expectations. Mathematically, this is a much sketchier proposition. Since the expectations themselves are derived from statistics, these amount to guesses on top of guesses. The result is a model with loads of random results, what statisticians call ‘noise’.“
+
+O’Neil, 2016, p. 137

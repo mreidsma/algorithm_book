@@ -1,0 +1,3 @@
+“Humans in the data economy are outliers and throwbacks. The systems are built to run automatically as much as possible. … Errors are inevitable, as in any statistical program, but the quickest way to reduce them is to fine-tune the / algorithms running the machines. Humans on the ground only gum up the works.“
+
+O’Neil, 2016, p. 153-54

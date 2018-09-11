@@ -1,0 +1,3 @@
+“It [an algorithm] might be able to identify, with successively finer degrees of precision, a *vehicle*, a *car*, a *police car*, a *New York City police car*. That’s straightforward enough. But how do you teach it to recognize poverty?“
+
+Greenfield, 2017, p. 238

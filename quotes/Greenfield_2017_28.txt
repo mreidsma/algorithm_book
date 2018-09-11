@@ -1,0 +1,3 @@
+“At the interfaces between different databases—which is to say, any time information passes from one company, agency, or even department into another—these different standards for the representation of information must somehow be reconciled.“
+
+Greenfield, 2017, p. 159

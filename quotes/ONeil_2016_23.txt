@@ -1,0 +1,3 @@
+“When you create a model from proxies, it is far simpler for people to game it. This is because proxies are easier to manipulate than the complicated reality they represent.”
+
+O’Neil, 2016, p. 55

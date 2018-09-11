@@ -1,0 +1,3 @@
+“Virtually everywhere, decision algorithms are touted to us on the promise that they will permanently displace human subjectivity and bias. And yet in every instance we find that these ambitions are flouted, as the technologies that were supposed to enact them are captured and recuperated by existing concentrations of power.”
+
+Greenfield, 2017, p. 303

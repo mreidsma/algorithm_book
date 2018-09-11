@@ -1,0 +1,3 @@
+“In the context of machine learning, bias means that even after extensive training, the algoriithm has failed to acquire anything essential at all about the set of target objects it’s being asked to identify.“
+
+Greenfield, 2017, p. 218

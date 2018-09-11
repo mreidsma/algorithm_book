@@ -1,0 +1,9 @@
+“Precision is an index of an algorithm’s discriminative quality, while recall is correlated with its ability to return a complete set of results.””
+
+Accuracy: were all the items identified correctly?
+Precision: were all the items known to be in a set identified as such?
+Recall: of the known items, how many were successfully identified
+
+Recall often brings many false positives
+
+Greenfield, 2017, p. 217

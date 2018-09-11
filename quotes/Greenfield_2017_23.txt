@@ -1,0 +1,3 @@
+“It demonstrates the modularity of technology, how easily an algorithm developed in one context can be ported to another. It demonstrates how a developer’s commercial interest so often overwhelms any concern they may have preserved for ethical behavior, or the fortunes of anyone affected by the tools they bring into being.“
+
+Greenfield, 2017, p. 241

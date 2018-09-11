@@ -1,0 +1,3 @@
+“Because these databases were developed by different engineers, sold by different vendors, offered to market at different times, and deployed in different cultures and contexts, no two of them behave quite the same way.”
+
+Greenfield, 2017, p. 158

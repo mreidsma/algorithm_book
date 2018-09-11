@@ -1,0 +1,3 @@
+“Overfitting means that an algorithm has ‘memorized’ training data rather than learning to generalize from it, which most often happens when the training set sharply diverges from what it experiences in the real world.”
+
+Greenfield, 2017, p. 218

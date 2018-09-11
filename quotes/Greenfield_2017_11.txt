@@ -1,0 +1,3 @@
+“We might think of it [worldview behind IoT & algorithms] as an unreconstructed logical positivism, which among other things holds that the world is in principle perfectly knowable, its contents enumerable and their relations capable of being meaningfully encoded in the state of a technical system, without bas or distortion.“
+
+Greenfield, 2017, p. 52
