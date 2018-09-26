@@ -1,6 +1,8 @@
 
 Ananny, M. (2011, April 14). The curious connection between apps for gay men ad sex offenders. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/
 
+Angwin, J. (2016, August 1). Make algorithms accountable. *New York Times.* p. A17.
+
 Barron, S. and Preater, A. (2018). Critical systems librarianship. In Nicholson, K. P. and Seale, M. Eds. *The Politics and the practice of critical librarianship.* Sacramento, CA: Library Juice Press. pp. 87-113.
 
 Bavocas, S., & Selbst, A. (2016). Big Data's disparate impact. *104 California Law Review, 671*. Retrieved from https://ssrn.com/abstract=2477899
@@ -27,7 +29,11 @@ Corbefl-Davies, S.,Pierson, E., Feller, A., Goel, S., and Huq, A. (2017). Algori
 
 Dormehl, L. (2014). *The formula: How algorithms solve all our problems--and create more.* New York: Penguin.
 
+Dowd, M. (2017, November 8). Soothsayer in the Hills Sees Silicon Valley’s Sinister Side. *New York Times.* Retrieved from https://www.nytimes.com/2017/11/08/style/jaron-lanier-new-memoir.html
+
 Dwoskin, E. (2015). How Social Bias Creeps Into Web Technology; Software can lead to unintended errors, potentially unfair outcomes. *Wall Street Journal (Online)*, August 21, 2015. Retrieved from https://www.wsj.com/articles/computers-are-showing-their-biases-and-tech-firms-are-concerned-1440102894
+
+Dwyer, J. (2017, August 25). A push to expose the computing process in city decision-making. *New York Times.* p. A18.
 
 Ekström, A. (2015, January). *The moral bias behind your search results.* Video File. Retrieved from https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results
 
@@ -45,6 +51,8 @@ Gillespie, T. (2012). Can an algorithm be wrong? *Limn, 1*(2). Retrieved from ht
 
 -- (2014). The relevance of algorithms. In T. Gillespie & P. Boczkowski (Eds.) *Media Technologies: Essays on communication, materiality, and society.* Cambridge, MA: MIT Press. pp. 167-194.
 
+Goffey, A. (2008). Algorithm. In M. Fuller (Ed.) *Software Studies: A Lexicon*. Cambridge, MA: MIT Press. pp. 15-20.
+
 Greenfield, A. (2017). *Radical Technologies: The design of everyday life.* London: Verso.
 
 Halavais, A. (2009). *Search engine society*. Cambridge, UK: Polity.
@@ -59,7 +67,11 @@ Kammerer, Y., and Gerjets, P. (2012). How search engine users evaulate and selec
 
 Kitchin, R. (2017). Thinking critically about and researching algorithms. *Information, Communication & Society, 20*(1). pp. 14-29. DOI: 10.1080/1369118X.2016.1154087
 
+Kramer, A.D.I., Guillory, J.E., and Hancock, J. T. (2014). Emotional contagion through social networks. *Proceedings of the National Academy of Sciences. 111*(24) pp. 8788-8790; DOI: 10.1073/pnas.1320040111
+
 Lankes, D. (2008). Trusting the internet: New approaches to credibility tools. In M. Metzger & A. J. Flanagin (Eds.) *Digital Media, Youth, and Credibility.* Cambridge, MA: MIT Press. pp. 101-121.
+
+Lepore, J. (2016, February 1). Baby Doe: A political history of tragedy. *The New Yorker.* pp. 46-57.
 
 Lewis, P. (2017). 'Our minds can be hijacked': the tech insiders who fear a smartphone dystopia. *The Guardian*, 10/6/2017. Retrieved from https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
 
@@ -89,6 +101,8 @@ Noble, S. and Roberts, S. T. (2017). Engine failure: Safiya Umoja Noble and Sara
 
 O'Neil, C. (2016). *Weapons of math destruction: How Big Data increases inequality and threatens democracy.* New York: Crown.
 
+-- (2016, April 27). United incident exposes flawed idea of dignity. *Grand Rapids Press.* (Also: *Bloomberg View*). p. A17.
+
 Papanek, V. (1971). *Design for the real world: Human ecology and social change.* New York: Pantheon Books.
 
 Parmar, B., and Freeman, E. (2016). Ethics and the Algorithm. *MIT Sloan Management Review, 58*(1). 
@@ -105,9 +119,13 @@ Rivera, L.A. (2017). When Two Bodies Are (Not) a Problem: Gender and Relationshi
 
 Scholes, L. (2018). “Close readings: the rise of the bibliomemoir.” *Financial Times*. February 18, 2018. Retrieved from https://www.ft.com/content/92812c26-17d4-11e8-9c33-02f893d608c2
 
+Seaver, N. (2013). Knowing algorithms. *Media in Transition, 8*. Retrieved from http://nickseaver.net/papers/seaverMiT8.pdf
+
 Shapiro, A. (2018, February 19). All Things Considered: 'Automating Inequality': Algorithms In Public Services Often Fail The Most Vulnerable. Retrieved from https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab
 
 Sherratt, T. (2015, February 3). Seams and edges: Dreams of aggregation, access, and discovery in a broken world. Retrieved from http://discontents.com.au/seams-and-edges-dreams-of-aggregation-access-discovery-in-a-broken-world/
+
+Siegler, M. G., (December 8, 2010). "Marissa Mayer’s next big thing: ‘contextual discovery’ - Google results without search.” TechCrunch. [Web site]. http://techcrunch.com/2010/12/08/googles-next-big-thing
 
 Simon, H. (1956). Rational choice and the structure of the environment. *Psychological Review, 63*(2). pp. 129-138.
 
@@ -117,6 +135,8 @@ Sweeny, L. (2013). Discrimination in online ad delivery. *Communications of the 
 
 Todd, M. (2018, February 15). Nick Seaver on Dissecting the Algorithmic Organism. Retrieved from https://www.methodspace.com/nick-seaver-dissecting-algorithmic-organism/
 
+Tufekci, Z. (2016, May 19). The real bias built in at Facebook. *New York Times.* p. A23.
+
 Turkle, S. (1997). *Life on the screen: Identity in the age of the internet.* New York: Simon and Schuster.
 
 Vaidhyanathan, S. (2011). *The Googlization of everything (and why we should worry).* Berkely: University of California Press.
@@ -125,11 +145,12 @@ Vaughan, L., & Thelwall, M. (2004). Search engine coverage bias: Evidence and po
 
 Wachter-Boettcher, S. (2017). *Technically Wrong: Sexist apps, biased algorithms, and other threats of toxic tech*. New York: W.W. Norton.
 
+Wakabayashi, D. (2018, September 6). Google's secrets revealed (sort of). *New York Times.* B1-B3.
+
 Weizenbaum, J. (1976). *Computer power and human reason: From judgment to calculation*. New York: W.H. Freeman.
 
 Wiener, N. (1954). *The human use of human beings: Cybernetics and society.* Garden City, NY: Doubleday Anchor Books.
 
 Willson, M. (2017). Algorithms (and the) everyday. *Information, Communication & Society, 20*(1). pp. 137-150. DOI: 10.1080/1369118X.2016.1200645
 
-
-
+Zinoman, J. (2018, September 10). How Netfix conquered comedy: Relying on 'taste clusters' and A-list talent to push aside its competitors. *New York Times.* pp. C1, C6.
