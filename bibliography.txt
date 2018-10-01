@@ -31,6 +31,8 @@ Corbefl-Davies, S.,Pierson, E., Feller, A., Goel, S., and Huq, A. (2017). Algori
 
 Dormehl, L. (2014). *The formula: How algorithms solve all our problems--and create more.* New York: Penguin.
 
+Dourish, P. (2016). Algorithms and their others: Algorithmic culture in context. *Big Data & Society. 3*(2): pp. 1-11.
+
 Dowd, M. (2017, November 8). Soothsayer in the Hills Sees Silicon Valley’s Sinister Side. *New York Times.* Retrieved from https://www.nytimes.com/2017/11/08/style/jaron-lanier-new-memoir.html
 
 Dwoskin, E. (2015). How Social Bias Creeps Into Web Technology; Software can lead to unintended errors, potentially unfair outcomes. *Wall Street Journal (Online)*, August 21, 2015. Retrieved from https://www.wsj.com/articles/computers-are-showing-their-biases-and-tech-firms-are-concerned-1440102894
@@ -59,11 +61,21 @@ Goffey, A. (2008). Algorithm. In M. Fuller (Ed.) *Software Studies: A Lexicon*. 
 
 Google. (2012, May 16). Introducing the knowledge graph: Things, not strings. [Web log]. Retrieved from https://googleblog.blogspot.com/2012/05/introducing-knowledge-graph-things-not.html
 
+--. (n.d.) How Search algorithms work. [Web site]. Retrieved from https://www.google.com/search/howsearchworks/algorithms/
+
+--. (n.d.) How Search Works. [Web site]. Retrieved from https://www.google.com/search/howsearchworks/
+
+--. (n.d.). Our Mission. [Web site]. Retrieved from https://www.google.com/search/howsearchworks/mission/
+
+--. (n.d.). Useful responses take many forms. [Web site]. Retrieved from https://www.google.com/search/howsearchworks/responses/#?modal_active=none
+
 Greenfield, A. (2017). *Radical Technologies: The design of everyday life.* London: Verso.
 
 Halavais, A. (2009). *Search engine society*. Cambridge, UK: Polity.
 
 Hall, E. (2013). *Just Enough Research*. New York: A Book Apart.
+
+(2018, October 1). Internet Live Stats. Retrieved from http://www.internetlivestats.com/
 
 Introna, L., & Nissenbaum, H. (2000). Shaping the web: Why the politics of search engines matters. *The Information Society, 16*(3). pp. 169-185.
 
@@ -97,6 +109,8 @@ Mowshowitz, A., & Kawaguchi, A. (2002). Assessing bias in search engines. *Infor
 
 -- (2005). Measuring search engine bias. *Information Processing and Management, 41*(3). pp. 1193-1205.
 
+(2018, October 1). Net Market Share. [Web site]. Retrieved from https://www.netmarketshare.com/search-engine-market-share.aspx
+
 Noble, S. (2012). Missed connections: What search engines say about women. *Bitch, 1*(54). pp. 36-41.
 
 -- (2016, March). The politics of online information: Algorithmic ethics and big data(bases) in libraries. Paper presented at Library Technology Conference 2016. Retrieved from http://www.ustream.tv/recorded/84532162
@@ -128,6 +142,8 @@ Rivera, L.A. (2017). When Two Bodies Are (Not) a Problem: Gender and Relationshi
 Scholes, L. (2018). “Close readings: the rise of the bibliomemoir.” *Financial Times*. February 18, 2018. Retrieved from https://www.ft.com/content/92812c26-17d4-11e8-9c33-02f893d608c2
 
 Seaver, N. (2013). Knowing algorithms. *Media in Transition, 8*. Retrieved from http://nickseaver.net/papers/seaverMiT8.pdf
+
+--(2017). Algorithms as culture: Some tactics for the ethnography of algorithmic systems. *Big Data & Society* July–December 2017: pp. 1–12. DOI: 10.1177/2053951717738104 
 
 Shapiro, A. (2018, February 19). All Things Considered: 'Automating Inequality': Algorithms In Public Services Often Fail The Most Vulnerable. Retrieved from https://www.npr.org/sections/alltechconsidered/2018/02/19/586387119/automating-inequality-algorithms-in-public-services-often-fail-the-most-vulnerab
 
