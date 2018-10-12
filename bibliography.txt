@@ -1,13 +1,21 @@
 
 Ananny, M. (2011, April 14). The curious connection between apps for gay men ad sex offenders. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/
 
+--. (2016). Toward an ethics of algorithms: Convening, observation, probability, and timeliness. *Science, Technology, & Human Values. 41*(1). pp. 93-117.
+
 Angwin, J., Larson, J., Mattu, S., and Kirchner, L. (2016a, May 23). Machine Bias: There’s software used across the country to predict future criminals. And it’s biased against blacks. *Propublica.* Retrieved from https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
 
 Angwin, J. (2016b, August 1). Make algorithms accountable. *New York Times.* p. A17.
 
+Angwin, J., and Mattu, S. (2016, September 20). Amazon Says It Puts Customers First. But Its Pricing Algorithm Doesn’t. *ProPublica.* Retrieved from https://www.propublica.org/article/amazon-says-it-puts-customers-first-but-its-pricing-algorithm-doesnt
+
+Bakshy, E., Rosenn, I., Marlow, C., Adamic, L. (2012). The role of social networks in information diffusion. *Proceedings of the 21st international conference on World Wide Web.* Retrieved from https://dl.acm.org/citation.cfm?doid=2187836.2187907
+
 Barron, S. and Preater, A. (2018). Critical systems librarianship. In Nicholson, K. P. and Seale, M. Eds. *The Politics and the practice of critical librarianship.* Sacramento, CA: Library Juice Press. pp. 87-113.
 
 Bavocas, S., & Selbst, A. (2016). Big Data's disparate impact. *104 California Law Review, 671*. Retrieved from https://ssrn.com/abstract=2477899
+
+BBC News. (2015, July 1). "Google apologises for Photos app's racist blunder." *BBC News.* Retrieved from https://www.bbc.com/news/technology-33347866
 
 Beer, D. (2017). The social power of algorithms. *Information, Communication & Society, 20*(1). pp. 1-13. DOI: 10.1080/1369118X.2016.1216147
 
@@ -19,13 +27,21 @@ Bogost, I. (2015, January). The cathedral of computation. *The Atlantic*. Retrie
 
 Boguslaw, R. (1971). Systems of power and the power of systems. In A. Westin (Ed.), *Information Technology in a democracy.* Cambridge, MA: Harvard University Press. pp. 419-31.
 
+Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D. I., Marlow, C., Settle, J. E., and Fowler, J. H. (2012). A 61-million-person experiment in social influence and political mobilization. *Nature, 489*:(7415). Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/
+
 Bozdag, E. (2013). Bias in algorithmic filtering and personalization. *Ethics of Information Technology, 15*. pp. 209-227. DOI: 10.1007/s10676-013-9321-6
 
 Breland, A. (2017). White code, black faces. *Logic*, (3). pp. 195-203.
 
 Broussard, M. (2018). *Artificial unintelligence: How computers misunderstand the world.* Cambridge, MA: MIT Press.
 
+Budd, J. (2003). The library, praxis, and symbolic power. *The Library Quarterly: Information, Communication, Policy. 73*(1). Retrieved from https://doi.org/10.1086/603373
+
 Christian, B., & Griffiths, T. (2017). *Algorithms to live by: the computer science of human decisions.* New York: Henry Holt.
+
+Constantiou, I.D., & Kallinikos, J. (2015). New games, new rules: Big data and the changing context of strategy. *Journal of Information Technology, 30*, pp. 44-57.
+
+Cook, J. (2018, March 17). The YouTube Kids app has been suggesting a load of conspiracy videos to children. *Business Insider.* Retrieved from https://www.businessinsider.com/youtube-suggested-conspiracy-videos-to-children-using-its-kids-app-2018-3
 
 Corbefl-Davies, S.,Pierson, E., Feller, A., Goel, S., and Huq, A. (2017). Algorithmic decision making and the cost of fairness. *Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.* pp. 797-806. DOI:10.1145/3097983.3098095
 
@@ -51,7 +67,15 @@ Executive Office of the President. (2014). *Big Data: Seizing opportunities, pre
 
 Ex Libris. (2016, August 25). Summon: Topic Explorer. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Topic_Explorer
 
+Fallows, D. (2005). Search engine users. Retrieved from http://pew nternet.org/Reports/2005/Search-Engine-Users/8-Conclusions/Conclusions.aspx
+
+Ferrara, J. (2009, September 22). Testing search for relevancy and precision. *A List Apart* Retrieved from TK
+
 Fisher, A. (2018, February 13). All Sides with Ann Fisher: Tech Tuesday: Cybersecurity at the Olympics, Search Engine Bias. Retrieved from http://radio.wosu.org/post/tech-tuesday-cybersecurity-olympics-search-engine-bias#stream/0
+
+Fry, H. (2018). *Hello world: Being human in the age of algorithms.* TK
+
+Galvan, A. (2016, December 5). Architecture of authority. [Web log]. Retrieved from https://asgalvan.com/2016/12/05/architecture-of-authority
 
 Gillespie, T. (2012). Can an algorithm be wrong? *Limn, 1*(2). Retrieved from https://limn.it/can-an-algorithm-be-wrong/
 
@@ -71,13 +95,19 @@ Google. (2012, May 16). Introducing the knowledge graph: Things, not strings. [W
 
 Greenfield, A. (2017). *Radical Technologies: The design of everyday life.* London: Verso.
 
+Guinee, K., Eagleton, M. B., & Hall, T. E. (2003). Adolescents' Internet search strategies: Drawing upon familiar cognitive paradigms when accessing electronic information sources. *Journal of Educational Computing Research, 29*(3), pp. 363-374.
+
 Halavais, A. (2009). *Search engine society*. Cambridge, UK: Polity.
 
 Hall, E. (2013). *Just Enough Research*. New York: A Book Apart.
 
+Horrigan, J.B. (2017, September 11). How People Approach Facts and Information. *Pew Research Center.* Retrieved from http://www.pewinternet.org/2017/09/11/how-people-approach-facts-and-information/
+
 (2018, October 1). Internet Live Stats. Retrieved from http://www.internetlivestats.com/
 
 Introna, L., & Nissenbaum, H. (2000). Shaping the web: Why the politics of search engines matters. *The Information Society, 16*(3). pp. 169-185.
+
+Isaac, M., and Frenkel, S. (2018, September 28). Facebook Security Breach Exposes Accounts of 50 Million Users. *New York Times.* Retrieved from https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html
 
 Joachims, T., Granka, L.A., Pan, B., Hembrooke, H., Radlinski, F., & Gay, G. (2007). Evaluating the accuracy of implicit feedback from clicks and query reformulations in web search. *ACM Transactions on Information Systems, 25*(2). pp. 1-27.
 
@@ -86,6 +116,8 @@ Kammerer, Y., and Gerjets, P. (2012). How search engine users evaulate and selec
 Karahalios, K. (2014, October 21). Algorithm Awareness: How the news feed on Facebook decides what you get to see. *MIT Technology Review.* Retrieved from https://www.technologyreview.com/s/531676/algorithm-awareness/
 
 Kitchin, R. (2017). Thinking critically about and researching algorithms. *Information, Communication & Society, 20*(1). pp. 14-29. DOI: 10.1080/1369118X.2016.1154087
+
+Kovach, S. (2018, February 21). YouTube and Facebook promoted a right-wing conspiracy about a Florida shooting survivor. *Business Insider.* Retrieved from https://www.businessinsider.com/youtube-promotes-conspiracy-theory-video-florida-shooting-survivor-david-hogg-2018-2?r=UK&IR=T
 
 Kramer, A.D.I., Guillory, J.E., and Hancock, J. T. (2014). Emotional contagion through social networks. *Proceedings of the National Academy of Sciences. 111*(24) pp. 8788-8790; DOI: 10.1073/pnas.1320040111
 
@@ -103,11 +135,17 @@ MacCormick, J. (2012). *9 algorithms that changed the future: The ingenious idea
 
 Meyer, E., & Wachter-Boettcher, S. (2016). *Design for real life.* New York: A Book Apart.
 
+Mittelstadt, B.D., Allo, P., Taddeo, M., Wachter, S., & Floridi, L. (2016). The ethics of algorithms: Mapping the debate. *Big Data & Society, TK*, pp. 1-21.
+
 Monterio, M. (2013). *How designers destroyed the world.* Paper presented at Webstock 2013. Retrieved from https://vimeo.com/68470326
 
 Mowshowitz, A., & Kawaguchi, A. (2002). Assessing bias in search engines. *Information Processing and Management, 38*(1). pp. 141-156.
 
 -- (2005). Measuring search engine bias. *Information Processing and Management, 41*(3). pp. 1193-1205.
+
+Murdoch, I. (1997). *Existentialists and Mystics: writings on philosophy and literature.* New York: Allen Lane/Penguin Press.
+
+Narayanan, A. (2017, August 27). Twitter post. Retrieved from https://twitter.com/random_walker/status/901851127624458240
 
 (2018, October 1). Net Market Share. [Web site]. Retrieved from https://www.netmarketshare.com/search-engine-market-share.aspx
 
@@ -153,11 +191,18 @@ Siegler, M. G., (December 8, 2010). "Marissa Mayer’s next big thing: ‘contex
 
 Simon, H. (1956). Rational choice and the structure of the environment. *Psychological Review, 63*(2). pp. 129-138.
 
+Singer, N. (2012, November 17). Your Online Attention, Bought in an Instant. *New York Times.* Retrieved from https://www.nytimes.com/2012/11/18/technology/your-online-attention-bought-in-an-instant-by-advertisers.html
+
 Sundar, S. S. (2008). The MAIN model: A heuristic approach to understanding technology effects on credibility. In M. Metzger & A. Flanagin (Eds.). *Digital media, youth, and credibility.* Cambridge, MA: MIT Press. pp. 73-100.
 
 Sweeny, L. (2013). Discrimination in online ad delivery. *Communications of the ACM, 56*(5). pp. 44-54.
 
 Todd, M. (2018, February 15). Nick Seaver on Dissecting the Algorithmic Organism. Retrieved from https://www.methodspace.com/nick-seaver-dissecting-algorithmic-organism/
+
+Torres, M. (2017, August 25). New app scans your face and tells companies whether you’re worth hiring. *Ladders.* Retrieved from https://www.theladders.com/career-advice/ai-screen-candidates-hirevue
+
+Tschantz, M. C., Egelman, S., Choi, J., Weaver, N., and Friedland, G. (2018). The accuracy of the demographic inferences shown on Google’s ad settings. *Tech. report TR-16-003, International Computer Science Institute, 2016.* Retrieved from https://www1.icsi.berkeley.edu/~mct/pubs/wpes18/
+
 
 Tufekci, Z. (2016, May 19). The real bias built in at Facebook. *New York Times.* p. A23.
 
@@ -171,10 +216,16 @@ Wachter-Boettcher, S. (2017). *Technically Wrong: Sexist apps, biased algorithms
 
 Wakabayashi, D. (2018, September 6). Google's secrets revealed (sort of). *New York Times.* B1-B3.
 
+Wakabayashi, D., and Kang, C. (2018, September 27). Republicans, citing bias, give Google third degree. *New York Times.* pp. B1, B6.
+
 Weizenbaum, J. (1976). *Computer power and human reason: From judgment to calculation*. New York: W.H. Freeman.
+
+White, R., & Marchionini, G. (2007). Examining the effectiveness of real-time query expansion. *Information Processing and Management. 43*(3). pp. 685-704.
 
 Wiener, N. (1954). *The human use of human beings: Cybernetics and society.* Garden City, NY: Doubleday Anchor Books.
 
 Willson, M. (2017). Algorithms (and the) everyday. *Information, Communication & Society, 20*(1). pp. 137-150. DOI: 10.1080/1369118X.2016.1200645
+
+Zunger, Y. (2015, June 29). Twitter post. Retrieved from https://twitter.com/yonatanzunger/status/615585776110170112
 
 Zinoman, J. (2018, September 10). How Netfix conquered comedy: Relying on 'taste clusters' and A-list talent to push aside its competitors. *New York Times.* pp. C1, C6.
