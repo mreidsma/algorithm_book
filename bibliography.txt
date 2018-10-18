@@ -1,4 +1,6 @@
 
+Abrams, R. (2017, December 16). Google Thinks I’m Dead. (I know otherwise.) *New York Times.* Retrieved from https://www.nytimes.com/2017/12/16/business/google-thinks-im-dead.html
+
 Albright, J. (2018, February 21). #NotOKGoogle Search Suggestions: 2018 Edition. [Web log]. Retrieved from https://medium.com/@d1gi/notokgoogle-search-suggestions-2018-edition-ba09eaf49fc2
 
 Ananny, M. (2011, April 14). The curious connection between apps for gay men ad sex offenders. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/
@@ -11,21 +13,31 @@ Angwin, J., Larson, J., Mattu, S., and Kirchner, L. (2016a, May 23). Machine Bia
 
 Angwin, J. (2016b, August 1). Make algorithms accountable. *New York Times.* p. A17.
 
+--. (2016c, August 1). Making algorithms accountable. *ProPublica.* Retrieved from https://www.propublica.org/article/making-algorithms-accountable
+
 Angwin, J., and Mattu, S. (2016, September 20). Amazon Says It Puts Customers First. But Its Pricing Algorithm Doesn’t. *ProPublica.* Retrieved from https://www.propublica.org/article/amazon-says-it-puts-customers-first-but-its-pricing-algorithm-doesnt
 
 Bakshy, E., Rosenn, I., Marlow, C., Adamic, L. (2012). The role of social networks in information diffusion. *Proceedings of the 21st international conference on World Wide Web.* Retrieved from https://dl.acm.org/citation.cfm?doid=2187836.2187907
 
 Barron, S. and Preater, A. (2018). Critical systems librarianship. In Nicholson, K. P. and Seale, M. Eds. *The Politics and the practice of critical librarianship.* Sacramento, CA: Library Juice Press. pp. 87-113.
 
+Bartz, S. (2017, July 31). Twitter post. Retrieved from https://twitter.com/excitedstate/status/892137581592403968
+
 Bavocas, S., & Selbst, A. (2016). Big Data's disparate impact. *104 California Law Review, 671*. Retrieved from https://ssrn.com/abstract=2477899
 
 BBC News. (2015, July 1). "Google apologises for Photos app's racist blunder." *BBC News.* Retrieved from https://www.bbc.com/news/technology-33347866
+
+BBC News. (2009, March 28). 'DNA bungle' haunts German police. *BBC News.* Retrieved from http://news.bbc.co.uk/2/hi/europe/7966641.stm
 
 Beer, D. (2017). The social power of algorithms. *Information, Communication & Society, 20*(1). pp. 1-13. DOI: 10.1080/1369118X.2016.1216147
 
 Beer, S. (2002). What is Cybernetics? *Kybernetes, 31*(2). pp. 209-19.
 
 Belluck, P. (2016, March 14). Hey Siri, Can I Rely on You in a Crisis? Not Always, a Study Finds. *New York Times.* Retrieved from https://well.blogs.nytimes.com/2016/03/14/hey-siri-can-i-rely-on-you-in-a-crisis-not-always-a-study-finds/
+
+Berlatsky, N. (2018, February 21). Google search algorithms are not impartial. They can be biased, just like their designers. *NBC News: Think.* Retrieved from https://www.nbcnews.com/think/opinion/google-search-algorithms-are-not-impartial-they-are-biased-just-ncna849886
+
+Biddle, S. (2017, August 7). These Are the Technology Firms Lining Up to Build Trump’s “Extreme Vetting” Program. *The Intercept.* Retrieved from https://theintercept.com/2017/08/07/these-are-the-technology-firms-lining-up-to-build-trumps-extreme-vetting-program/
 
 Blanke, T. (2005). Ethical subjectification and search engines: Ethics reconsidered. *International Review of Information Ethics, 3*. pp. 33-38.
 
@@ -43,7 +55,15 @@ Broussard, M. (2018). *Artificial unintelligence: How computers misunderstand th
 
 Budd, J. (2003). The library, praxis, and symbolic power. *The Library Quarterly: Information, Communication, Policy. 73*(1). Retrieved from https://doi.org/10.1086/603373
 
+Buranyi, S. (2018, March 3). How to persuade a robot that you should get the job. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2018/mar/04/robots-screen-candidates-for-jobs-artificial-intelligence
+
+Cadwalladr, C. (2016, December 17). How to bump Holocaust deniers off Google’s top spot? Pay Google. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2016/dec/17/holocaust-deniers-google-search-top-spot
+
+Caulfield, M. (2017, November 13). *Digital Polarization on Pinterest.* [Video File.] Retrieved from https://www.youtube.com/watch?v=iZ17h4e7k_s
+
 Chen, S. (2017, September 18). AI Research Is in Desperate Need of an Ethical Watchdog. *Wired.* Retrieved from https://www.wired.com/story/ai-research-is-in-desperate-need-of-an-ethical-watchdog/
+
+Chimero, F. (2018, February 9). Everything easy is hard again. [Web log]. Retrieved from https://frankchimero.com/writing/everything-easy-is-hard-again/
 
 Christian, B., & Griffiths, T. (2017). *Algorithms to live by: the computer science of human decisions.* New York: Henry Holt.
 
@@ -61,6 +81,8 @@ Dahir, I. (2017, October 10). Google Translate Thinks "Ooga Booga Wooga" Is Soma
 
 Davis, B. (2017, August 24). AI and search: How one agency does keyword classification at scale using machine learning. *eConsultancy.* Retrieved from https://econsultancy.com/ai-and-search-how-one-agency-does-keyword-classification-at-scale-using-machine-learning/
 
+Davis, S.P. (2002). HILCC, A Hierarchical Interface to Library of Congress Classification. *Journal of Internet Cataloging, 5*(4), pp. 19-49.
+
 Dormehl, L. (2014). *The formula: How algorithms solve all our problems--and create more.* New York: Penguin.
 
 Dourish, P. (2016). Algorithms and their others: Algorithmic culture in context. *Big Data & Society. 3*(2): pp. 1-11.
@@ -70,6 +92,12 @@ Dowd, M. (2017, November 8). Soothsayer in the Hills Sees Silicon Valley’s Sin
 Dwoskin, E. (2015). How Social Bias Creeps Into Web Technology; Software can lead to unintended errors, potentially unfair outcomes. *Wall Street Journal (Online)*, August 21, 2015. Retrieved from https://www.wsj.com/articles/computers-are-showing-their-biases-and-tech-firms-are-concerned-1440102894
 
 Dwyer, J. (2017, August 25). A push to expose the computing process in city decision-making. *New York Times.* p. A18.
+
+EBSCO. (n.d.). EBSCO Discovery Service (EDS) - Discipline Limited Searching. Retrieved from https://help.ebsco.com/interfaces/EBSCO_Discovery_Service/EDS_User_Guide/EDS_Discipline_Limited_Search
+
+EBSCO. (n.d.). What is the difference between Subject facets and Subject: Thesaurus Terms facets? Retrieved from https://help.ebsco.com/interfaces/EBSCOhost/EBSCOhost_FAQs/difference_between_Subject_facets_and_Subject_Thesaurus_Terms_facets
+
+Edelman, B., & Lockwood, B. (2011, January 9). Measuring Bias in "Organic" Web Search. [Web log]. Retrieved from http://www.benedelman.org/searchbias/
 
 Ekström, A. (2015, January). *The moral bias behind your search results.* Video File. Retrieved from https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results
 
@@ -81,9 +109,13 @@ Eubanks, V. (2017). *Automating Inequality: How high-tech tools profile, police,
 
 Executive Office of the President. (2014). *Big Data: Seizing opportunities, preserving values.*
 
+Ex Libris, (2014, February 20). Summon: Disciplines in the Summon Index. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Disciplines_in_the_Summon_Index
+
 Ex Libris. (2016a, August 25). Summon: Topic Explorer. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Topic_Explorer
 
 Ex Libris. (2016b, September 3). Summon: Autocomplete Feature. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Autocomplete_Feature
+
+Ex Libris. (n.d.). Personalizing Search Results in Primo VE. [Web page]/ Retrieved from https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/100End_User_Help/015Personalizing_Search_Results_in_Primo_VE
 
 Fallows, D. (2005). Search engine users. Retrieved from http://pew nternet.org/Reports/2005/Search-Engine-Users/8-Conclusions/Conclusions.aspx
 
@@ -109,7 +141,11 @@ Gillespie, T. (2012). Can an algorithm be wrong? *Limn, 1*(2). Retrieved from ht
 
 -- (2014). The relevance of algorithms. In T. Gillespie & P. Boczkowski (Eds.) *Media Technologies: Essays on communication, materiality, and society.* Cambridge, MA: MIT Press. pp. 167-194.
 
+-- (2018, March 21). Tweet. Retrieved from https://twitter.com/TarletonG/status/976456851025006592
+
 Goffey, A. (2008). Algorithm. In M. Fuller (Ed.) *Software Studies: A Lexicon*. Cambridge, MA: MIT Press. pp. 15-20.
+
+Goodman, K. (2017). Humanity, Theirs and Ours, in Edtech Development. *ThinqStudio: University of Colorado Denver.* Retrieved from http://thinq.studio/digped-2017/humanity-theirs-and-ours-in-edtech-development/
 
 Google. (2012, May 16). Introducing the knowledge graph: Things, not strings. [Web log]. Retrieved from https://googleblog.blogspot.com/2012/05/introducing-knowledge-graph-things-not.html
 
@@ -129,11 +165,16 @@ Halavais, A. (2009). *Search engine society*. Cambridge, UK: Polity.
 
 Hall, E. (2013). *Just Enough Research*. New York: A Book Apart.
 
+Hanson, C., Nackerud, S., & Jensen, K. (2008, December 15). 
+Affinity Strings: Enterprise Data for Resource Recommendations. *Code4Lib.* (5). Retrieved from https://journal.code4lib.org/articles/501
+
 Horrigan, J.B. (2017, September 11). How People Approach Facts and Information. *Pew Research Center.* Retrieved from http://www.pewinternet.org/2017/09/11/how-people-approach-facts-and-information/
 
 Howard, R. (2018, September 4). The Internet’s Problems Can’t Be Solved with an Algorithm. [Web log]. Retrieved from https://medium.com/s/story/the-day-the-algorithm-died-de0cbe70268e
 
 Hughes, W. (2014, June 27). Facebook tinkered with users’ feeds for a massive psychology experiment. *The AV Club.* Retrieved from https://news.avclub.com/facebook-tinkered-with-users-feeds-for-a-massive-psych-1798269841
+
+Hutson, M. (2018, February 28). Artificial intelligence could identify gang crimes—and ignite an ethical firestorm. *Science.* Retrieved from https://www.sciencemag.org/news/2018/02/artificial-intelligence-could-identify-gang-crimes-and-ignite-ethical-firestorm
 
 (2018, October 1). Internet Live Stats. Retrieved from http://www.internetlivestats.com/
 
@@ -142,6 +183,8 @@ Introna, L., & Nissenbaum, H. (2000). Shaping the web: Why the politics of searc
 Isaac, M., and Frenkel, S. (2018, September 28). Facebook Security Breach Exposes Accounts of 50 Million Users. *New York Times.* Retrieved from https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html
 
 Joachims, T., Granka, L.A., Pan, B., Hembrooke, H., Radlinski, F., & Gay, G. (2007). Evaluating the accuracy of implicit feedback from clicks and query reformulations in web search. *ACM Transactions on Information Systems, 25*(2). pp. 1-27.
+
+Jobin, A., & Ziewitz, M. (2018, March 6). Organic search: How metaphors help cultivate the web. Retrieved from https://www.hiig.de/en/organic-search-metaphors-help-cultivate-web/
 
 Johnson, S. (2017, October 26). This Company Wants to Gather Student Brainwave Data to Measure ‘Engagement’. *EdSurge News.* Retrieved from https://www.edsurge.com/news/2017-10-26-this-company-wants-to-gather-student-brainwave-data-to-measure-engagement
 
@@ -169,11 +212,17 @@ Lewis, P. (2017). 'Our minds can be hijacked': the tech insiders who fear a smar
 
 Li, F. (2018, March 8). How to make A.I. human-friendly. *The New York Times*.
 
+Lieberman, M. (2018, February 20). Sentiment analysis allows instructors to shape course content around students' emotions. *Inside Higher Ed.* Retrieved from https://www.insidehighered.com/digital-learning/article/2018/02/20/sentiment-analysis-allows-instructors-shape-course-content
+
 Lohr, S. (2015). *Data-ism: The revolution transforming decision making, consumer behavior, and almost everything else.* New York: Harper Business.
 
 Lomas, N. (2017, April 25). FaceApp apologizes for building a racist AI. *TechCrunch.* Retrieved from https://techcrunch.com/2017/04/25/faceapp-apologises-for-building-a-racist-ai/
 
 MacCormick, J. (2012). *9 algorithms that changed the future: The ingenious ideas that drive today's computers.* Princeton, NJ: Princeton University Press.
+
+Manjoo, F. (2017, April 25). Can Facebook Fix Its Own Worst Bug? *New York Times.* Retrieved from https://www.nytimes.com/2017/04/25/magazine/can-facebook-fix-its-own-worst-bug.html
+
+-- (2017, December 15). Facebook Conceded It Might Make You Feel Bad. Here’s How to Interpret That. *New York Times.* Retrieved from https://www.nytimes.com/2017/12/15/technology/facebook-blog-feel-bad.html
 
 Meredith, S. (2017, September 8). A.I. can detect the sexual orientation of a person based on one photo, research shows. *CNBC.* Retrieved from https://www.cnbc.com/2017/09/08/a-i-can-detect-the-sexual-orientation-of-a-person-based-on-one-photo-research-shows.html
 
@@ -193,11 +242,15 @@ Murdoch, I. (1997). *Existentialists and Mystics: writings on philosophy and lit
 
 Narayanan, A. (2017, August 27). Twitter post. Retrieved from https://twitter.com/random_walker/status/901851127624458240
 
+--. (2018, March 20). Twitter post. Retrieved from https://twitter.com/random_walker/status/976117562500055040
+
 (2018, October 1). Net Market Share. [Web site]. Retrieved from https://www.netmarketshare.com/search-engine-market-share.aspx
 
 Newitz, A. (2017, April 18). Princeton researchers discover why AI become racist and sexist. *Ars Technica.* Retrieved from https://arstechnica.com/science/2017/04/princeton-scholars-figure-out-why-your-ai-is-racist/
 
 Noble, S. (2012). Missed connections: What search engines say about women. *Bitch, 1*(54). pp. 36-41.
+
+-- (2013, October 29). Google Search: Hyper-visibility as a Means of Rendering Black Women and Girls Invisible. *InVisible Culture: An Electronic Journal for Visual Culture.* (19). https://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/Retrieved from 
 
 -- (2016, March). The politics of online information: Algorithmic ethics and big data(bases) in libraries. Paper presented at Library Technology Conference 2016. Retrieved from http://www.ustream.tv/recorded/84532162
 
@@ -207,11 +260,17 @@ Noble, S. (2012). Missed connections: What search engines say about women. *Bitc
 
 Noble, S. and Roberts, S. T. (2017). Engine failure: Safiya Umoja Noble and Sarah T. Roberts on the problems of platform capitalism. *Logic*, (3). pp. 89-99.
 
+--. (2017, March 13). Out of the Black Box. *Educause Review.* Retrieved from https://er.educause.edu/articles/2017/3/out-of-the-black-box
+
 O'Neil, C. (2016). *Weapons of math destruction: How Big Data increases inequality and threatens democracy.* New York: Crown.
 
 -- (2016, April 27). United incident exposes flawed idea of dignity. *Grand Rapids Press.* (Also: *Bloomberg View*). p. A17.
 
+-- (2017, November 14). The Ivory Tower Can’t Keep Ignoring Tech. *New York Times.* Retrieved from https://www.nytimes.com/2017/11/14/opinion/academia-tech-algorithms.html
+
 Oremus, W. (2017, September 20). It’s not the Facebook algorithm’s fault it’s easy for racists and Russians to make malicious ads. *Slate.* Retrieved from http://www.slate.com/articles/technology/technology/2017/09/it_s_not_the_facebook_algorithm_s_fault_it_s_easy_for_racists_and_russians.html
+
+Pande, V. (2018, January 25). Artificial Intelligence’s ‘Black Box’ Is Nothing to Fear. *New York Times.* Retrieved from https://www.nytimes.com/2018/01/25/opinion/artificial-intelligence-black-box.html
 
 Papanek, V. (1971). *Design for the real world: Human ecology and social change.* New York: Pantheon Books.
 
@@ -219,13 +278,33 @@ Parmar, B., and Freeman, E. (2016). Ethics and the Algorithm. *MIT Sloan Managem
 
 Pasquale, F. (2015). *The black box society: The secret algorithms that control money and information.* Cambridge, MA: Harvard University Press.
 
+Perusall. (n.d.). Web page. Retrieved from https://perusall.com/
+
 Pew Research Center. (2012, March 9). Search engine use 2012. Retrieved from http://www.pewinternet.org/2012/03/09/search-engine-use-2012/
 
+Pirlot, C. (2017, December 20). What Sexist White Dudes are Doing to Tech. [Web log]. Retrieved from https://code.likeagirl.io/what-sexist-white-dudes-are-doing-to-tech-5850292dc0d?gi=77ad569aa220
+
+Pockrass, B. (2017, October 11). NASCAR - you're being watched while you watch. *ESPN.* Retrieved from http://www.espn.com/racing/nascar/story/_/id/20990688/nascar-being-watched-watch
+
 Powers, W. (2010). *Twelve by twelve: A one-room cabin off the grid and beyond the American Dream*. New York: New World Library.
+
+Powles, J. (2017, December 20). New York City’s Bold, Flawed Attempt to Make Algorithms Accountable. *The New Yorker.* Retrieved from https://www.newyorker.com/tech/annals-of-technology/new-york-citys-bold-flawed-attempt-to-make-algorithms-accountable
+
+Rabey, L. (2018, March 11). Twitter post. Retrieved from https://twitter.com/heroineinabook/status/972985545314971648
+
+Raicu, I. (2017, May 9). Autocompleted. *Markkula Center for Applied Ethics.* Retrieved from https://www.scu.edu/ethics/internet-ethics-blog/autocompleted/
+
+Ralph, P. (2018, March 10). Twitter post. Retrieved from https://twitter.com/DrPaulRalph/status/972680197810962432
 
 Rieh, S. Y., & Hilligoss, B. (2008). College students credibility judgments in the information-seeking process. In M. Metzger & A. Flanagin (Eds.). *Digital media, youth, and credibility.* Cambridge, MA: MIT Press. pp. 49-71.
 
 Rivera, L.A. (2017). When Two Bodies Are (Not) a Problem: Gender and Relationship Status Discrimination in Academic Hiring. *American Sociological Review*, *86*(6), pp. 1111-1138. Retrieved from https://doi.org/10.1177/0003122417739294
+
+Rosenberg, M., Confessore, N., & Cadwalladr, C. (2018, March 17). How Trump Consultants Exploited the Facebook Data of Millions. *New York Times.* Retrieved from https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html
+
+Rosenblat, A. (2018, October 12). When Your Boss Is an Algorithm. *New York Times.* Retrieved from https://www.nytimes.com/2018/10/12/opinion/sunday/uber-driver-life.html
+
+Sacasas, L.M. (2017, November 18). The Ethics of Technological Mediation. [Web log.] Retrieved from https://thefrailestthing.com/2017/11/18/the-ethics-of-technological-mediation/
 
 Sadler, B., and Bourg, C. (2015). Feminism and the future of library discovery. *Code4ib Journal.* (28). Retrieved from https://journal.code4lib.org/articles/10425
 
@@ -249,7 +328,15 @@ Simon, H. (1956). Rational choice and the structure of the environment. *Psychol
 
 Simonite, T. (2017, August 21). Machines Taught by Photos Learn a Sexist View of Women. *Wired.* Retrieved from https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/
 
+--. (2018, February 6). Photo Algorithms ID White Men Fine—Black Women, Not So Much. *Wired.* Retrieved from https://www.wired.com/story/photo-algorithms-id-white-men-fineblack-women-not-so-much/
+
+--. (2018, February 28). Using AI to Help Stroke Victims When 'Time Is Brain'. *Wired.* Retrieved from https://www.wired.com/story/using-ai-to-help-stroke-victims-when-time-is-brain/
+
 Singer, N. (2012, November 17). Your Online Attention, Bought in an Instant. *New York Times.* Retrieved from https://www.nytimes.com/2012/11/18/technology/your-online-attention-bought-in-an-instant-by-advertisers.html
+
+--. (2018, February 12). Universities Rush to Roll Out Computer Science Ethics Courses. *New York Times.* Retrieved from https://www.nytimes.com/2018/02/12/business/computer-science-ethics-courses.html
+
+Stark, L. (2018, March 18). The Long History of Computer Science and Psychology Comes Into View. *Slate.* Retrieved from https://slate.com/technology/2018/03/cambridge-analytica-and-the-long-history-of-computer-science-and-psychology.html
 
 Stephen, B. (2018, June 7). MIT fed an AI data from Reddit, and now it only thinks about murder. *The Verge.* Retrieved from https://www.theverge.com/2018/6/7/17437454/mit-ai-psychopathic-reddit-data-algorithmic-bias
 
@@ -263,9 +350,17 @@ Todd, M. (2018, February 15). Nick Seaver on Dissecting the Algorithmic Organism
 
 Torres, M. (2017, August 25). New app scans your face and tells companies whether you’re worth hiring. *Ladders.* Retrieved from https://www.theladders.com/career-advice/ai-screen-candidates-hirevue
 
+Tracy, P. (2018, March 16). Facebook’s Autocomplete Feature suggested Child Abuse Videos. *Daily Dot.* Retrieved from https://www.dailydot.com/debug/facebook-child-abuse-videos-search/
+
 Tschantz, M. C., Egelman, S., Choi, J., Weaver, N., and Friedland, G. (2018). The accuracy of the demographic inferences shown on Google’s ad settings. *Tech. report TR-16-003, International Computer Science Institute, 2016.* Retrieved from https://www1.icsi.berkeley.edu/~mct/pubs/wpes18/
 
 Tufekci, Z. (2016, May 19). The real bias built in at Facebook. *New York Times.* p. A23.
+
+--. (2018, March 10). YouTube, the Great Radicalizer. *New York Times.* Retrieved from https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html
+
+--. (2018, March 12). Twitter post. Retrieved from https://twitter.com/zeynep/status/973240286120878085
+
+--. (2018, March 19). Facebook’s Surveillance Machine. *New York Times.* Retrieved from https://www.nytimes.com/2018/03/19/opinion/facebook-cambridge-analytica.html
 
 Turkle, S. (1997). *Life on the screen: Identity in the age of the internet.* New York: Simon and Schuster.
 
@@ -275,11 +370,15 @@ Vaidhyanathan, S. (2011). *The Googlization of everything (and why we should wor
 
 Vaughan, L., & Thelwall, M. (2004). Search engine coverage bias: Evidence and possible causes. *Information Processing and Management, 40*(2). pp. 693-707.
 
+Vinsel, L. (2017, December 6).Design Thinking is Kind of Like Syphilis — It’s Contagious and Rots Your Brains. [Web log]. Retrieved from https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29
+
 Wachter-Boettcher, S. (2017). *Technically Wrong: Sexist apps, biased algorithms, and other threats of toxic tech*. New York: W.W. Norton.
 
 Wakabayashi, D. (2018, September 6). Google's secrets revealed (sort of). *New York Times.* B1-B3.
 
 Wakabayashi, D., and Kang, C. (2018, September 27). Republicans, citing bias, give Google third degree. *New York Times.* pp. B1, B6.
+
+Warner, J. (2018, February 6). Another Terrible Idea from Turnitin. *Inside Higher Ed.* Retrieved from https://www.insidehighered.com/blogs/just-visiting/another-terrible-idea-turnitin
 
 Weizenbaum, J. (1976). *Computer power and human reason: From judgment to calculation*. New York: W.H. Freeman.
 
@@ -294,3 +393,5 @@ Willson, M. (2017). Algorithms (and the) everyday. *Information, Communication &
 Zunger, Y. (2015, June 29). Twitter post. Retrieved from https://twitter.com/yonatanzunger/status/615585776110170112
 
 Zinoman, J. (2018, September 10). How Netfix conquered comedy: Relying on 'taste clusters' and A-list talent to push aside its competitors. *New York Times.* pp. C1, C6.
+
+Zuckerman, E. (2018, January 27). Facebook Only Cares About Facebook. *The Atlantic.* Retrieved from https://www.theatlantic.com/technology/archive/2018/01/facebook-doesnt-care/551684/
