@@ -93,7 +93,11 @@ Dwoskin, E. (2015). How Social Bias Creeps Into Web Technology; Software can lea
 
 Dwyer, J. (2017, August 25). A push to expose the computing process in city decision-making. *New York Times.* p. A18.
 
+East Brunswick Public Library. (n.d.). Online Databases. Retrieved from https://www.ebpl.org/main/online_databases_info.cfm
+
 EBSCO. (n.d.). EBSCO Discovery Service (EDS) - Discipline Limited Searching. Retrieved from https://help.ebsco.com/interfaces/EBSCO_Discovery_Service/EDS_User_Guide/EDS_Discipline_Limited_Search
+
+EBSCO. (n.d.). EBSCO License Agreement. Retrieved from https://www.ebsco.com/terms-of-use
 
 EBSCO. (n.d.). What is the difference between Subject facets and Subject: Thesaurus Terms facets? Retrieved from https://help.ebsco.com/interfaces/EBSCOhost/EBSCOhost_FAQs/difference_between_Subject_facets_and_Subject_Thesaurus_Terms_facets
 
@@ -146,6 +150,8 @@ Gillespie, T. (2012). Can an algorithm be wrong? *Limn, 1*(2). Retrieved from ht
 Goffey, A. (2008). Algorithm. In M. Fuller (Ed.) *Software Studies: A Lexicon*. Cambridge, MA: MIT Press. pp. 15-20.
 
 Goodman, K. (2017). Humanity, Theirs and Ours, in Edtech Development. *ThinqStudio: University of Colorado Denver.* Retrieved from http://thinq.studio/digped-2017/humanity-theirs-and-ours-in-edtech-development/
+
+Google. (2007, April 16). Terms of Service. Retrieved from https://tools.google.com/dlpage/res/webmmf/en/eula.html
 
 Google. (2012, May 16). Introducing the knowledge graph: Things, not strings. [Web log]. Retrieved from https://googleblog.blogspot.com/2012/05/introducing-knowledge-graph-things-not.html
 
@@ -212,6 +218,8 @@ Lewis, P. (2017). 'Our minds can be hijacked': the tech insiders who fear a smar
 
 Li, F. (2018, March 8). How to make A.I. human-friendly. *The New York Times*.
 
+[libraryuopx]. (2014, October 28). Why the University Library is better than Google for research! [Video file]. Retrieved from https://www.youtube.com/watch?v=G3yE2E-9z1o
+
 Lieberman, M. (2018, February 20). Sentiment analysis allows instructors to shape course content around students' emotions. *Inside Higher Ed.* Retrieved from https://www.insidehighered.com/digital-learning/article/2018/02/20/sentiment-analysis-allows-instructors-shape-course-content
 
 Lohr, S. (2015). *Data-ism: The revolution transforming decision making, consumer behavior, and almost everything else.* New York: Harper Business.
@@ -261,6 +269,10 @@ Noble, S. (2012). Missed connections: What search engines say about women. *Bitc
 Noble, S. and Roberts, S. T. (2017). Engine failure: Safiya Umoja Noble and Sarah T. Roberts on the problems of platform capitalism. *Logic*, (3). pp. 89-99.
 
 --. (2017, March 13). Out of the Black Box. *Educause Review.* Retrieved from https://er.educause.edu/articles/2017/3/out-of-the-black-box
+
+OCLC. (2009, September 24). OCLC WorldCat.org Services Terms and Conditions. Retrieved from https://www.oclc.org/content/dam/ext-ref/worldcat-org/terms.html
+
+--. (2018, February 27). Introduction to WorldCat Discovery. Retrieved from https://help.oclc.org/Discovery_and_Reference/WorldCat_Discovery/Get_started/Introduction_to_WorldCat_Discovery_video
 
 O'Neil, C. (2016). *Weapons of math destruction: How Big Data increases inequality and threatens democracy.* New York: Crown.
 
@@ -367,6 +379,8 @@ Turkle, S. (1997). *Life on the screen: Identity in the age of the internet.* Ne
 Turner, D. (2015, December 8). Design, White Lies & Ethics. *A List Apart.* Retrieved from https://alistapart.com/article/design-white-lies-ethics
 
 Vaidhyanathan, S. (2011). *The Googlization of everything (and why we should worry).* Berkely: University of California Press.
+
+Van Halsema, L. (2014, September 29). Google vs. Library Databases: Which is Better for Research? [Web log]. Retrieved from http://www.sirsidynix.com/blog/2014/09/29/google-vs-library-databases-which-is-better-for-research
 
 Vaughan, L., & Thelwall, M. (2004). Search engine coverage bias: Evidence and possible causes. *Information Processing and Management, 40*(2). pp. 693-707.
 
