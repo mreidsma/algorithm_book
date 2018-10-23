@@ -3,6 +3,8 @@ Abrams, R. (2017, December 16). Google Thinks I’m Dead. (I know otherwise.) *N
 
 Albright, J. (2018, February 21). #NotOKGoogle Search Suggestions: 2018 Edition. [Web log]. Retrieved from https://medium.com/@d1gi/notokgoogle-search-suggestions-2018-edition-ba09eaf49fc2
 
+American Library Association. (2008, January 22). Code of Ethics. Retrieved from http://www.ala.org/tools/ethics
+
 Ananny, M. (2011, April 14). The curious connection between apps for gay men ad sex offenders. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/
 
 --. (2016). Toward an ethics of algorithms: Convening, observation, probability, and timeliness. *Science, Technology, & Human Values. 41*(1). pp. 93-117.
@@ -49,6 +51,8 @@ Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D. I., Marlow, C., Settle, 
 
 Bozdag, E. (2013). Bias in algorithmic filtering and personalization. *Ethics of Information Technology, 15*. pp. 209-227. DOI: 10.1007/s10676-013-9321-6
 
+Breeding, M. (2014, January 14). Web-Scale Discovery Services: Finding the right balance. *American Libraries.* Retrieved from https://americanlibrariesmagazine.org/2014/01/14/web-scale-discovery-services/
+
 Breland, A. (2017). White code, black faces. *Logic*, (3). pp. 195-203.
 
 Broussard, M. (2018). *Artificial unintelligence: How computers misunderstand the world.* Cambridge, MA: MIT Press.
@@ -56,6 +60,8 @@ Broussard, M. (2018). *Artificial unintelligence: How computers misunderstand th
 Budd, J. (2003). The library, praxis, and symbolic power. *The Library Quarterly: Information, Communication, Policy. 73*(1). Retrieved from https://doi.org/10.1086/603373
 
 Buranyi, S. (2018, March 3). How to persuade a robot that you should get the job. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2018/mar/04/robots-screen-candidates-for-jobs-artificial-intelligence
+
+Burke, J. (2010). Discovery versus Disintermediation: the new reality driven by today’s end-user. Talk presented at VALA 2010. Retrieved from http://www.vala.org.au/vala2010/papers2010/VALA2010_57_Burke_Final.pdf
 
 Cadwalladr, C. (2016, December 17). How to bump Holocaust deniers off Google’s top spot? Pay Google. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2016/dec/17/holocaust-deniers-google-search-top-spot
 
@@ -83,6 +89,8 @@ Davis, B. (2017, August 24). AI and search: How one agency does keyword classifi
 
 Davis, S.P. (2002). HILCC, A Hierarchical Interface to Library of Congress Classification. *Journal of Internet Cataloging, 5*(4), pp. 19-49.
 
+Discovery System. (n.d.). In *Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/Discovery_system
+
 Dormehl, L. (2014). *The formula: How algorithms solve all our problems--and create more.* New York: Penguin.
 
 Dourish, P. (2016). Algorithms and their others: Algorithmic culture in context. *Big Data & Society. 3*(2): pp. 1-11.
@@ -99,11 +107,15 @@ EBSCO. (n.d.). EBSCO Discovery Service (EDS) - Discipline Limited Searching. Ret
 
 EBSCO. (n.d.). EBSCO License Agreement. Retrieved from https://www.ebsco.com/terms-of-use
 
+EBSCO. (n.d.) What is the Available in Library Collection limiter in EBSCO Discovery Service? Retrieved from https://help.ebsco.com/interfaces/EBSCO_Discovery_Service/EDS_FAQs/Available_in_Library_Collection_limiter_EDS
+
 EBSCO. (n.d.). What is the difference between Subject facets and Subject: Thesaurus Terms facets? Retrieved from https://help.ebsco.com/interfaces/EBSCOhost/EBSCOhost_FAQs/difference_between_Subject_facets_and_Subject_Thesaurus_Terms_facets
 
 Edelman, B., & Lockwood, B. (2011, January 9). Measuring Bias in "Organic" Web Search. [Web log]. Retrieved from http://www.benedelman.org/searchbias/
 
 Ekström, A. (2015, January). *The moral bias behind your search results.* Video File. Retrieved from https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results
+
+Encyclopaedia Brittanica. (n.d.). Encyclopædia Britannica: Print encyclopaedia. Retrieved from https://www.britannica.com/topic/Encyclopaedia-Britannica-print-encyclopaedia
 
 Epstein, R., & Robertson, R. (2015, August). The search engine manipulation effect (SEME) and its possible impact on the outcomes of elections. *Proceedings of the National Academy of Sciences of the United States, 112*(33). pp. E4512-E4521
 
@@ -115,11 +127,19 @@ Executive Office of the President. (2014). *Big Data: Seizing opportunities, pre
 
 Ex Libris, (2014, February 20). Summon: Disciplines in the Summon Index. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Disciplines_in_the_Summon_Index
 
+Ex Libris. (2014, February 21). Summon: Add Results Beyond Your Library's Collection. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Add_Results_Beyond_Your_Library's_Collection
+
+Ex Libris. (2014, March 24). Summon: Phrase, Field, Boolean, Wildcard and Proximity Searching. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Boolean%2C_Phrase%2C_Wildcard_and_Proximity_Searching
+
 Ex Libris. (2016a, August 25). Summon: Topic Explorer. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Topic_Explorer
 
 Ex Libris. (2016b, September 3). Summon: Autocomplete Feature. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Autocomplete_Feature
 
+Ex Libris. (2017, May 18). Why do I get an error page when linking out to EBSCOhost databases? Retrieved from https://knowledge.exlibrisgroup.com/Summon/Knowledge_Articles/Why_do_I_get_an_error_page_when_linking_out_to_EBSCOhost_databases
+
 Ex Libris. (n.d.). Personalizing Search Results in Primo VE. [Web page]/ Retrieved from https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/100End_User_Help/015Personalizing_Search_Results_in_Primo_VE
+
+Ex Libris. (n.d.). Summon Topics. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Summon_Topics
 
 Fallows, D. (2005). Search engine users. Retrieved from http://pew nternet.org/Reports/2005/Search-Engine-Users/8-Conclusions/Conclusions.aspx
 
@@ -173,6 +193,8 @@ Hall, E. (2013). *Just Enough Research*. New York: A Book Apart.
 
 Hanson, C., Nackerud, S., & Jensen, K. (2008, December 15). 
 Affinity Strings: Enterprise Data for Resource Recommendations. *Code4Lib.* (5). Retrieved from https://journal.code4lib.org/articles/501
+
+Hoeppner, A. (2012, April). The Ins and Outs of Evaluating Web-Scale Discovery Services. *Information Today.* Retrieved from http://www.infotoday.com/cilmag/apr12/Hoeppner-Web-Scale-Discovery-Services.shtml
 
 Horrigan, J.B. (2017, September 11). How People Approach Facts and Information. *Pew Research Center.* Retrieved from http://www.pewinternet.org/2017/09/11/how-people-approach-facts-and-information/
 
@@ -232,6 +254,8 @@ Manjoo, F. (2017, April 25). Can Facebook Fix Its Own Worst Bug? *New York Times
 
 -- (2017, December 15). Facebook Conceded It Might Make You Feel Bad. Here’s How to Interpret That. *New York Times.* Retrieved from https://www.nytimes.com/2017/12/15/technology/facebook-blog-feel-bad.html
 
+Mann, M. (2011, April 15). Twitter post. Retrieved from https://twitter.com/hotdogsladies/status/58964552993357825
+
 Meredith, S. (2017, September 8). A.I. can detect the sexual orientation of a person based on one photo, research shows. *CNBC.* Retrieved from https://www.cnbc.com/2017/09/08/a-i-can-detect-the-sexual-orientation-of-a-person-based-on-one-photo-research-shows.html
 
 Meyer, E., & Wachter-Boettcher, S. (2016). *Design for real life.* New York: A Book Apart.
@@ -245,6 +269,8 @@ Monterio, M. (2013). *How designers destroyed the world.* Paper presented at Web
 Mowshowitz, A., & Kawaguchi, A. (2002). Assessing bias in search engines. *Information Processing and Management, 38*(1). pp. 141-156.
 
 -- (2005). Measuring search engine bias. *Information Processing and Management, 41*(3). pp. 1193-1205.
+
+Mozur, P. (2018, October 16). Genocide across Myanmar, Incited on Facebook. *New York Times.* A1, A10.
 
 Murdoch, I. (1997). *Existentialists and Mystics: writings on philosophy and literature.* New York: Allen Lane/Penguin Press.
 
@@ -289,6 +315,8 @@ Papanek, V. (1971). *Design for the real world: Human ecology and social change.
 Parmar, B., and Freeman, E. (2016). Ethics and the Algorithm. *MIT Sloan Management Review, 58*(1). 
 
 Pasquale, F. (2015). *The black box society: The secret algorithms that control money and information.* Cambridge, MA: Harvard University Press.
+
+Pattern, D. (2013, May 25). Dumping the OPAC #2 - usage data. [Web log]. Retrieved from https://www.daveyp.com/2013/05/25/dumping-the-opac-2-usage-data/
 
 Perusall. (n.d.). Web page. Retrieved from https://perusall.com/
 
@@ -356,6 +384,10 @@ Sundar, S. S. (2008). The MAIN model: A heuristic approach to understanding tech
 
 Sweeny, L. (2013). Discrimination in online ad delivery. *Communications of the ACM, 56*(5). pp. 44-54.
 
+Swisher, K. (2018, October 21). Who Will Teach Silicon Valley to Be Ethical? *New York Times.* Retrieved from https://www.nytimes.com/2018/10/21/opinion/who-will-teach-silicon-valley-to-be-ethical.html
+
+Tay, A. (2016, February 29). Primo and Summon - Same but different? [Web log.] Retrieved from http://musingsaboutlibrarianship.blogspot.com/2016/02/primo-and-summon-same-but-different-i.html
+
 Thorp, J. (2014, October 7). You are not your browser history: What $50 taught me about my web ad identity– and how I’m fighting back. [Web log]. Retrieved from https://medium.com/backchannel/you-are-not-your-browser-history-cdff623a3b24
 
 Todd, M. (2018, February 15). Nick Seaver on Dissecting the Algorithmic Organism. Retrieved from https://www.methodspace.com/nick-seaver-dissecting-algorithmic-organism/
@@ -386,7 +418,11 @@ Vaughan, L., & Thelwall, M. (2004). Search engine coverage bias: Evidence and po
 
 Vinsel, L. (2017, December 6).Design Thinking is Kind of Like Syphilis — It’s Contagious and Rots Your Brains. [Web log]. Retrieved from https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29
 
+VuFind. (2017, April 21). Indexing. Retrieved from https://vufind.org/wiki/indexing
+
 Wachter-Boettcher, S. (2017). *Technically Wrong: Sexist apps, biased algorithms, and other threats of toxic tech*. New York: W.W. Norton.
+
+--. (2017, October 20). Facebook treats its ethical failures like software bugs, and that’s why they keep happening. *Quartz.* Retrieved from https://qz.com/1107036/facebook-treats-its-ethical-failures-like-software-bugs-and-thats-why-they-keep-happening/
 
 Wakabayashi, D. (2018, September 6). Google's secrets revealed (sort of). *New York Times.* B1-B3.
 
@@ -401,6 +437,8 @@ White, R., & Marchionini, G. (2007). Examining the effectiveness of real-time qu
 Wiener, N. (1954). *The human use of human beings: Cybernetics and society.* Garden City, NY: Doubleday Anchor Books.
 
 Wiggers, K. (2018, May 25). Microsoft is developing a tool to help engineers catch bias in algorithms. *VentureBeat.* Retrieved from https://venturebeat.com/2018/05/25/microsoft-is-developing-a-tool-to-help-engineers-catch-bias-in-algorithms/
+
+Wikipedia. (2015, June 11). Christopher Lee: History. Retrieved from https://en.wikipedia.org/w/index.php?title=Christopher_Lee&oldid=666471973
 
 Willson, M. (2017). Algorithms (and the) everyday. *Information, Communication & Society, 20*(1). pp. 137-150. DOI: 10.1080/1369118X.2016.1200645
 

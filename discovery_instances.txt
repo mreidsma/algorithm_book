@@ -1,0 +1,29 @@
+EDS: University of Georgia has EDS with guest access on: http://www.libs.uga.edu/ (More on guest access at https://www.ebscohost.com/discovery/user-experience/eds-guest-access)
+
+
+Summon:
+GVSU: https://gvsu.summon.serialssolutions.com
+U Mich: http://umich.summon.serialssolutions.com
+Michigan State: https://msulibraries.summon.serialssolutions.com
+Eastern Michigan U: https://emich.summon.serialssolutions.com
+Northern Michigan: http://nmu.summon.serialssolutions.com
+
+Primo, old UI:
+VCU: http://search.library.vcu.edu 
+Guelph: http://primo.tug-libraries.on.ca - consortia (also with Waterloo)
+George Mason: http://gml-primo.hosted.exlibrisgroup.com
+Sheffield: http://find.shef.ac.uk - some customizations?
+WMU: http://primo-pmtna01.hosted.exlibrisgroup.com
+Michigan Tech: https://primo-tc-na01.hosted.exlibrisgroup.com
+
+Primo, new UI:
+Ferris State: https://primo-tc-na01.hosted.exlibrisgroup.com
+Central Michigan University: https://cmich-primo.hosted.exlibrisgroup.com
+
+Worldshare:
+University of Deleware: https://delcat.worldcat.org/
+University of Pretoria: https://univofpretoria.on.worldcat.org
+
+Would be helpful to have some data to compare student bodies and collections - using Georgia as the control since they might have the only other EDS install I can get at.
+
+Make sure all instances are being accessed in public mode, without being logged in, and off-campus. Acknowledge that this could case some issues.
