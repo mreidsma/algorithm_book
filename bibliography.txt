@@ -3,6 +3,8 @@ Abrams, R. (2017, December 16). Google Thinks I’m Dead. (I know otherwise.) *N
 
 Albright, J. (2018, February 21). #NotOKGoogle Search Suggestions: 2018 Edition. [Web log]. Retrieved from https://medium.com/@d1gi/notokgoogle-search-suggestions-2018-edition-ba09eaf49fc2
 
+Amazon. (n.d.). Sort by Popularity, Price, or Condition. Retrieved from https://docs.aws.amazon.com/AWSECommerceService/latest/DG/SortingbyPopularityPriceorCondition.html
+
 American Library Association. (2008, January 22). Code of Ethics. Retrieved from http://www.ala.org/tools/ethics
 
 Ananny, M. (2011, April 14). The curious connection between apps for gay men ad sex offenders. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/
