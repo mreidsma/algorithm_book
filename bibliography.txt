@@ -153,7 +153,7 @@ Fisher, A. (2018, February 13). All Sides with Ann Fisher: Tech Tuesday: Cyberse
 
 Fister, B. (2016, March 17). The bigot in the machine. *Inside Higher Ed.* Retrieved from https://www.insidehighered.com/blogs/library-babel-fish/bigot-machine
 
-Fry, H. (2018). *Hello world: Being human in the age of algorithms.* TK
+Fry, H. (2018). *Hello world: Being human in the age of algorithms.* New York: W.W. Norton.
 
 Gallaway, J. (2017, September 1). Using Hitachi Data Systems to improve student life at Curtin University. *InTheBlack.* Retrieved from https://www.intheblack.com/articles/2017/09/01/data-makes-uni-campus-smarter
 
@@ -302,6 +302,8 @@ OCLC. (2009, September 24). OCLC WorldCat.org Services Terms and Conditions. Ret
 
 --. (2018, February 27). Introduction to WorldCat Discovery. Retrieved from https://help.oclc.org/Discovery_and_Reference/WorldCat_Discovery/Get_started/Introduction_to_WorldCat_Discovery_video
 
+Olson, H. A. (2002). *The power to name: Locating the limits of subject representation in libraries.* Dordrecht, Netherlands: Kluwer Academic Publishers.
+
 O'Neil, C. (2016). *Weapons of math destruction: How Big Data increases inequality and threatens democracy.* New York: Crown.
 
 -- (2016, April 27). United incident exposes flawed idea of dignity. *Grand Rapids Press.* (Also: *Bloomberg View*). p. A17.
@@ -417,6 +419,8 @@ Turkle, S. (1997). *Life on the screen: Identity in the age of the internet.* Ne
 Turner, D. (2015, December 8). Design, White Lies & Ethics. *A List Apart.* Retrieved from https://alistapart.com/article/design-white-lies-ethics
 
 Vaidhyanathan, S. (2011). *The Googlization of everything (and why we should worry).* Berkely: University of California Press.
+
+Vallor, S. (2016). Technology and the virtues: A philosophocal guide to a future worth wanting. Oxford: Oxford University Press.
 
 Van Halsema, L. (2014, September 29). Google vs. Library Databases: Which is Better for Research? [Web log]. Retrieved from http://www.sirsidynix.com/blog/2014/09/29/google-vs-library-databases-which-is-better-for-research
 
