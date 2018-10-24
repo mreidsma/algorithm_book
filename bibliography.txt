@@ -131,6 +131,8 @@ Ex Libris. (2014, February 21). Summon: Add Results Beyond Your Library's Collec
 
 Ex Libris. (2014, March 24). Summon: Phrase, Field, Boolean, Wildcard and Proximity Searching. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Boolean%2C_Phrase%2C_Wildcard_and_Proximity_Searching
 
+Ex Libris. (2016, August 15). Summon: Record Contents and Display. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Record_Contents_and_Display
+
 Ex Libris. (2016a, August 25). Summon: Topic Explorer. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Topic_Explorer
 
 Ex Libris. (2016b, September 3). Summon: Autocomplete Feature. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Autocomplete_Feature
@@ -316,11 +318,15 @@ Parmar, B., and Freeman, E. (2016). Ethics and the Algorithm. *MIT Sloan Managem
 
 Pasquale, F. (2015). *The black box society: The secret algorithms that control money and information.* Cambridge, MA: Harvard University Press.
 
+Pattern, D. (2012, May 6). Relevance Rules. [Web log]. Retrieved from https://www.daveyp.com/2012/05/06/relevancy-rules/
+
 Pattern, D. (2013, May 25). Dumping the OPAC #2 - usage data. [Web log]. Retrieved from https://www.daveyp.com/2013/05/25/dumping-the-opac-2-usage-data/
 
 Perusall. (n.d.). Web page. Retrieved from https://perusall.com/
 
 Pew Research Center. (2012, March 9). Search engine use 2012. Retrieved from http://www.pewinternet.org/2012/03/09/search-engine-use-2012/
+
+Phan, T., Hardesty, L., & Hug, J. (2014). Academic Libraries: 2012 First Look. Retrieved from https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2014038
 
 Pirlot, C. (2017, December 20). What Sexist White Dudes are Doing to Tech. [Web log]. Retrieved from https://code.likeagirl.io/what-sexist-white-dudes-are-doing-to-tech-5850292dc0d?gi=77ad569aa220
 
@@ -439,6 +445,8 @@ Wiener, N. (1954). *The human use of human beings: Cybernetics and society.* Gar
 Wiggers, K. (2018, May 25). Microsoft is developing a tool to help engineers catch bias in algorithms. *VentureBeat.* Retrieved from https://venturebeat.com/2018/05/25/microsoft-is-developing-a-tool-to-help-engineers-catch-bias-in-algorithms/
 
 Wikipedia. (2015, June 11). Christopher Lee: History. Retrieved from https://en.wikipedia.org/w/index.php?title=Christopher_Lee&oldid=666471973
+
+Wikipeda. (2018, March 9). Article Development. Retrieved from https://en.wikipedia.org/wiki/Wikipedia:Article_development
 
 Willson, M. (2017). Algorithms (and the) everyday. *Information, Communication & Society, 20*(1). pp. 137-150. DOI: 10.1080/1369118X.2016.1200645
 
