@@ -27,6 +27,8 @@ Barron, S. and Preater, A. (2018). Critical systems librarianship. In Nicholson,
 
 Bartz, S. (2017, July 31). Twitter post. Retrieved from https://twitter.com/excitedstate/status/892137581592403968
 
+Battelle, J. (2003, November 13). The Database of intentions. [Web log]. https://battellemedia.com/archives/2003/11/the_database_of_intentions
+
 Bavocas, S., & Selbst, A. (2016). Big Data's disparate impact. *104 California Law Review, 671*. Retrieved from https://ssrn.com/abstract=2477899
 
 BBC News. (2015, July 1). "Google apologises for Photos app's racist blunder." *BBC News.* Retrieved from https://www.bbc.com/news/technology-33347866
@@ -145,7 +147,7 @@ Ex Libris. (n.d.). Personalizing Search Results in Primo VE. [Web page]/ Retriev
 
 Ex Libris. (n.d.). Summon Topics. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Summon_Topics
 
-Fallows, D. (2005). Search engine users. Retrieved from http://pew nternet.org/Reports/2005/Search-Engine-Users/8-Conclusions/Conclusions.aspx
+Fallows, D. (2005). Search engine users. Retrieved from http://pewinternet.org/Reports/2005/Search-Engine-Users/8-Conclusions/Conclusions.aspx
 
 Farr, C. (2016, January 4). Report: Facebook Tested User Loyalty By Sabotaging Its Android App. *Fast Company.* Retrieved from https://www.fastcompany.com/3055089/report-facebook-tested-user-loyalty-by-sabotaging-its-android-app
 
@@ -226,6 +228,8 @@ Kantor, J. (2014, August 13). Working Anything but 9 to 5: Scheduling Technology
 
 Karahalios, K. (2014, October 21). Algorithm Awareness: How the news feed on Facebook decides what you get to see. *MIT Technology Review.* Retrieved from https://www.technologyreview.com/s/531676/algorithm-awareness/
 
+Kasperkevic, J. (2015, July 1). Google says sorry for racist auto-tag in photo app. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app
+
 Kitchin, R. (2017). Thinking critically about and researching algorithms. *Information, Communication & Society, 20*(1). pp. 14-29. DOI: 10.1080/1369118X.2016.1154087
 
 Knight, W. (2016, November 23). How to Fix Silicon Valley’s Sexist Algorithms. *MIT Technology Review.* Retrieved from https://www.technologyreview.com/s/602950/how-to-fix-silicon-valleys-sexist-algorithms/
@@ -239,6 +243,8 @@ Lankes, D. (2008). Trusting the internet: New approaches to credibility tools. I
 Lepore, J. (2016, February 1). Baby Doe: A political history of tragedy. *The New Yorker.* pp. 46-57.
 
 Levin, S. (2018, February 13). Google search results for abortion services promote anti-abortion centers. *The Guardian.* Retrieved from https://www.theguardian.com/world/2018/feb/13/abortions-near-me-google-search-results-anti-pro-life-groups-promote
+
+Levy, S. (2011). In the plex : how Google thinks, works, and shapes our lives. New York: Simon & Schuster.
 
 Lewis, P. (2017). 'Our minds can be hijacked': the tech insiders who fear a smartphone dystopia. *The Guardian*, 10/6/2017. Retrieved from https://www.theguardian.com/technology/2017/oct/05/smartphone-addiction-silicon-valley-dystopia
 
@@ -340,6 +346,8 @@ Powers, W. (2010). *Twelve by twelve: A one-room cabin off the grid and beyond t
 
 Powles, J. (2017, December 20). New York City’s Bold, Flawed Attempt to Make Algorithms Accountable. *The New Yorker.* Retrieved from https://www.newyorker.com/tech/annals-of-technology/new-york-citys-bold-flawed-attempt-to-make-algorithms-accountable
 
+Purcell, K., Brenner, J., & Rainie, L. (2012, March 9). Search Engine Use 2012. *Pew Internet and American Life Project.* Retrieved from http://www.pewinternet.org/2012/03/09/search-engine-use-2012/
+
 Rabey, L. (2018, March 11). Twitter post. Retrieved from https://twitter.com/heroineinabook/status/972985545314971648
 
 Raicu, I. (2017, May 9). Autocompleted. *Markkula Center for Applied Ethics.* Retrieved from https://www.scu.edu/ethics/internet-ethics-blog/autocompleted/
@@ -378,6 +386,8 @@ Simon, H. (1956). Rational choice and the structure of the environment. *Psychol
 
 Simonite, T. (2017, August 21). Machines Taught by Photos Learn a Sexist View of Women. *Wired.* Retrieved from https://www.wired.com/story/machines-taught-by-photos-learn-a-sexist-view-of-women/
 
+--. (2018, January 11). When It Comes to Gorillas, Google Photos Remains Blind. *Wired.* Retrieved from https://www.wired.com/story/when-it-comes-to-gorillas-google-photos-remains-blind/
+
 --. (2018, February 6). Photo Algorithms ID White Men Fine—Black Women, Not So Much. *Wired.* Retrieved from https://www.wired.com/story/photo-algorithms-id-white-men-fineblack-women-not-so-much/
 
 --. (2018, February 28). Using AI to Help Stroke Victims When 'Time Is Brain'. *Wired.* Retrieved from https://www.wired.com/story/using-ai-to-help-stroke-victims-when-time-is-brain/
@@ -395,6 +405,8 @@ Sundar, S. S. (2008). The MAIN model: A heuristic approach to understanding tech
 Sweeny, L. (2013). Discrimination in online ad delivery. *Communications of the ACM, 56*(5). pp. 44-54.
 
 Swisher, K. (2018, October 21). Who Will Teach Silicon Valley to Be Ethical? *New York Times.* Retrieved from https://www.nytimes.com/2018/10/21/opinion/who-will-teach-silicon-valley-to-be-ethical.html
+
+Tay, A. (2012, May 8). How is Google different from traditional Library OPACs & databases? [Web log]. Retrieved from http://musingsaboutlibrarianship.blogspot.com/2012/05/how-is-google-different-from.html
 
 Tay, A. (2016, February 29). Primo and Summon - Same but different? [Web log.] Retrieved from http://musingsaboutlibrarianship.blogspot.com/2016/02/primo-and-summon-same-but-different-i.html
 
