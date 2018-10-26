@@ -59,7 +59,11 @@ Breeding, M. (2014, January 14). Web-Scale Discovery Services: Finding the right
 
 Breland, A. (2017). White code, black faces. *Logic*, (3). pp. 195-203.
 
+Brin, S., & Page, L. (TK). The Anatomy of a Large-Scale Hypertextual Web Search Engine. Retrieved from http://infolab.stanford.edu/~backrub/google.html
+
 Broussard, M. (2018). *Artificial unintelligence: How computers misunderstand the world.* Cambridge, MA: MIT Press.
+
+Bucher, T. (2012). Want to be on the top? Algorithmic power and the threat of invisibility on Facebook. *New Media & Society. 14*(7). pp. 1164-1180. Retrieved from https://doi.org/10.1177%2F1461444812440159
 
 Budd, J. (2003). The library, praxis, and symbolic power. *The Library Quarterly: Information, Communication, Policy. 73*(1). Retrieved from https://doi.org/10.1086/603373
 
@@ -76,6 +80,8 @@ Chen, S. (2017, September 18). AI Research Is in Desperate Need of an Ethical Wa
 Chimero, F. (2018, February 9). Everything easy is hard again. [Web log]. Retrieved from https://frankchimero.com/writing/everything-easy-is-hard-again/
 
 Christian, B., & Griffiths, T. (2017). *Algorithms to live by: the computer science of human decisions.* New York: Henry Holt.
+
+Clancy, E. (2018, March 11). Twitter post. Retrieved from https://mobile.twitter.com/clancynewyork/status/972999819697455104
 
 Clark, B. (2016, March 18). Facebook showed us all very different 'Straight Outta Compton' trailers based on race. *The Next Web.* Retrieved from https://thenextweb.com/insider/2016/03/18/facebook-showed-us-all-very-different-straight-outta-compton-trailers-based-on-race/
 
@@ -189,6 +195,8 @@ Google. (2012, May 16). Introducing the knowledge graph: Things, not strings. [W
 
 --. (n.d.). Useful responses take many forms. [Web site]. Retrieved from https://www.google.com/search/howsearchworks/responses/#?modal_active=none
 
+Graham, D. A. (2015, June 22). The white-supremicist group that inspired a racist manifesto. *The Atlantic.* Retrieved from https://www.theatlantic.com/politics/archive/2015/06/council-of-conservative-citizens-dylann-roof/396467/
+
 Greenfield, A. (2017). *Radical Technologies: The design of everyday life.* London: Verso.
 
 Guinee, K., Eagleton, M. B., & Hall, T. E. (2003). Adolescents' Internet search strategies: Drawing upon familiar cognitive paradigms when accessing electronic information sources. *Journal of Educational Computing Research, 29*(3), pp. 363-374.
@@ -239,6 +247,8 @@ Kovach, S. (2018, February 21). YouTube and Facebook promoted a right-wing consp
 Kramer, A.D.I., Guillory, J.E., and Hancock, J. T. (2014). Emotional contagion through social networks. *Proceedings of the National Academy of Sciences. 111*(24) pp. 8788-8790; DOI: 10.1073/pnas.1320040111
 
 Lankes, D. (2008). Trusting the internet: New approaches to credibility tools. In M. Metzger & A. J. Flanagin (Eds.) *Digital Media, Youth, and Credibility.* Cambridge, MA: MIT Press. pp. 101-121.
+
+Latour, B., & Woolgar, S. (1986). *Laboratory Life: The Construction of Scientific Facts*. Princeton, NJ: Princeton University Press.
 
 Lepore, J. (2016, February 1). Baby Doe: A political history of tragedy. *The New Yorker.* pp. 46-57.
 
@@ -291,6 +301,8 @@ Narayanan, A. (2017, August 27). Twitter post. Retrieved from https://twitter.co
 (2018, October 1). Net Market Share. [Web site]. Retrieved from https://www.netmarketshare.com/search-engine-market-share.aspx
 
 Newitz, A. (2017, April 18). Princeton researchers discover why AI become racist and sexist. *Ars Technica.* Retrieved from https://arstechnica.com/science/2017/04/princeton-scholars-figure-out-why-your-ai-is-racist/
+
+Nicas, J. (2018, October 25). Apple’s Radical Approach to News: Humans Over Machines. *New York Times.* Retrieved from https://www.nytimes.com/2018/10/25/technology/apple-news-humans-algorithms.html
 
 Noble, S. (2012). Missed connections: What search engines say about women. *Bitch, 1*(54). pp. 36-41.
 
