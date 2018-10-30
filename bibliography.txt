@@ -71,6 +71,8 @@ Buranyi, S. (2018, March 3). How to persuade a robot that you should get the job
 
 Burke, J. (2010). Discovery versus Disintermediation: the new reality driven by today’s end-user. Talk presented at VALA 2010. Retrieved from http://www.vala.org.au/vala2010/papers2010/VALA2010_57_Burke_Final.pdf
 
+Cadwalladr, C. (2016, December 4). Google, democracy and the truth about internet search. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-search-facebook
+
 Cadwalladr, C. (2016, December 17). How to bump Holocaust deniers off Google’s top spot? Pay Google. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2016/dec/17/holocaust-deniers-google-search-top-spot
 
 Caulfield, M. (2017, November 13). *Digital Polarization on Pinterest.* [Video File.] Retrieved from https://www.youtube.com/watch?v=iZ17h4e7k_s
@@ -158,6 +160,8 @@ Fallows, D. (2005). Search engine users. Retrieved from http://pewinternet.org/R
 Farr, C. (2016, January 4). Report: Facebook Tested User Loyalty By Sabotaging Its Android App. *Fast Company.* Retrieved from https://www.fastcompany.com/3055089/report-facebook-tested-user-loyalty-by-sabotaging-its-android-app
 
 Ferrara, J. (2009, September 22). Testing search for relevancy and precision. *A List Apart* Retrieved from TK
+
+Feuz, M., Fuller, M., & Stalder, F. (2011). Personal web searching in the age of semantic capitalism:Diagnosing the mechanisms of personalization. *First Monday. 16*(2). Retrieved from http://firstmonday.org/ojs/index.php/fm/article/view/3344/2766
 
 Fisher, A. (2018, February 13). All Sides with Ann Fisher: Tech Tuesday: Cybersecurity at the Olympics, Search Engine Bias. Retrieved from http://radio.wosu.org/post/tech-tuesday-cybersecurity-olympics-search-engine-bias#stream/0
 
