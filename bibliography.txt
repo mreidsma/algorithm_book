@@ -338,6 +338,8 @@ Oremus, W. (2017, September 20). It’s not the Facebook algorithm’s fault it�
 
 Pande, V. (2018, January 25). Artificial Intelligence’s ‘Black Box’ Is Nothing to Fear. *New York Times.* Retrieved from https://www.nytimes.com/2018/01/25/opinion/artificial-intelligence-black-box.html
 
+Pang, Alex Soojung-Kim. (2013). *The distraction addiction.* New York: Little Brown.
+
 Papanek, V. (1971). *Design for the real world: Human ecology and social change.* New York: Pantheon Books.
 
 Parmar, B., and Freeman, E. (2016). Ethics and the Algorithm. *MIT Sloan Management Review, 58*(1). 
