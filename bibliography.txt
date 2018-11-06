@@ -59,7 +59,7 @@ Breeding, M. (2014, January 14). Web-Scale Discovery Services: Finding the right
 
 Breland, A. (2017). White code, black faces. *Logic*, (3). pp. 195-203.
 
-Brin, S., & Page, L. (TK). The Anatomy of a Large-Scale Hypertextual Web Search Engine. Retrieved from http://infolab.stanford.edu/~backrub/google.html
+Brin, S., & Page, L. (1998). The Anatomy of a Large-Scale Hypertextual Web Search Engine. *Computer Networks and ISDN Systems. 30*(1). Retrieved from http://infolab.stanford.edu/~backrub/google.html TK
 
 Broussard, M. (2018). *Artificial unintelligence: How computers misunderstand the world.* Cambridge, MA: MIT Press.
 
@@ -308,6 +308,8 @@ Newitz, A. (2017, April 18). Princeton researchers discover why AI become racist
 
 Nicas, J. (2018, October 25). Apple’s Radical Approach to News: Humans Over Machines. *New York Times.* Retrieved from https://www.nytimes.com/2018/10/25/technology/apple-news-humans-algorithms.html
 
+Nicas, J. (2018, October 26). The Week in Tech: Apple Goes on the Attack. *New York Times.* Retrieved from https://www.nytimes.com/2018/10/26/technology/apple-time-cook-europe.html
+
 Noble, S. (2012). Missed connections: What search engines say about women. *Bitch, 1*(54). pp. 36-41.
 
 -- (2013, October 29). Google Search: Hyper-visibility as a Means of Rendering Black Women and Girls Invisible. *InVisible Culture: An Electronic Journal for Visual Culture.* (19). https://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/Retrieved from 
@@ -341,6 +343,8 @@ Pande, V. (2018, January 25). Artificial Intelligence’s ‘Black Box’ Is Not
 Pang, Alex Soojung-Kim. (2013). *The distraction addiction.* New York: Little Brown.
 
 Papanek, V. (1971). *Design for the real world: Human ecology and social change.* New York: Pantheon Books.
+
+Pariser, E. (2012). *The Filter Bubble: How the New Personalized Web Is Changing What We Read and How We Think.* New York: Penguin Books.
 
 Parmar, B., and Freeman, E. (2016). Ethics and the Algorithm. *MIT Sloan Management Review, 58*(1). 
 
@@ -376,9 +380,13 @@ Rieh, S. Y., & Hilligoss, B. (2008). College students credibility judgments in t
 
 Rivera, L.A. (2017). When Two Bodies Are (Not) a Problem: Gender and Relationship Status Discrimination in Academic Hiring. *American Sociological Review*, *86*(6), pp. 1111-1138. Retrieved from https://doi.org/10.1177/0003122417739294
 
+Robertson, C., Mele, C., & Taverinse, S. (2018, October 27). 11 Killed in Synagogue Massacre; Suspect Charged With 29 Counts. *The New York Times.* Retrieved from https://www.nytimes.com/2018/10/27/us/active-shooter-pittsburgh-synagogue-shooting.html
+
 Rosenberg, M., Confessore, N., & Cadwalladr, C. (2018, March 17). How Trump Consultants Exploited the Facebook Data of Millions. *New York Times.* Retrieved from https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html
 
 Rosenblat, A. (2018, October 12). When Your Boss Is an Algorithm. *New York Times.* Retrieved from https://www.nytimes.com/2018/10/12/opinion/sunday/uber-driver-life.html
+
+Rucker, P. (2018, October 24). Amid incendiary rhetoric, targets of Trump’s words become targets of bombs. *The Washington Post.* Retrieved from https://www.washingtonpost.com/politics/amid-incendiary-rhetoric-targets-of-trumps-words-become-targets-of-bombs/2018/10/24/9dddc97c-d7c7-11e8-83a2-d1c3da28d6b6_story.html
 
 Sacasas, L.M. (2017, November 18). The Ethics of Technological Mediation. [Web log.] Retrieved from https://thefrailestthing.com/2017/11/18/the-ethics-of-technological-mediation/
 
@@ -421,6 +429,8 @@ Stephen, B. (2018, June 7). MIT fed an AI data from Reddit, and now it only thin
 Sundar, S. S. (2008). The MAIN model: A heuristic approach to understanding technology effects on credibility. In M. Metzger & A. Flanagin (Eds.). *Digital media, youth, and credibility.* Cambridge, MA: MIT Press. pp. 73-100.
 
 Sweeny, L. (2013). Discrimination in online ad delivery. *Communications of the ACM, 56*(5). pp. 44-54.
+
+Sweeney, M. (2013). *Not just a pretty (inter)face: A critical analysis of Microsoft's 'Ms. Dewey.* (PhD dissertation, University of Illinois at Urbana-Champaign.) Retrieved from https://www.ideals.illinois.edu/bitstream/handle/2142/46617/Miriam_Sweeney.pdf
 
 Swisher, K. (2018, October 21). Who Will Teach Silicon Valley to Be Ethical? *New York Times.* Retrieved from https://www.nytimes.com/2018/10/21/opinion/who-will-teach-silicon-valley-to-be-ethical.html
 
