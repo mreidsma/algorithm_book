@@ -422,6 +422,8 @@ Singer, N. (2012, November 17). Your Online Attention, Bought in an Instant. *Ne
 
 --. (2018, February 12). Universities Rush to Roll Out Computer Science Ethics Courses. *New York Times.* Retrieved from https://www.nytimes.com/2018/02/12/business/computer-science-ethics-courses.html
 
+Solon, O., & Levin, S. (2016, December 16). How Google's search algorithm spreads false information with a rightwing bias. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda
+
 Stark, L. (2018, March 18). The Long History of Computer Science and Psychology Comes Into View. *Slate.* Retrieved from https://slate.com/technology/2018/03/cambridge-analytica-and-the-long-history-of-computer-science-and-psychology.html
 
 Stephen, B. (2018, June 7). MIT fed an AI data from Reddit, and now it only thinks about murder. *The Verge.* Retrieved from https://www.theverge.com/2018/6/7/17437454/mit-ai-psychopathic-reddit-data-algorithmic-bias
@@ -467,6 +469,8 @@ Vallor, S. (2016). Technology and the virtues: A philosophocal guide to a future
 Van Halsema, L. (2014, September 29). Google vs. Library Databases: Which is Better for Research? [Web log]. Retrieved from http://www.sirsidynix.com/blog/2014/09/29/google-vs-library-databases-which-is-better-for-research
 
 Vaughan, L., & Thelwall, M. (2004). Search engine coverage bias: Evidence and possible causes. *Information Processing and Management, 40*(2). pp. 693-707.
+
+Vicens, A. (2017, September 20). Top Facebook Exec Sheryl Sandberg Just Apologized for Racist Ad Targeting. *Mother Jones.* Retrieved from https://www.motherjones.com/politics/2017/09/top-facebook-exec-sheryl-sandberg-just-apologized-for-racist-ad-targeting/
 
 Vinsel, L. (2017, December 6).Design Thinking is Kind of Like Syphilis — It’s Contagious and Rots Your Brains. [Web log]. Retrieved from https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29
 
