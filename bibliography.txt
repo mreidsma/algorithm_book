@@ -21,6 +21,8 @@ Angwin, J. (2016b, August 1). Make algorithms accountable. *New York Times.* p. 
 
 Angwin, J., and Mattu, S. (2016, September 20). Amazon Says It Puts Customers First. But Its Pricing Algorithm Doesn’t. *ProPublica.* Retrieved from https://www.propublica.org/article/amazon-says-it-puts-customers-first-but-its-pricing-algorithm-doesnt
 
+Baker, P., Potts, A. (2013). 'Why do white people have thin lips?' Google and the perpetuation of stereotypes via auto-complete search forms. *Critical discourse studies. 10*(2). pp. 187-204.
+
 Bakshy, E., Rosenn, I., Marlow, C., Adamic, L. (2012). The role of social networks in information diffusion. *Proceedings of the 21st international conference on World Wide Web.* Retrieved from https://dl.acm.org/citation.cfm?doid=2187836.2187907
 
 Barron, S. and Preater, A. (2018). Critical systems librarianship. In Nicholson, K. P. and Seale, M. Eds. *The Politics and the practice of critical librarianship.* Sacramento, CA: Library Juice Press. pp. 87-113.
@@ -50,6 +52,8 @@ Blanke, T. (2005). Ethical subjectification and search engines: Ethics reconside
 Bogost, I. (2015, January). The cathedral of computation. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2015/01/the-cathedral-of-computation/384300/
 
 Boguslaw, R. (1971). Systems of power and the power of systems. In A. Westin (Ed.), *Information Technology in a democracy.* Cambridge, MA: Harvard University Press. pp. 419-31.
+
+Bolukbasi, T., Chang, K., Zou, J., Saligrama, V., & Kalai, A. (2016). Man is to computer programmer as woman is to homemaker? Debiased word embeddings. Retrieved from https://arxiv.org/abs/1607.06520
 
 Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D. I., Marlow, C., Settle, J. E., and Fowler, J. H. (2012). A 61-million-person experiment in social influence and political mobilization. *Nature, 489*:(7415). Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/
 
@@ -125,6 +129,8 @@ EBSCO. (n.d.) What is the Available in Library Collection limiter in EBSCO Disco
 
 EBSCO. (n.d.). What is the difference between Subject facets and Subject: Thesaurus Terms facets? Retrieved from https://help.ebsco.com/interfaces/EBSCOhost/EBSCOhost_FAQs/difference_between_Subject_facets_and_Subject_Thesaurus_Terms_facets
 
+EBSCO. (2018, June). EBSCO Open Collaboration Policy for Technical Interoperability and Bibliographic Record Sharing. Retrieved from https://www.ebsco.com/open-collaboration-policy
+
 Edelman, B., & Lockwood, B. (2011, January 9). Measuring Bias in "Organic" Web Search. [Web log]. Retrieved from http://www.benedelman.org/searchbias/
 
 Ekström, A. (2015, January). *The moral bias behind your search results.* Video File. Retrieved from https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results
@@ -142,6 +148,8 @@ Executive Office of the President. (2014). *Big Data: Seizing opportunities, pre
 Ex Libris, (2014, February 20). Summon: Disciplines in the Summon Index. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Disciplines_in_the_Summon_Index
 
 Ex Libris. (2014, February 21). Summon: Add Results Beyond Your Library's Collection. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Add_Results_Beyond_Your_Library's_Collection
+
+Ex Libris. (2014, February 21). Summon: Index-Enhanced Direct Linking to Provider Content. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Configuring_The_Summon_Service/Direct_Linking_in_the_Summon_Service/Summon%3A_Index-Enhanced_Direct_Linking_to_Provider_Content
 
 Ex Libris. (2014, March 24). Summon: Phrase, Field, Boolean, Wildcard and Proximity Searching. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Boolean%2C_Phrase%2C_Wildcard_and_Proximity_Searching
 
@@ -214,6 +222,8 @@ Hall, E. (2013). *Just Enough Research*. New York: A Book Apart.
 Hanson, C., Nackerud, S., & Jensen, K. (2008, December 15). 
 Affinity Strings: Enterprise Data for Resource Recommendations. *Code4Lib.* (5). Retrieved from https://journal.code4lib.org/articles/501
 
+Hern, A. (2015, May 20). Flickr faces complaints over 'offensive' auto-tagging for photos. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2015/may/20/flickr-complaints-offensive-auto-tagging-photos
+
 Hoeppner, A. (2012, April). The Ins and Outs of Evaluating Web-Scale Discovery Services. *Information Today.* Retrieved from http://www.infotoday.com/cilmag/apr12/Hoeppner-Web-Scale-Discovery-Services.shtml
 
 Horrigan, J.B. (2017, September 11). How People Approach Facts and Information. *Pew Research Center.* Retrieved from http://www.pewinternet.org/2017/09/11/how-people-approach-facts-and-information/
@@ -252,6 +262,8 @@ Kovach, S. (2018, February 21). YouTube and Facebook promoted a right-wing consp
 
 Kramer, A.D.I., Guillory, J.E., and Hancock, J. T. (2014). Emotional contagion through social networks. *Proceedings of the National Academy of Sciences. 111*(24) pp. 8788-8790; DOI: 10.1073/pnas.1320040111
 
+Lambrecht, A., & Tucker, C. (2018). Algorithmic bias? An empirical study into apparent gender-based discrimination in the display of STEM career ads. Retrieved from http://dx.doi.org/10.2139/ssrn.2852260.
+
 Lankes, D. (2008). Trusting the internet: New approaches to credibility tools. In M. Metzger & A. J. Flanagin (Eds.) *Digital Media, Youth, and Credibility.* Cambridge, MA: MIT Press. pp. 101-121.
 
 Latour, B., & Woolgar, S. (1986). *Laboratory Life: The Construction of Scientific Facts*. Princeton, NJ: Princeton University Press.
@@ -273,6 +285,8 @@ Lieberman, M. (2018, February 20). Sentiment analysis allows instructors to shap
 Lohr, S. (2015). *Data-ism: The revolution transforming decision making, consumer behavior, and almost everything else.* New York: Harper Business.
 
 Lomas, N. (2017, April 25). FaceApp apologizes for building a racist AI. *TechCrunch.* Retrieved from https://techcrunch.com/2017/04/25/faceapp-apologises-for-building-a-racist-ai/
+
+Lumb, D. (2015, April 16). Read Google’s Defensive Response To European Antitrust Charges. *Fast Company.* Retrieved from https://www.fastcompany.com/3045132/read-googles-defensive-response-to-european-antitrust-charges
 
 MacCormick, J. (2012). *9 algorithms that changed the future: The ingenious ideas that drive today's computers.* Princeton, NJ: Princeton University Press.
 
