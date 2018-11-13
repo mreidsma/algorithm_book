@@ -59,6 +59,8 @@ Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D. I., Marlow, C., Settle, 
 
 Bozdag, E. (2013). Bias in algorithmic filtering and personalization. *Ethics of Information Technology, 15*. pp. 209-227. DOI: 10.1007/s10676-013-9321-6
 
+Bozdag, E. & van de Poel, I. (2013). Designing for diversity in online news recommenders. *2013 Proceedings of PICMET '13: Technology management for emerging technolgies.* pp. 1101-1106.
+
 Breeding, M. (2014, January 14). Web-Scale Discovery Services: Finding the right balance. *American Libraries.* Retrieved from https://americanlibrariesmagazine.org/2014/01/14/web-scale-discovery-services/
 
 Breland, A. (2017). White code, black faces. *Logic*, (3). pp. 195-203.
@@ -106,6 +108,8 @@ Dahir, I. (2017, October 10). Google Translate Thinks "Ooga Booga Wooga" Is Soma
 Davis, B. (2017, August 24). AI and search: How one agency does keyword classification at scale using machine learning. *eConsultancy.* Retrieved from https://econsultancy.com/ai-and-search-how-one-agency-does-keyword-classification-at-scale-using-machine-learning/
 
 Davis, S.P. (2002). HILCC, A Hierarchical Interface to Library of Congress Classification. *Journal of Internet Cataloging, 5*(4), pp. 19-49.
+
+Denecke, K. (2012). Diversity-aware search: New possibilities and challenges for web search. In D. Lewandowski, ed. *Web Search Engine Research.* TK: Emerald Publishing Ltd. pp. 139-162.
 
 Discovery System. (n.d.). In *Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/Discovery_system
 
@@ -480,7 +484,7 @@ Turner, D. (2015, December 8). Design, White Lies & Ethics. *A List Apart.* Retr
 
 Vaidhyanathan, S. (2011). *The Googlization of everything (and why we should worry).* Berkely: University of California Press.
 
-Vallor, S. (2016). Technology and the virtues: A philosophocal guide to a future worth wanting. Oxford: Oxford University Press.
+Vallor, S. (2016). *Technology and the virtues: A philosophocal guide to a future worth wanting.* Oxford: Oxford University Press.
 
 Van Halsema, L. (2014, September 29). Google vs. Library Databases: Which is Better for Research? [Web log]. Retrieved from http://www.sirsidynix.com/blog/2014/09/29/google-vs-library-databases-which-is-better-for-research
 
