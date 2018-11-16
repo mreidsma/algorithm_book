@@ -21,6 +21,8 @@ Angwin, J. (2016b, August 1). Make algorithms accountable. *New York Times.* p. 
 
 Angwin, J., and Mattu, S. (2016, September 20). Amazon Says It Puts Customers First. But Its Pricing Algorithm Doesn’t. *ProPublica.* Retrieved from https://www.propublica.org/article/amazon-says-it-puts-customers-first-but-its-pricing-algorithm-doesnt
 
+Asher, A., Duke, L. M., & Wilson, S. (2013). Paths of discovery: Comparing the search effectiveness of EBSCO discovery service, Summon, Google Scholar, and conventional library resources. *College and Research Libraries.* TK. pp. 464-483. September 2013. 374? 
+
 Baker, P., Potts, A. (2013). 'Why do white people have thin lips?' Google and the perpetuation of stereotypes via auto-complete search forms. *Critical discourse studies. 10*(2). pp. 187-204.
 
 Bakshy, E., Rosenn, I., Marlow, C., Adamic, L. (2012). The role of social networks in information diffusion. *Proceedings of the 21st international conference on World Wide Web.* Retrieved from https://dl.acm.org/citation.cfm?doid=2187836.2187907
@@ -88,6 +90,8 @@ Chen, S. (2017, September 18). AI Research Is in Desperate Need of an Ethical Wa
 Chimero, F. (2018, February 9). Everything easy is hard again. [Web log]. Retrieved from https://frankchimero.com/writing/everything-easy-is-hard-again/
 
 Christian, B., & Griffiths, T. (2017). *Algorithms to live by: the computer science of human decisions.* New York: Henry Holt.
+
+Ciccone, K. & Vickery, J. (2015). Summon, EBSCO discovery service, and Google Scholar: A comparison of search performance using user queries. *Evidence Based Library and Information Practice. 10*(1). pp. 34-49.
 
 Clancy, E. (2018, March 11). Twitter post. Retrieved from https://mobile.twitter.com/clancynewyork/status/972999819697455104
 
@@ -180,6 +184,8 @@ Feuz, M., Fuller, M., & Stalder, F. (2011). Personal web searching in the age of
 Fisher, A. (2018, February 13). All Sides with Ann Fisher: Tech Tuesday: Cybersecurity at the Olympics, Search Engine Bias. Retrieved from http://radio.wosu.org/post/tech-tuesday-cybersecurity-olympics-search-engine-bias#stream/0
 
 Fister, B. (2016, March 17). The bigot in the machine. *Inside Higher Ed.* Retrieved from https://www.insidehighered.com/blogs/library-babel-fish/bigot-machine
+
+Foster, A. K. & MacDonald, J. B. (2013). A tale of two discoveries: Comparing the usability of Summon and EBSCO Discovery Service. *Journal of Web Librarianship. 7*(1). pp. 1-19. Retrieved from https://doi.org/10.1080/193222909.2013.757936
 
 Fry, H. (2018). *Hello world: Being human in the age of algorithms.* New York: W.W. Norton.
 
@@ -299,6 +305,8 @@ Manjoo, F. (2017, April 25). Can Facebook Fix Its Own Worst Bug? *New York Times
 -- (2017, December 15). Facebook Conceded It Might Make You Feel Bad. Here’s How to Interpret That. *New York Times.* Retrieved from https://www.nytimes.com/2017/12/15/technology/facebook-blog-feel-bad.html
 
 Mann, M. (2011, April 15). Twitter post. Retrieved from https://twitter.com/hotdogsladies/status/58964552993357825
+
+Marshall, J. K. (1972). LC Labeling: An indictment. In C. West & E. Katz, eds. *Revolting Librarians.* San Francisco: Booklegger Press. pp. TK.
 
 Meredith, S. (2017, September 8). A.I. can detect the sexual orientation of a person based on one photo, research shows. *CNBC.* Retrieved from https://www.cnbc.com/2017/09/08/a-i-can-detect-the-sexual-orientation-of-a-person-based-on-one-photo-research-shows.html
 
