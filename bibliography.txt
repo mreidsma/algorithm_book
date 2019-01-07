@@ -266,6 +266,8 @@ Kasperkevic, J. (2015, July 1). Google says sorry for racist auto-tag in photo a
 
 Kitchin, R. (2017). Thinking critically about and researching algorithms. *Information, Communication & Society, 20*(1). pp. 14-29. DOI: 10.1080/1369118X.2016.1154087
 
+Klein, E. (2018, February 19). How technology is designed to bring out the worst in us. *Vox.* Retrieved from https://www.vox.com/technology/2018/2/19/17020310/tristan-harris-facebook-twitter-humane-tech-time
+
 Knight, W. (2016, November 23). How to Fix Silicon Valley’s Sexist Algorithms. *MIT Technology Review.* Retrieved from https://www.technologyreview.com/s/602950/how-to-fix-silicon-valleys-sexist-algorithms/
 
 Kovach, S. (2018, February 21). YouTube and Facebook promoted a right-wing conspiracy about a Florida shooting survivor. *Business Insider.* Retrieved from https://www.businessinsider.com/youtube-promotes-conspiracy-theory-video-florida-shooting-survivor-david-hogg-2018-2?r=UK&IR=T
@@ -273,6 +275,8 @@ Kovach, S. (2018, February 21). YouTube and Facebook promoted a right-wing consp
 Kramer, A.D.I., Guillory, J.E., and Hancock, J. T. (2014). Emotional contagion through social networks. *Proceedings of the National Academy of Sciences. 111*(24) pp. 8788-8790; DOI: 10.1073/pnas.1320040111
 
 Lambrecht, A., & Tucker, C. (2018). Algorithmic bias? An empirical study into apparent gender-based discrimination in the display of STEM career ads. Retrieved from http://dx.doi.org/10.2139/ssrn.2852260.
+
+Lanclos, D., & Asher, A. (2016, October). “Ethnographish”: The State of the Ethnography in Libraries. *Weave Journal of Library User Experience. 1*(5). Retrieved from http://dx.doi.org/10.3998/weave.12535642.0001.503
 
 Lankes, D. (2008). Trusting the internet: New approaches to credibility tools. In M. Metzger & A. J. Flanagin (Eds.) *Digital Media, Youth, and Credibility.* Cambridge, MA: MIT Press. pp. 101-121.
 
