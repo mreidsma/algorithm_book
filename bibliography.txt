@@ -59,6 +59,8 @@ Bolukbasi, T., Chang, K., Zou, J., Saligrama, V., & Kalai, A. (2016). Man is to 
 
 Bond, R. M., Fariss, C. J., Jones, J. J., Kramer, A. D. I., Marlow, C., Settle, J. E., and Fowler, J. H. (2012). A 61-million-person experiment in social influence and political mobilization. *Nature, 489*:(7415). Retrieved from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/
 
+Bourg, C. (2018). For the love of baby unicorns. Keynote address at Code4Lib National Conference, February 14, 2018. Retrieved from https://2018.code4lib.org/keynotes/Chris-Bourg
+
 Bozdag, E. (2013). Bias in algorithmic filtering and personalization. *Ethics of Information Technology, 15*. pp. 209-227. DOI: 10.1007/s10676-013-9321-6
 
 Bozdag, E. & van de Poel, I. (2013). Designing for diversity in online news recommenders. *2013 Proceedings of PICMET '13: Technology management for emerging technolgies.* pp. 1101-1106.
@@ -96,6 +98,8 @@ Ciccone, K. & Vickery, J. (2015). Summon, EBSCO discovery service, and Google Sc
 Clancy, E. (2018, March 11). Twitter post. Retrieved from https://mobile.twitter.com/clancynewyork/status/972999819697455104
 
 Clark, B. (2016, March 18). Facebook showed us all very different 'Straight Outta Compton' trailers based on race. *The Next Web.* Retrieved from https://thenextweb.com/insider/2016/03/18/facebook-showed-us-all-very-different-straight-outta-compton-trailers-based-on-race/
+
+Code4Lib. (2018). Code4Lib Community Statement in Support of Chris Bourg. Retrieved from https://github.com/code4lib/c4l18-keynote-statement
 
 Conger, K., & Wakabayashi, D. (2018, November 9). Google bows to demands to overhaul abuse policy. *New York Times.* B1 - B2.
 
@@ -330,6 +334,8 @@ Mozur, P. (2018, October 16). Genocide across Myanmar, Incited on Facebook. *New
 
 Murdoch, I. (1997). *Existentialists and Mystics: writings on philosophy and literature.* New York: Allen Lane/Penguin Press.
 
+Nafus, D., Kreiger, B., & Leach, J. (2006). Gender: Integrated Report of Findings. *Free/Libre and Open Source Software: Policy Support.* Retrieved from http://www.flosspols.org/deliverables/FLOSSPOLS-D16-Gender_Integrated_Report_of_Findings.pdf
+
 Narayanan, A. (2017, August 27). Twitter post. Retrieved from https://twitter.com/random_walker/status/901851127624458240
 
 --. (2018, March 20). Twitter post. Retrieved from https://twitter.com/random_walker/status/976117562500055040
@@ -410,6 +416,8 @@ Raicu, I. (2017, May 9). Autocompleted. *Markkula Center for Applied Ethics.* Re
 
 Ralph, P. (2018, March 10). Twitter post. Retrieved from https://twitter.com/DrPaulRalph/status/972680197810962432
 
+Reidsma, M. (2018, February 16). Auditing Algorithms in Commercial Library Discovery Systems. Retrieved from https://matthew.reidsrow.com/talks/206
+
 Rieh, S. Y., & Hilligoss, B. (2008). College students credibility judgments in the information-seeking process. In M. Metzger & A. Flanagin (Eds.). *Digital media, youth, and credibility.* Cambridge, MA: MIT Press. pp. 49-71.
 
 Rivera, L.A. (2017). When Two Bodies Are (Not) a Problem: Gender and Relationship Status Discrimination in Academic Hiring. *American Sociological Review*, *86*(6), pp. 1111-1138. Retrieved from https://doi.org/10.1177/0003122417739294
@@ -427,6 +435,8 @@ Sacasas, L.M. (2017, November 18). The Ethics of Technological Mediation. [Web l
 Sadler, B., and Bourg, C. (2015). Feminism and the future of library discovery. *Code4ib Journal.* (28). Retrieved from https://journal.code4lib.org/articles/10425
 
 Scholes, L. (2018). “Close readings: the rise of the bibliomemoir.” *Financial Times*. February 18, 2018. Retrieved from https://www.ft.com/content/92812c26-17d4-11e8-9c33-02f893d608c2
+
+Scott, A., Klein, F. K., & Onovakpuri, U. (2017). Tech Leavers Study: A first-of-its-kind analysis of why people voluntarily left jobs in tech. *The Kapor Center for Social Impact.* Retrieved from https://www.kaporcenter.org/wp-content/uploads/2017/08/TechLeavers2017.pdf
 
 Seaver, N. (2013). Knowing algorithms. *Media in Transition, 8*. Retrieved from http://nickseaver.net/papers/seaverMiT8.pdf
 
