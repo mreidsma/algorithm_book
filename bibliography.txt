@@ -105,6 +105,8 @@ Conger, K., & Wakabayashi, D. (2018, November 9). Google bows to demands to over
 
 Constantiou, I.D., & Kallinikos, J. (2015). New games, new rules: Big data and the changing context of strategy. *Journal of Information Technology, 30*, pp. 44-57.
 
+Cook, D. B. (2016, March 14). Information Literacy Implications of “Algorithmic Bias in Library Discovery Systems." [Web log]. Retrieved from https://rulenumberoneblog.com/2016/03/14/information-literacy-implications-of-algorithmic-bias-in-library-discovery-systems/
+
 Cook, J. (2018, March 17). The YouTube Kids app has been suggesting a load of conspiracy videos to children. *Business Insider.* Retrieved from https://www.businessinsider.com/youtube-suggested-conspiracy-videos-to-children-using-its-kids-app-2018-3
 
 Corbefl-Davies, S.,Pierson, E., Feller, A., Goel, S., and Huq, A. (2017). Algorithmic decision making and the cost of fairness. *Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.* pp. 797-806. DOI:10.1145/3097983.3098095
