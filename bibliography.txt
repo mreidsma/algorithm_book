@@ -73,11 +73,11 @@ Breeding, M. (2014, January 14). Web-Scale Discovery Services: Finding the right
 
 Breland, A. (2017). White code, black faces. *Logic*, (3). pp. 195-203.
 
-Brin, S., & Page, L. (1998). The Anatomy of a Large-Scale Hypertextual Web Search Engine. *Computer Networks and ISDN Systems. 30*(1). Retrieved from http://infolab.stanford.edu/~backrub/google.html TK
+Sergey Brin and Larry Page, "The Anatomy of a Large-Scale Hypertextual Web Search Engine," *Computer Networks and ISDN Systems,* 30, no. 1, (1998), http://infolab.stanford.edu/~backrub/google.html.
 
 Broussard, M. (2018). *Artificial unintelligence: How computers misunderstand the world.* Cambridge, MA: MIT Press.
 
-Bucher, T. (2012). Want to be on the top? Algorithmic power and the threat of invisibility on Facebook. *New Media & Society. 14*(7). pp. 1164-1180. Retrieved from https://doi.org/10.1177%2F1461444812440159
+Tania Bucher, (2012). Want to be on the top? Algorithmic power and the threat of invisibility on Facebook. *New Media & Society. 14*(7). pp. 1164-1180. Retrieved from https://doi.org/10.1177%2F1461444812440159
 
 Budd, J. (2003). The library, praxis, and symbolic power. *The Library Quarterly: Information, Communication, Policy. 73*(1). Retrieved from https://doi.org/10.1086/603373
 
@@ -87,7 +87,7 @@ Burke, J. (2010). Discovery versus Disintermediation: the new reality driven by 
 
 Cadwalladr, C. (2016, December 4). Google, democracy and the truth about internet search. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-search-facebook
 
-Cadwalladr, C. (2016, December 17). How to bump Holocaust deniers off Google’s top spot? Pay Google. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2016/dec/17/holocaust-deniers-google-search-top-spot
+Carole Cadwalladr, "How to bump Holocaust deniers off Google’s top spot? Pay Google," *The Guardian,* December 17, 2016, https://www.theguardian.com/technology/2016/dec/17/holocaust-deniers-google-search-top-spot.
 
 Caulfield, M. (2017, November 13). *Digital Polarization on Pinterest.* [Video File.] Retrieved from https://www.youtube.com/watch?v=iZ17h4e7k_s
 
@@ -99,7 +99,7 @@ Christian, B., & Griffiths, T. (2017). *Algorithms to live by: the computer scie
 
 Ciccone, K. & Vickery, J. (2015). Summon, EBSCO discovery service, and Google Scholar: A comparison of search performance using user queries. *Evidence Based Library and Information Practice. 10*(1). pp. 34-49.
 
-Clancy, E. (2018, March 11). Twitter post. Retrieved from https://mobile.twitter.com/clancynewyork/status/972999819697455104
+Clancy, Eileen. Twitter post, March 11, 2018, 5:56pm, https://mobile.twitter.com/clancynewyork/status/972999819697455104.
 
 Clark, B. (2016, March 18). Facebook showed us all very different 'Straight Outta Compton' trailers based on race. *The Next Web.* Retrieved from https://thenextweb.com/insider/2016/03/18/facebook-showed-us-all-very-different-straight-outta-compton-trailers-based-on-race/
 
@@ -149,7 +149,7 @@ EBSCO. (n.d.). What is the difference between Subject facets and Subject: Thesau
 
 EBSCO. (2018, June). EBSCO Open Collaboration Policy for Technical Interoperability and Bibliographic Record Sharing. Retrieved from https://www.ebsco.com/open-collaboration-policy
 
-Edelman, B., & Lockwood, B. (2011, January 9). Measuring Bias in "Organic" Web Search. [Web log]. Retrieved from http://www.benedelman.org/searchbias/
+Benjamin Edelman and Benjamin Lockwood, "Measuring Bias in "Organic" Web Search," January 9, 2011, http://www.benedelman.org/searchbias/
 
 Ekström, A. (2015, January). *The moral bias behind your search results.* Video File. Retrieved from https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results
 
@@ -183,13 +183,13 @@ Ex Libris. (n.d.). Personalizing Search Results in Primo VE. [Web page]/ Retriev
 
 Ex Libris. (n.d.). Summon Topics. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Summon_Topics
 
-Fallows, D. (2005). Search engine users. Retrieved from http://pewinternet.org/Reports/2005/Search-Engine-Users/8-Conclusions/Conclusions.aspx
+Fallows, Deborah. "Search engine users: Internet searchers are confident, satisfied and trusting&#8212;but they are also unaware and naïve." *Pew Internet and American Life Project.* January 23, 2005. http://pewinternet.org/Reports/2005/Search-Engine-Users/8-Conclusions/Conclusions.aspx.
 
 Farr, C. (2016, January 4). Report: Facebook Tested User Loyalty By Sabotaging Its Android App. *Fast Company.* Retrieved from https://www.fastcompany.com/3055089/report-facebook-tested-user-loyalty-by-sabotaging-its-android-app
 
 Ferrara, J. (2009, September 22). Testing search for relevancy and precision. *A List Apart* Retrieved from TK
 
-Feuz, M., Fuller, M., & Stalder, F. (2011). Personal web searching in the age of semantic capitalism:Diagnosing the mechanisms of personalization. *First Monday. 16*(2). Retrieved from http://firstmonday.org/ojs/index.php/fm/article/view/3344/2766
+Martin Feuz, Matthew Fuller, and Felix Stalder, "Personal Web Searching in the Age of Semantic Capitalism: Diagnosing the Mechanisms of Personalization," *First Monday,* 16, no. 2 (2011), http://firstmonday.org/ojs/index.php/fm/article/view/3344/2766.
 
 Fisher, A. (2018, February 13). All Sides with Ann Fisher: Tech Tuesday: Cybersecurity at the Olympics, Search Engine Bias. Retrieved from http://radio.wosu.org/post/tech-tuesday-cybersecurity-olympics-search-engine-bias#stream/0
 
@@ -229,7 +229,8 @@ Google. (2012, May 16). Introducing the knowledge graph: Things, not strings. [W
 
 --. (n.d.). Useful responses take many forms. [Web site]. Retrieved from https://www.google.com/search/howsearchworks/responses/#?modal_active=none
 
-Graham, D. A. (2015, June 22). The white-supremicist group that inspired a racist manifesto. *The Atlantic.* Retrieved from https://www.theatlantic.com/politics/archive/2015/06/council-of-conservative-citizens-dylann-roof/396467/
+Graham, David A. "The white-supremicist group that inspired a racist manifesto," *The Atlantic,* June 22, 2015, https://www.theatlantic.com/politics/archive/2015/06/council-of-conservative-citizens-dylann-roof/396467/.
+
 
 Greenfield, A. (2017). *Radical Technologies: The design of everyday life.* London: Verso.
 
@@ -260,13 +261,13 @@ Introna, L., & Nissenbaum, H. (2000). Shaping the web: Why the politics of searc
 
 Isaac, M., and Frenkel, S. (2018, September 28). Facebook Security Breach Exposes Accounts of 50 Million Users. *New York Times.* Retrieved from https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html
 
-Joachims, T., Granka, L.A., Pan, B., Hembrooke, H., Radlinski, F., & Gay, G. (2007). Evaluating the accuracy of implicit feedback from clicks and query reformulations in web search. *ACM Transactions on Information Systems, 25*(2). pp. 1-27.
+Thorsten Joachims, Laura Granka, Bing Pan, Helene Hembrooke, Filip Radlinski, and Geri Gay, "Evaluating the accuracy of implicit feedback from clicks and query reformulations in web search," *ACM Transactions on Information Systems,* 25, no. 2, (2007), 1-27.
 
 Jobin, A., & Ziewitz, M. (2018, March 6). Organic search: How metaphors help cultivate the web. Retrieved from https://www.hiig.de/en/organic-search-metaphors-help-cultivate-web/
 
 Johnson, S. (2017, October 26). This Company Wants to Gather Student Brainwave Data to Measure ‘Engagement’. *EdSurge News.* Retrieved from https://www.edsurge.com/news/2017-10-26-this-company-wants-to-gather-student-brainwave-data-to-measure-engagement
 
-Kammerer, Y., and Gerjets, P. (2012). How search engine users evaulate and select web search results: The impact of seach engine interface on credibility assessments. In Lewandowski, D. ed. *Web Search engine research.* TK: Emerald Publishing Limited. pp. 251-279.
+Yvonne Kammerer and Peter Gerjets, "How search engine users evaulate and select web search results: The impact of seach engine interface on credibility assessments," ed. Dirk Lewandowski, *Web Search engine research,* (Emerald Publishing Limited, 2012), 251-279.
 
 Kantor, J. (2014, August 13). Working Anything but 9 to 5: Scheduling Technology Leaves Low-Income Parents With Hours of Chaos. *New York Times.* Retrieved from https://www.nytimes.com/interactive/2014/08/13/us/starbucks-workers-scheduling-hours.html
 
@@ -290,7 +291,7 @@ Lanclos, D., & Asher, A. (2016, October). “Ethnographish”: The State of the 
 
 Lankes, D. (2008). Trusting the internet: New approaches to credibility tools. In M. Metzger & A. J. Flanagin (Eds.) *Digital Media, Youth, and Credibility.* Cambridge, MA: MIT Press. pp. 101-121.
 
-Latour, B., & Woolgar, S. (1986). *Laboratory Life: The Construction of Scientific Facts*. Princeton, NJ: Princeton University Press.
+Bruno Latour and Steve Woolgar. *Laboratory Life: The Construction of Scientific Facts* (Princeton, NJ: Princeton University Press, 1986).
 
 Lepore, J. (2016, February 1). Baby Doe: A political history of tragedy. *The New Yorker.* pp. 46-57.
 
@@ -309,6 +310,8 @@ Lieberman, M. (2018, February 20). Sentiment analysis allows instructors to shap
 Lohr, Steve. *Data-ism: The revolution transforming decision making, consumer behavior, and almost everything else* (New York: Harper Business, 2015)
 
 Lomas, N. (2017, April 25). FaceApp apologizes for building a racist AI. *TechCrunch.* Retrieved from https://techcrunch.com/2017/04/25/faceapp-apologises-for-building-a-racist-ai/
+
+Losse, Katherine. *The Boy Kings: A Journey to the Heart of the Social Network* (New York: Free Press, 2014).
 
 Lumb, D. (2015, April 16). Read Google’s Defensive Response To European Antitrust Charges. *Fast Company.* Retrieved from https://www.fastcompany.com/3045132/read-googles-defensive-response-to-european-antitrust-charges
 
@@ -414,9 +417,9 @@ Powers, W. (2010). *Twelve by twelve: A one-room cabin off the grid and beyond t
 
 Powles, J. (2017, December 20). New York City’s Bold, Flawed Attempt to Make Algorithms Accountable. *The New Yorker.* Retrieved from https://www.newyorker.com/tech/annals-of-technology/new-york-citys-bold-flawed-attempt-to-make-algorithms-accountable
 
-Purcell, K., Brenner, J., & Rainie, L. (2012, March 9). Search Engine Use 2012. *Pew Internet and American Life Project.* Retrieved from http://www.pewinternet.org/2012/03/09/search-engine-use-2012/
+Kristen Purcell, Joanna Brenner, and Lee Rainie, "Search Engine Use 2012," *Pew Internet and American Life Project,* March 9, 2012, Retrieved from http://www.pewinternet.org/2012/03/09/search-engine-use-2012/.
 
-Rabey, L. (2018, March 11). Twitter post. Retrieved from https://twitter.com/heroineinabook/status/972985545314971648
+Rabey, Lisa. Twitter post, March 11, 2018, 5:00pm, https://twitter.com/heroineinabook/status/972985545314971648.
 
 Raicu, I. (2017, May 9). Autocompleted. *Markkula Center for Applied Ethics.* Retrieved from https://www.scu.edu/ethics/internet-ethics-blog/autocompleted/
 
@@ -424,7 +427,7 @@ Ralph, P. (2018, March 10). Twitter post. Retrieved from https://twitter.com/DrP
 
 Reidsma, M. (2018, February 16). Auditing Algorithms in Commercial Library Discovery Systems. Retrieved from https://matthew.reidsrow.com/talks/206
 
-Rieh, S. Y., & Hilligoss, B. (2008). College students credibility judgments in the information-seeking process. In M. Metzger & A. Flanagin (Eds.). *Digital media, youth, and credibility.* Cambridge, MA: MIT Press. pp. 49-71.
+Soo Young Rieh and Brian Hilligoss, "College students credibility judgments in the information-seeking process," eds. Miriam J. Metzger and Andrew J. Flanagin, *Digital media, youth, and credibility* (Cambridge, MA: MIT Press, 2008), 49-71.
 
 Rivera, L.A. (2017). When Two Bodies Are (Not) a Problem: Gender and Relationship Status Discrimination in Academic Hiring. *American Sociological Review*, *86*(6), pp. 1111-1138. Retrieved from https://doi.org/10.1177/0003122417739294
 
@@ -456,7 +459,8 @@ Sherratt, T. (2015, February 3). Seams and edges: Dreams of aggregation, access,
 
 Shirky, C. (2009, November 15). A Speculative Post on the Idea of Algorithmic Authority. [Web log]. Retrieved from http://www.shirky.com/weblog/2009/11/a-speculative-post-on-the-idea-of-algorithmic-authority/
 
-Siegler, M. G., (December 8, 2010). "Marissa Mayer’s next big thing: ‘contextual discovery’ - Google results without search.” TechCrunch. [Web site]. http://techcrunch.com/2010/12/08/googles-next-big-thing
+Siegler, M. G. "Marissa Mayer’s Next Big Thing: 'Contextual Discovery'&#8212;Google results without search,” *TechCrunch,* December 8, 2010, http://techcrunch.com/2010/12/08/googles-next-big-thing.
+
 
 Simon, H. (1956). Rational choice and the structure of the environment. *Psychological Review, 63*(2). pp. 129-138.
 
@@ -478,7 +482,7 @@ Stark, L. (2018, March 18). The Long History of Computer Science and Psychology 
 
 Stephen, B. (2018, June 7). MIT fed an AI data from Reddit, and now it only thinks about murder. *The Verge.* Retrieved from https://www.theverge.com/2018/6/7/17437454/mit-ai-psychopathic-reddit-data-algorithmic-bias
 
-Sundar, S. S. (2008). The MAIN model: A heuristic approach to understanding technology effects on credibility. In M. Metzger & A. Flanagin (Eds.). *Digital media, youth, and credibility.* Cambridge, MA: MIT Press. pp. 73-100.
+S. Shyam Sundar, "The MAIN model: A heuristic approach to understanding technology effects on credibility," eds. Miriam J. Metzger and Andrew J. Flanagin, *Digital media, youth, and credibility* (Cambridge, MA: MIT Press, 2008), 73-100.
 
 Sweeny, L. (2013). Discrimination in online ad delivery. *Communications of the ACM, 56*(5). pp. 44-54.
 
@@ -512,7 +516,7 @@ Turkle, S. (1997). *Life on the screen: Identity in the age of the internet.* Ne
 
 Turner, D. (2015, December 8). Design, White Lies & Ethics. *A List Apart.* Retrieved from https://alistapart.com/article/design-white-lies-ethics
 
-Vaidhyanathan, S. (2011). *The Googlization of everything (and why we should worry).* Berkely: University of California Press.
+Vaidhyanathan, Siva. *The Googlization of everything (and why we should worry),* (Berkely: University of California Press, 2011)
 
 Vallor, S. (2016). *Technology and the virtues: A philosophocal guide to a future worth wanting.* Oxford: Oxford University Press.
 
