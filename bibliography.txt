@@ -9,7 +9,7 @@ Albright, Jonathan. "#NotOKGoogle Search Suggestions: 2018 Edition." *Medium* (b
 
 --
 
-American Library Association. (2008, January 22). Code of Ethics. Retrieved from http://www.ala.org/tools/ethics
+"Code of Ethics," American Library Association, January 22, 2008, http://www.ala.org/tools/ethics.
 
 Ananny, M. (2011, April 14). The curious connection between apps for gay men ad sex offenders. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/
 
@@ -25,7 +25,7 @@ Angwin, J. (2016b, August 1). Make algorithms accountable. *New York Times.* p. 
 
 Julia Angwin and Surya Mattu, "Amazon Says It Puts Customers First. But Its Pricing Algorithm Doesn’t," *ProPublica,* September 20, 2016, https://www.propublica.org/article/amazon-says-it-puts-customers-first-but-its-pricing-algorithm-doesnt.
 
-Asher, A., Duke, L. M., & Wilson, S. (2013). Paths of discovery: Comparing the search effectiveness of EBSCO discovery service, Summon, Google Scholar, and conventional library resources. *College and Research Libraries.* TK. pp. 464-483. September 2013. 374? 
+Andrew Asher, Lynda M. Duke, and Suzanne Wilson, "Paths of discovery: Comparing the search effectiveness of EBSCO discovery service, Summon, Google Scholar, and conventional library resources," *College and Research Libraries,* 74, no. 5 (2013), 464-483.
 
 Baker, P., Potts, A. (2013). 'Why do white people have thin lips?' Google and the perpetuation of stereotypes via auto-complete search forms. *Critical discourse studies. 10*(2). pp. 187-204.
 
@@ -83,9 +83,9 @@ Budd, J. (2003). The library, praxis, and symbolic power. *The Library Quarterly
 
 Buranyi, S. (2018, March 3). How to persuade a robot that you should get the job. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2018/mar/04/robots-screen-candidates-for-jobs-artificial-intelligence
 
-Burke, J. (2010). Discovery versus Disintermediation: the new reality driven by today’s end-user. Talk presented at VALA 2010. Retrieved from http://www.vala.org.au/vala2010/papers2010/VALA2010_57_Burke_Final.pdf
+Jane Burke, "Discovery versus Disintermediation: the new reality driven by today’s end-user," Paper presented at the VALA Conference, Melbourne, Australia, February, 2010, http://www.vala.org.au/vala2010/papers2010/VALA2010_57_Burke_Final.pdf.
 
-Cadwalladr, C. (2016, December 4). Google, democracy and the truth about internet search. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-search-facebook
+Carole Cadwalladr, "Google, democracy and the truth about internet search," *The Guardian,* December 4, 2016, https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-search-facebook.
 
 Carole Cadwalladr, "How to bump Holocaust deniers off Google’s top spot? Pay Google," *The Guardian,* December 17, 2016, https://www.theguardian.com/technology/2016/dec/17/holocaust-deniers-google-search-top-spot.
 
@@ -121,7 +121,7 @@ Dahir, I. (2017, October 10). Google Translate Thinks "Ooga Booga Wooga" Is Soma
 
 Davis, B. (2017, August 24). AI and search: How one agency does keyword classification at scale using machine learning. *eConsultancy.* Retrieved from https://econsultancy.com/ai-and-search-how-one-agency-does-keyword-classification-at-scale-using-machine-learning/
 
-Davis, S.P. (2002). HILCC, A Hierarchical Interface to Library of Congress Classification. *Journal of Internet Cataloging, 5*(4), pp. 19-49.
+Stephen Paul Davis, "HILCC, A Hierarchical Interface to Library of Congress Classification," *Journal of Internet Cataloging,* 5, no. 4 (2002), 19-49.
 
 Denecke, K. (2012). Diversity-aware search: New possibilities and challenges for web search. In D. Lewandowski, ed. *Web Search Engine Research.* TK: Emerald Publishing Ltd. pp. 139-162.
 
@@ -137,15 +137,15 @@ Dwoskin, E. (2015). How Social Bias Creeps Into Web Technology; Software can lea
 
 Jim Dwyer, "A push to expose the computing process in city decision-making," *New York Times,* August 24, 2017, https://www.nytimes.com/2017/08/24/nyregion/showing-the-algorithms-behind-new-york-city-services.html.
 
-East Brunswick Public Library. (n.d.). Online Databases. Retrieved from https://www.ebpl.org/main/online_databases_info.cfm
+"Online Databases," East Brunswick Public Library, accessed October 14, 2018, https://www.ebpl.org/main/online_databases_info.cfm.
 
-EBSCO. (n.d.). EBSCO Discovery Service (EDS) - Discipline Limited Searching. Retrieved from https://help.ebsco.com/interfaces/EBSCO_Discovery_Service/EDS_User_Guide/EDS_Discipline_Limited_Search
+"EBSCO Discovery Service (EDS) - Discipline Limited Searching," EBSCO Connect, October 18, 2018, https://connect.ebsco.com/s/article/EBSCO-Discovery-Service-EDS-Discipline-Limited-Searching?language=en_US.
 
-EBSCO. (n.d.). EBSCO License Agreement. Retrieved from https://www.ebsco.com/terms-of-use
+"EBSCO License Agreement," EBSCO, accessed February 12, 2019, https://www.ebsco.com/terms-of-use.
 
-EBSCO. (n.d.) What is the Available in Library Collection limiter in EBSCO Discovery Service? Retrieved from https://help.ebsco.com/interfaces/EBSCO_Discovery_Service/EDS_FAQs/Available_in_Library_Collection_limiter_EDS
+"What is Available in Library Collection limiter in EBSCO Discovery Service?," EBSCO, accessed January 17, 2019, https://help.ebsco.com/interfaces/EBSCO_Discovery_Service/EDS_FAQs/Available_in_Library_Collection_limiter_EDS.
 
-EBSCO. (n.d.). What is the difference between Subject facets and Subject: Thesaurus Terms facets? Retrieved from https://help.ebsco.com/interfaces/EBSCOhost/EBSCOhost_FAQs/difference_between_Subject_facets_and_Subject_Thesaurus_Terms_facets
+"What is the difference between Subject facets and Subject: Thesaurus Terms facets?," EBSCO, accessed October 11, 2018, https://help.ebsco.com/interfaces/EBSCOhost/EBSCOhost_FAQs/difference_between_Subject_facets_and_Subject_Thesaurus_Terms_facets.
 
 EBSCO. (2018, June). EBSCO Open Collaboration Policy for Technical Interoperability and Bibliographic Record Sharing. Retrieved from https://www.ebsco.com/open-collaboration-policy
 
@@ -153,7 +153,7 @@ Benjamin Edelman and Benjamin Lockwood, "Measuring Bias in "Organic" Web Search,
 
 Ekström, A. (2015, January). *The moral bias behind your search results.* Video File. Retrieved from https://www.ted.com/talks/andreas_ekstrom_the_moral_bias_behind_your_search_results
 
-Encyclopaedia Brittanica. (n.d.). Encyclopædia Britannica: Print encyclopaedia. Retrieved from https://www.britannica.com/topic/Encyclopaedia-Britannica-print-encyclopaedia
+"Encyclopædia Britannica: Print encyclopaedia," Encyclopædia Britannica, accessed October 13, 2018, https://www.britannica.com/topic/Encyclopaedia-Britannica-print-encyclopaedia.
 
 Epstein, R., & Robertson, R. (2015, August). The search engine manipulation effect (SEME) and its possible impact on the outcomes of elections. *Proceedings of the National Academy of Sciences of the United States, 112*(33). pp. E4512-E4521
 
@@ -163,15 +163,15 @@ Eubanks, V. (2017). *Automating Inequality: How high-tech tools profile, police,
 
 Executive Office of the President. (2014). *Big Data: Seizing opportunities, preserving values.*
 
-Ex Libris, (2014, February 20). Summon: Disciplines in the Summon Index. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Disciplines_in_the_Summon_Index
+"Summon: Disciplines in the Summon Index," Ex Libris Knowledge Base, February 20, 2014, https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Disciplines_in_the_Summon_Index.
 
-Ex Libris. (2014, February 21). Summon: Add Results Beyond Your Library's Collection. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Add_Results_Beyond_Your_Library's_Collection
+"Summon: Add Results Beyond Your Library's Collection," Ex Libris Knowledge Base, February 21, 2014, https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Add_Results_Beyond_Your_Library's_Collection.
 
 Ex Libris. (2014, February 21). Summon: Index-Enhanced Direct Linking to Provider Content. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Configuring_The_Summon_Service/Direct_Linking_in_the_Summon_Service/Summon%3A_Index-Enhanced_Direct_Linking_to_Provider_Content
 
-Ex Libris. (2014, March 24). Summon: Phrase, Field, Boolean, Wildcard and Proximity Searching. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Boolean%2C_Phrase%2C_Wildcard_and_Proximity_Searching
+"Summon: Phrase, Field, Boolean, Wildcard and Proximity Searching," Ex Libris Knowledge Center, March 24, 2014, https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Boolean%2C_Phrase%2C_Wildcard_and_Proximity_Searching.
 
-Ex Libris. (2016, August 15). Summon: Record Contents and Display. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Record_Contents_and_Display
+"Summon: Record Contents and Display," Ex Libris, August 15, 2016, https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Record_Contents_and_Display.
 
 Ex Libris. (2016a, August 25). Summon: Topic Explorer. [Web page]. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Topic_Explorer
 
@@ -179,7 +179,7 @@ Ex Libris. (2016b, September 3). Summon: Autocomplete Feature. [Web page]. Retri
 
 Ex Libris. (2017, May 18). Why do I get an error page when linking out to EBSCOhost databases? Retrieved from https://knowledge.exlibrisgroup.com/Summon/Knowledge_Articles/Why_do_I_get_an_error_page_when_linking_out_to_EBSCOhost_databases
 
-Ex Libris. (n.d.). Personalizing Search Results in Primo VE. [Web page]/ Retrieved from https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/100End_User_Help/015Personalizing_Search_Results_in_Primo_VE
+"Personalizing Search Results in Primo VE," Ex Libris Knowledge Center, accessed February 12, 2019, https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/100End_User_Help/015Personalizing_Search_Results_in_Primo_VE.
 
 Ex Libris. (n.d.). Summon Topics. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Results/Summon%3A_Summon_Topics
 
@@ -217,7 +217,7 @@ Goffey, A. (2008). Algorithm. In M. Fuller (Ed.) *Software Studies: A Lexicon*. 
 
 Goodman, K. (2017). Humanity, Theirs and Ours, in Edtech Development. *ThinqStudio: University of Colorado Denver.* Retrieved from http://thinq.studio/digped-2017/humanity-theirs-and-ours-in-edtech-development/
 
-Google. (2007, April 16). Terms of Service. Retrieved from https://tools.google.com/dlpage/res/webmmf/en/eula.html
+"Terms of Service," Google.com, April 16, 2007, https://tools.google.com/dlpage/res/webmmf/en/eula.html.
 
 Google. (2012, May 16). Introducing the knowledge graph: Things, not strings. [Web log]. Retrieved from https://googleblog.blogspot.com/2012/05/introducing-knowledge-graph-things-not.html
 
@@ -351,7 +351,7 @@ Narayanan, Arvind, Twitter post, August 27, 2017, 9:57am, https://twitter.com/ra
 
 Nardi, B.A., & O'Day, V.L. (1999). *Information ecologies: Using technology with heart.* Cambridge, MA: MIT Press.
 
-(2018, October 1). Net Market Share. [Web site]. Retrieved from https://www.netmarketshare.com/search-engine-market-share.aspx
+"Search Engine Market Share," Net Market Share, accessed October 1, 2018, https://www.netmarketshare.com/search-engine-market-share.aspx.
 
 Newitz, A. (2017, April 18). Princeton researchers discover why AI become racist and sexist. *Ars Technica.* Retrieved from https://arstechnica.com/science/2017/04/princeton-scholars-figure-out-why-your-ai-is-racist/
 
@@ -373,9 +373,9 @@ Noble, S. and Roberts, S. T. (2017). Engine failure: Safiya Umoja Noble and Sara
 
 --. (2017, March 13). Out of the Black Box. *Educause Review.* Retrieved from https://er.educause.edu/articles/2017/3/out-of-the-black-box
 
-OCLC. (2009, September 24). OCLC WorldCat.org Services Terms and Conditions. Retrieved from https://www.oclc.org/content/dam/ext-ref/worldcat-org/terms.html
+"OCLC WorldCat.org Services Terms and Conditions," OCLC WorldCat, September 24, 2009, https://www.oclc.org/content/dam/ext-ref/worldcat-org/terms.html
 
---. (2018, February 27). Introduction to WorldCat Discovery. Retrieved from https://help.oclc.org/Discovery_and_Reference/WorldCat_Discovery/Get_started/Introduction_to_WorldCat_Discovery_video
+"Introduction to WorldCat Discovery," OCLC, December 23, 2018, https://help.oclc.org/Discovery_and_Reference/WorldCat_Discovery/Get_started/Introduction_to_WorldCat_Discovery_video.
 
 Olson, H. A. (2002). *The power to name: Locating the limits of subject representation in libraries.* Dordrecht, Netherlands: Kluwer Academic Publishers.
 
@@ -401,7 +401,7 @@ Pasquale, F. (2015). *The black box society: The secret algorithms that control 
 
 Pattern, D. (2012, May 6). Relevance Rules. [Web log]. Retrieved from https://www.daveyp.com/2012/05/06/relevancy-rules/
 
-Pattern, D. (2013, May 25). Dumping the OPAC #2 - usage data. [Web log]. Retrieved from https://www.daveyp.com/2013/05/25/dumping-the-opac-2-usage-data/
+Pattern, Dave. "Dumping the OPAC #2&#8212;usage data," Self Plagiarism is Style, May 25, 2013, https://www.daveyp.com/2013/05/25/dumping-the-opac-2-usage-data.
 
 Perusall. (n.d.). Web page. Retrieved from https://perusall.com/
 
@@ -416,6 +416,8 @@ Pockrass, B. (2017, October 11). NASCAR - you're being watched while you watch. 
 Powers, W. (2010). *Twelve by twelve: A one-room cabin off the grid and beyond the American Dream*. New York: New World Library.
 
 Powles, J. (2017, December 20). New York City’s Bold, Flawed Attempt to Make Algorithms Accountable. *The New Yorker.* Retrieved from https://www.newyorker.com/tech/annals-of-technology/new-york-citys-bold-flawed-attempt-to-make-algorithms-accountable
+
+"Primo Central Terms of Service," Ex Libris Knowledge Center, accessed February 12, 2019, https://knowledge.exlibrisgroup.com/Primo/Content_Corner/Product_Documentation/Primo_Central_Terms_of_Service
 
 Kristen Purcell, Joanna Brenner, and Lee Rainie, "Search Engine Use 2012," *Pew Internet and American Life Project,* March 9, 2012, Retrieved from http://www.pewinternet.org/2012/03/09/search-engine-use-2012/.
 
@@ -520,7 +522,7 @@ Vaidhyanathan, Siva. *The Googlization of everything (and why we should worry),*
 
 Vallor, S. (2016). *Technology and the virtues: A philosophocal guide to a future worth wanting.* Oxford: Oxford University Press.
 
-Van Halsema, L. (2014, September 29). Google vs. Library Databases: Which is Better for Research? [Web log]. Retrieved from http://www.sirsidynix.com/blog/2014/09/29/google-vs-library-databases-which-is-better-for-research
+Van Halsema, Liz. "Google vs. Library Databases: Which is Better for Research?," SirsiDynix, September 29, 2014, http://www.sirsidynix.com/blog/2014/09/29/google-vs-library-databases-which-is-better-for-research.
 
 Vaughan, L., & Thelwall, M. (2004). Search engine coverage bias: Evidence and possible causes. *Information Processing and Management, 40*(2). pp. 693-707.
 
@@ -528,7 +530,7 @@ Vicens, A. (2017, September 20). Top Facebook Exec Sheryl Sandberg Just Apologiz
 
 Vinsel, L. (2017, December 6).Design Thinking is Kind of Like Syphilis — It’s Contagious and Rots Your Brains. [Web log]. Retrieved from https://medium.com/@sts_news/design-thinking-is-kind-of-like-syphilis-its-contagious-and-rots-your-brains-842ed078af29
 
-VuFind. (2017, April 21). Indexing. Retrieved from https://vufind.org/wiki/indexing
+"Indexing," VuFind.org, April 21, 2017, https://vufind.org/wiki/indexing.
 
 Wachter-Boettcher, S. (2017). *Technically Wrong: Sexist apps, biased algorithms, and other threats of toxic tech*. New York: W.W. Norton.
 
@@ -548,9 +550,9 @@ Wiener, N. (1954). *The human use of human beings: Cybernetics and society.* Gar
 
 Wiggers, K. (2018, May 25). Microsoft is developing a tool to help engineers catch bias in algorithms. *VentureBeat.* Retrieved from https://venturebeat.com/2018/05/25/microsoft-is-developing-a-tool-to-help-engineers-catch-bias-in-algorithms/
 
-Wikipedia. (2015, June 11). Christopher Lee: History. Retrieved from https://en.wikipedia.org/w/index.php?title=Christopher_Lee&oldid=666471973
+"Christopher Lee: History," *Wikipedia,* June 11, 2015, https://en.wikipedia.org/w/index.php?title=Christopher_Lee&oldid=666471973.
 
-Wikipeda. (2018, March 9). Article Development. Retrieved from https://en.wikipedia.org/wiki/Wikipedia:Article_development
+"Article Development," *Wikipeda*, March 9, 2018, https://en.wikipedia.org/wiki/Wikipedia:Article_development.
 
 Willson, M. (2017). Algorithms (and the) everyday. *Information, Communication & Society, 20*(1). pp. 137-150. DOI: 10.1080/1369118X.2016.1200645
 
