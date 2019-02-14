@@ -11,7 +11,7 @@ Albright, Jonathan. "#NotOKGoogle Search Suggestions: 2018 Edition." *Medium* (b
 
 "Code of Ethics," American Library Association, January 22, 2008, http://www.ala.org/tools/ethics.
 
-Ananny, M. (2011, April 14). The curious connection between apps for gay men ad sex offenders. *The Atlantic*. Retrieved from https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/
+Mike Ananny, "The curious connection between apps for gay men ad sex offenders," *The Atlantic*, April 14, 2011, https://www.theatlantic.com/technology/archive/2011/04/the-curious-connection-between-apps-for-gay-men-and-sex-offenders/237340/.
 
 --. (2016). Toward an ethics of algorithms: Convening, observation, probability, and timeliness. *Science, Technology, & Human Values. 41*(1). pp. 93-117.
 
@@ -27,7 +27,7 @@ Julia Angwin and Surya Mattu, "Amazon Says It Puts Customers First. But Its Pric
 
 Andrew Asher, Lynda M. Duke, and Suzanne Wilson, "Paths of discovery: Comparing the search effectiveness of EBSCO discovery service, Summon, Google Scholar, and conventional library resources," *College and Research Libraries,* 74, no. 5 (2013), 464-483.
 
-Baker, P., Potts, A. (2013). 'Why do white people have thin lips?' Google and the perpetuation of stereotypes via auto-complete search forms. *Critical discourse studies. 10*(2). pp. 187-204.
+Paul Baker and Amanda Potts, "'Why do white people have thin lips?' Google and the perpetuation of stereotypes via auto-complete search forms," *Critical discourse studies,* 10, no. 2 (2013), 187-204.
 
 Bakshy, E., Rosenn, I., Marlow, C., Adamic, L. (2012). The role of social networks in information diffusion. *Proceedings of the 21st international conference on World Wide Web.* Retrieved from https://dl.acm.org/citation.cfm?doid=2187836.2187907
 
@@ -43,7 +43,7 @@ BBC News. (2015, July 1). "Google apologises for Photos app's racist blunder." *
 
 BBC News. (2009, March 28). 'DNA bungle' haunts German police. *BBC News.* Retrieved from http://news.bbc.co.uk/2/hi/europe/7966641.stm
 
-Beer, D. (2017). The social power of algorithms. *Information, Communication & Society, 20*(1). pp. 1-13. DOI: 10.1080/1369118X.2016.1216147
+Beer, David. (2017). The social power of algorithms. *Information, Communication & Society, 20*(1). pp. 1-13. DOI: 10.1080/1369118X.2016.1216147
 
 Beer, S. (2002). What is Cybernetics? *Kybernetes, 31*(2). pp. 209-19.
 
@@ -157,7 +157,7 @@ Ekström, A. (2015, January). *The moral bias behind your search results.* Video
 
 Epstein, R., & Robertson, R. (2015, August). The search engine manipulation effect (SEME) and its possible impact on the outcomes of elections. *Proceedings of the National Academy of Sciences of the United States, 112*(33). pp. E4512-E4521
 
-Eslami, M., Rickman, A., Vaccaro, K., Aleyasen, A., Vuong, A., Karahalios, K., Hamilton, K., & Sandivig, C. (2015). "I always assumed that I wasn't really close to [her]": Reasoning about invisible algorithms in news feeds. *33rd Annual ACM Conference on Human Factors in Computing Systems.* pp. 153- 162.
+Eslami, Motahhare & Rickman, Aimee & Vaccaro, Kristen & Aleyasen, Amirhossein & Vuong, Andy & Karahalios, Karrie & Hamilton, Kevin & Sandvig, Christian.  (2015). "I always assumed that I wasn't really close to [her]": Reasoning about invisible algorithms in news feeds. *33rd Annual ACM Conference on Human Factors in Computing Systems.* pp. 153- 162.
 
 Eubanks, V. (2017). *Automating Inequality: How high-tech tools profile, police, and punish the poor*. New York: St. Martin's Press.
 
@@ -325,7 +325,7 @@ Mann, M. (2011, April 15). Twitter post. Retrieved from https://twitter.com/hotd
 
 Marshall, J. K. (1972). LC Labeling: An indictment. In C. West & E. Katz, eds. *Revolting Librarians.* San Francisco: Booklegger Press. pp. TK.
 
-Meredith, S. (2017, September 8). A.I. can detect the sexual orientation of a person based on one photo, research shows. *CNBC.* Retrieved from https://www.cnbc.com/2017/09/08/a-i-can-detect-the-sexual-orientation-of-a-person-based-on-one-photo-research-shows.html
+Sam Meredith, "A.I. can detect the sexual orientation of a person based on one photo, research shows," *CNBC,* September 8, 2017, https://www.cnbc.com/2017/09/08/a-i-can-detect-the-sexual-orientation-of-a-person-based-on-one-photo-research-shows.html.
 
 Meyer, E., & Wachter-Boettcher, S. (2016). *Design for real life.* New York: A Book Apart.
 
@@ -335,7 +335,7 @@ Mittelstadt, B.D., Allo, P., Taddeo, M., Wachter, S., & Floridi, L. (2016). The 
 
 Monterio, M. (2013). *How designers destroyed the world.* Paper presented at Webstock 2013. Retrieved from https://vimeo.com/68470326
 
-Mowshowitz, A., & Kawaguchi, A. (2002). Assessing bias in search engines. *Information Processing and Management, 38*(1). pp. 141-156.
+Abbe Mowshowitz and Akira Kawaguchi, "Assessing bias in search engines," *Information Processing and Management,* 38, no. 1 (2013), 141-156.
 
 -- (2005). Measuring search engine bias. *Information Processing and Management, 41*(3). pp. 1193-1205.
 
@@ -478,7 +478,7 @@ Natasha Singer, "Your Online Attention, Bought in an Instant," *New York Times,*
 
 --. (2018, February 12). Universities Rush to Roll Out Computer Science Ethics Courses. *New York Times.* Retrieved from https://www.nytimes.com/2018/02/12/business/computer-science-ethics-courses.html
 
-Solon, O., & Levin, S. (2016, December 16). How Google's search algorithm spreads false information with a rightwing bias. *The Guardian.* Retrieved from https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda
+Olivia Solon and Sam Levin, "How Google's search algorithm spreads false information with a rightwing bias," *The Guardian,* December 16, 2016, https://www.theguardian.com/technology/2016/dec/16/google-autocomplete-rightwing-bias-algorithm-political-propaganda.
 
 Stark, L. (2018, March 18). The Long History of Computer Science and Psychology Comes Into View. *Slate.* Retrieved from https://slate.com/technology/2018/03/cambridge-analytica-and-the-long-history-of-computer-science-and-psychology.html
 
@@ -486,7 +486,7 @@ Stephen, B. (2018, June 7). MIT fed an AI data from Reddit, and now it only thin
 
 S. Shyam Sundar, "The MAIN model: A heuristic approach to understanding technology effects on credibility," eds. Miriam J. Metzger and Andrew J. Flanagin, *Digital media, youth, and credibility* (Cambridge, MA: MIT Press, 2008), 73-100.
 
-Sweeny, L. (2013). Discrimination in online ad delivery. *Communications of the ACM, 56*(5). pp. 44-54.
+Latanya Sweeney, "Discrimination in online ad delivery," *Communications of the ACM,* 56, no. 5 (2013), 44-54.
 
 Sweeney, M. (2013). *Not just a pretty (inter)face: A critical analysis of Microsoft's 'Ms. Dewey.* (PhD dissertation, University of Illinois at Urbana-Champaign.) Retrieved from https://www.ideals.illinois.edu/bitstream/handle/2142/46617/Miriam_Sweeney.pdf
 
