@@ -167,7 +167,7 @@ Executive Office of the President. (2014). *Big Data: Seizing opportunities, pre
 
 "Summon: Add Results Beyond Your Library's Collection," Ex Libris Knowledge Base, February 21, 2014, https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Add_Results_Beyond_Your_Library's_Collection.
 
-Ex Libris. (2014, February 21). Summon: Index-Enhanced Direct Linking to Provider Content. Retrieved from https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Configuring_The_Summon_Service/Direct_Linking_in_the_Summon_Service/Summon%3A_Index-Enhanced_Direct_Linking_to_Provider_Content
+"Summon: Index-Enhanced Direct Linking to Provider Content," Ex Libris Knowledge Center, February 21, 2014, https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Configuring_The_Summon_Service/Direct_Linking_in_the_Summon_Service/Summon%3A_Index-Enhanced_Direct_Linking_to_Provider_Content.
 
 "Summon: Phrase, Field, Boolean, Wildcard and Proximity Searching," Ex Libris Knowledge Center, March 24, 2014, https://knowledge.exlibrisgroup.com/Summon/Product_Documentation/Searching_in_The_Summon_Service/Search_Features/Summon%3A_Boolean%2C_Phrase%2C_Wildcard_and_Proximity_Searching.
 
