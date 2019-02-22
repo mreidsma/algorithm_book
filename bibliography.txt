@@ -123,7 +123,7 @@ Davis, B. (2017, August 24). AI and search: How one agency does keyword classifi
 
 Stephen Paul Davis, "HILCC, A Hierarchical Interface to Library of Congress Classification," *Journal of Internet Cataloging,* 5, no. 4 (2002), 19-49.
 
-Denecke, K. (2012). Diversity-aware search: New possibilities and challenges for web search. In D. Lewandowski, ed. *Web Search Engine Research.* TK: Emerald Publishing Ltd. pp. 139-162.
+Denecke, Kerstin. (2012). Diversity-aware search: New possibilities and challenges for web search. In D. Lewandowski, ed. *Web Search Engine Research.* TK: Emerald Publishing Ltd. pp. 139-162.
 
 Discovery System. (n.d.). In *Wikipedia*. Retrieved from https://en.wikipedia.org/wiki/Discovery_system
 
@@ -549,6 +549,8 @@ White, R., & Marchionini, G. (2007). Examining the effectiveness of real-time qu
 Wiener, N. (1954). *The human use of human beings: Cybernetics and society.* Garden City, NY: Doubleday Anchor Books.
 
 Wiggers, K. (2018, May 25). Microsoft is developing a tool to help engineers catch bias in algorithms. *VentureBeat.* Retrieved from https://venturebeat.com/2018/05/25/microsoft-is-developing-a-tool-to-help-engineers-catch-bias-in-algorithms/
+
+Langdon Winner, "Do Artifacts Have Politics?," *Daedalus,* 109, no. 1 (1980), 121-136.
 
 "Christopher Lee: History," *Wikipedia,* June 11, 2015, https://en.wikipedia.org/w/index.php?title=Christopher_Lee&oldid=666471973.
 
